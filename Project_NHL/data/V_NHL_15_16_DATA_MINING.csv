@@ -1,0 +1,1210 @@
+"ROWNUM","SCORE_GLOBAL_IMP_ID","MATCHDATE","HOMETEAM_ID","HOMETEAM","VISITORTEAM_ID","VISITORTEAM","HOME_TOTALSCORE","VISITOR_TOTALSCORE","SUM_TOTALSCORE","SUM_TOTALSCORE_REGULAR_TIME","SUM_TTL_RGLR_TIME_LESS_45","SUM_TTL_RGLR_TIME_LESS_55","SUM_TTL_RGLR_TIME_LESS_65","WINNER","OVERTIME","SHOOTOUT","OVERTIME_FLAG","HOME_PREV_GOALS","HOME_PREV_AGAINST_GOALS","OVERTIME_FLAG_CHAR","HOME_PREV_POINTS","VISITOR_PREV_POINTS","VISITOR_PREV_GOALS","VISITOR_PREV_AGAINST_GOALS","HOME_SUM_PREV_GOALS","HOME_SUM_PREV_AGAINST_GOALS","HOME_SUM_PREV_POINTS","VISITOR_SUM_PREV_GOALS","VISITOR_SUM_PREV_AGAINST_GOALS","VISITOR_SUM_PREV_POINTS","DIFF_PREV_GOALS","DIFF_PREV_AGAINST_GOALS","DIFF_PREV_POINTS"
+1,1_NHL_2015_2016,08.10.2015 00:00:00,82,Toronto Maple Leafs,70,Montreal Canadiens,1,3,4,4,Yes,Yes,Yes,2,,,0,0,0,No,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,2_NHL_2015_2016,08.10.2015 00:00:00,61,Chicago Blackhawks,74,New York Rangers,2,3,5,5,No,Yes,Yes,2,,,0,0,0,No,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,4_NHL_2015_2016,08.10.2015 00:00:00,68,Los Angeles Kings,79,San Jose Sharks,1,5,6,6,No,No,Yes,2,,,0,0,0,No,0,0,0,0,0,0,0,0,0,0,0,0,0
+4,3_NHL_2015_2016,08.10.2015 00:00:00,59,Calgary Flames,83,Vancouver Canucks,1,5,6,6,No,No,Yes,2,,,0,0,0,No,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,8_NHL_2015_2016,09.10.2015 00:00:00,71,Nashville Predators,60,Carolina Hurricanes,2,1,3,3,Yes,Yes,Yes,1,,,0,0,0,No,0,0,0,0,0,0,0,0,0,0,0,0,0
+6,9_NHL_2015_2016,09.10.2015 00:00:00,80,St. Louis Blues,66,Edmonton Oilers,3,1,4,4,Yes,Yes,Yes,1,,,0,0,0,No,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,11_NHL_2015_2016,09.10.2015 00:00:00,62,Colorado Avalanche,69,Minnesota Wild,4,5,9,9,No,No,No,2,,,0,0,0,No,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,6_NHL_2015_2016,09.10.2015 00:00:00,58,Buffalo Sabres,75,Ottawa Senators,1,3,4,4,Yes,Yes,Yes,2,,,0,0,0,No,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,7_NHL_2015_2016,09.10.2015 00:00:00,81,Tampa Bay Lightning,76,Philadelphia Flyers,3,2,5,4,Yes,Yes,Yes,1,1,,1,0,0,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,10_NHL_2015_2016,09.10.2015 00:00:00,64,Dallas Stars,78,Pittsburgh Penguins,3,0,3,3,Yes,Yes,Yes,1,,,0,0,0,No,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,5_NHL_2015_2016,09.10.2015 00:00:00,57,Boston Bruins,85,Winnipeg Jets,2,6,8,8,No,No,No,2,,,0,0,0,No,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,16_NHL_2015_2016,10.10.2015 00:00:00,68,Los Angeles Kings,77,Arizona Coyotes,1,4,5,5,No,Yes,Yes,2,,,0,1,5,No,0,0,0,0,1,5,0,0,0,0,1,5,0
+13,15_NHL_2015_2016,10.10.2015 00:00:00,73,New York Islanders,61,Chicago Blackhawks,2,3,5,4,Yes,Yes,Yes,2,1,,1,0,0,Yes,0,0,2,3,0,0,0,2,3,0,-2,-3,0
+14,13_NHL_2015_2016,10.10.2015 00:00:00,63,Columbus Blue Jackets,74,New York Rangers,2,4,6,6,No,No,Yes,2,,,0,0,0,No,0,3,3,2,0,0,0,3,2,3,-3,-2,-3
+15,17_NHL_2015_2016,10.10.2015 00:00:00,58,Buffalo Sabres,81,Tampa Bay Lightning,1,4,5,5,No,Yes,Yes,2,,,0,1,3,No,0,2,3,2,1,3,0,3,2,2,-2,1,-2
+16,14_NHL_2015_2016,10.10.2015 00:00:00,65,Detroit Red Wings,82,Toronto Maple Leafs,4,0,4,4,Yes,Yes,Yes,1,,,0,0,0,No,0,0,1,3,0,0,0,1,3,0,-1,-3,0
+17,12_NHL_2015_2016,10.10.2015 00:00:00,72,New Jersey Devils,85,Winnipeg Jets,1,3,4,4,Yes,Yes,Yes,2,,,0,0,0,No,0,3,6,2,0,0,0,6,2,3,-6,-2,-3
+18,30_NHL_2015_2016,11.10.2015 00:00:00,79,San Jose Sharks,56,Anaheim Ducks,2,0,2,2,Yes,Yes,Yes,1,,,0,5,1,No,3,0,0,0,5,1,3,0,0,0,5,1,3
+19,29_NHL_2015_2016,11.10.2015 00:00:00,83,Vancouver Canucks,59,Calgary Flames,2,3,5,4,Yes,Yes,Yes,2,1,,1,5,1,Yes,3,0,1,5,5,1,3,1,5,0,4,-4,3
+20,22_NHL_2015_2016,11.10.2015 00:00:00,74,New York Rangers,63,Columbus Blue Jackets,5,2,7,7,No,No,No,1,,,0,4,2,No,3,0,2,4,7,4,6,2,4,0,5,0,6
+21,27_NHL_2015_2016,11.10.2015 00:00:00,62,Colorado Avalanche,64,Dallas Stars,6,3,9,9,No,No,No,1,,,0,4,5,No,0,3,3,0,4,5,0,3,0,3,1,5,-3
+22,18_NHL_2015_2016,11.10.2015 00:00:00,60,Carolina Hurricanes,65,Detroit Red Wings,3,4,7,7,No,No,No,2,,,0,1,2,No,0,3,4,0,1,2,0,4,0,3,-3,2,-3
+23,19_NHL_2015_2016,11.10.2015 00:00:00,71,Nashville Predators,66,Edmonton Oilers,2,0,2,2,Yes,Yes,Yes,1,,,0,2,1,No,3,0,1,3,2,1,3,1,3,0,1,-2,3
+24,23_NHL_2015_2016,11.10.2015 00:00:00,57,Boston Bruins,70,Montreal Canadiens,2,4,6,6,No,No,Yes,2,,,0,2,6,No,0,3,3,1,2,6,0,3,1,3,-1,5,-3
+25,20_NHL_2015_2016,11.10.2015 00:00:00,84,Washington Capitals,72,New Jersey Devils,5,3,8,8,No,No,No,1,,,0,0,0,No,0,0,1,3,0,0,0,1,3,0,-1,-3,0
+26,26_NHL_2015_2016,11.10.2015 00:00:00,61,Chicago Blackhawks,73,New York Islanders,4,1,5,5,No,Yes,Yes,1,,,0,3,2,No,2,1,2,3,5,5,2,2,3,1,3,2,1
+27,24_NHL_2015_2016,11.10.2015 00:00:00,82,Toronto Maple Leafs,75,Ottawa Senators,4,5,9,8,No,No,No,2,,1,1,0,4,Yes,0,3,3,1,1,7,0,3,1,3,-2,6,-3
+28,21_NHL_2015_2016,11.10.2015 00:00:00,67,Florida Panthers,76,Philadelphia Flyers,7,1,8,8,No,No,No,1,,,0,0,0,No,0,1,2,3,0,0,0,2,3,1,-2,-3,-1
+29,28_NHL_2015_2016,11.10.2015 00:00:00,77,Arizona Coyotes,78,Pittsburgh Penguins,2,1,3,3,Yes,Yes,Yes,1,,,0,4,1,No,3,0,0,3,4,1,3,0,3,0,4,-2,3
+30,25_NHL_2015_2016,11.10.2015 00:00:00,69,Minnesota Wild,80,St. Louis Blues,3,2,5,5,No,Yes,Yes,1,,,0,5,4,No,3,3,3,1,5,4,3,3,1,3,2,3,0
+31,34_NHL_2015_2016,12.10.2015 00:00:00,58,Buffalo Sabres,63,Columbus Blue Jackets,4,2,6,6,No,No,Yes,1,,,0,1,4,No,0,0,2,5,2,7,0,4,9,0,-2,-2,0
+32,31_NHL_2015_2016,12.10.2015 00:00:00,75,Ottawa Senators,70,Montreal Canadiens,1,3,4,4,Yes,Yes,Yes,2,,,0,5,4,No,2,3,4,2,8,5,5,7,3,6,1,2,-1
+33,32_NHL_2015_2016,12.10.2015 00:00:00,57,Boston Bruins,81,Tampa Bay Lightning,3,6,9,9,No,No,No,2,,,0,2,4,No,0,3,4,1,4,10,0,7,3,5,-3,7,-5
+34,33_NHL_2015_2016,12.10.2015 00:00:00,73,New York Islanders,85,Winnipeg Jets,4,2,6,6,No,No,Yes,1,,,0,1,4,No,0,3,3,1,3,7,1,9,3,6,-6,4,-5
+35,35_NHL_2015_2016,13.10.2015 00:00:00,76,Philadelphia Flyers,67,Florida Panthers,1,0,1,1,Yes,Yes,Yes,1,,,0,1,7,No,0,3,7,1,3,10,1,7,1,3,-4,9,-2
+36,36_NHL_2015_2016,13.10.2015 00:00:00,56,Anaheim Ducks,83,Vancouver Canucks,1,2,3,2,Yes,Yes,Yes,2,,1,1,0,2,Yes,0,1,2,3,0,2,0,7,4,4,-7,-2,-4
+37,43_NHL_2015_2016,14.10.2015 00:00:00,64,Dallas Stars,66,Edmonton Oilers,4,2,6,6,No,No,Yes,1,,,0,3,6,No,0,0,0,2,6,6,3,1,5,0,5,1,3
+38,37_NHL_2015_2016,14.10.2015 00:00:00,60,Carolina Hurricanes,67,Florida Panthers,1,4,5,5,No,Yes,Yes,2,,,0,3,4,No,0,0,0,1,4,6,0,7,2,3,-3,4,-3
+39,39_NHL_2015_2016,14.10.2015 00:00:00,78,Pittsburgh Penguins,70,Montreal Canadiens,2,3,5,5,No,Yes,Yes,2,,,0,1,2,No,0,3,3,1,1,5,0,10,4,9,-9,1,-9
+40,40_NHL_2015_2016,14.10.2015 00:00:00,72,New Jersey Devils,71,Nashville Predators,1,3,4,4,Yes,Yes,Yes,2,,,0,3,5,No,0,3,2,0,4,8,0,4,1,6,0,7,-6
+41,41_NHL_2015_2016,14.10.2015 00:00:00,84,Washington Capitals,79,San Jose Sharks,0,5,5,5,No,Yes,Yes,2,,,0,5,3,No,3,3,2,0,5,3,3,7,1,6,-2,2,-3
+42,44_NHL_2015_2016,14.10.2015 00:00:00,59,Calgary Flames,80,St. Louis Blues,3,4,7,7,No,No,No,2,,,0,3,2,No,2,0,2,3,4,7,2,5,4,3,-1,3,-1
+43,42_NHL_2015_2016,14.10.2015 00:00:00,65,Detroit Red Wings,81,Tampa Bay Lightning,3,1,4,4,Yes,Yes,Yes,1,,,0,4,3,No,3,3,6,3,8,3,6,13,6,8,-5,-3,-2
+44,45_NHL_2015_2016,14.10.2015 00:00:00,68,Los Angeles Kings,83,Vancouver Canucks,0,3,3,3,Yes,Yes,Yes,2,,,0,1,4,No,0,2,2,1,2,9,0,9,5,6,-7,4,-6
+45,38_NHL_2015_2016,14.10.2015 00:00:00,74,New York Rangers,85,Winnipeg Jets,1,4,5,5,No,Yes,Yes,2,,,0,5,2,No,3,0,2,4,12,6,9,11,7,6,1,-1,3
+46,49_NHL_2015_2016,15.10.2015 00:00:00,56,Anaheim Ducks,77,Arizona Coyotes,0,4,4,4,Yes,Yes,Yes,2,,,0,1,2,No,1,3,2,1,1,4,1,6,2,6,-5,2,-5
+47,48_NHL_2015_2016,15.10.2015 00:00:00,62,Colorado Avalanche,57,Boston Bruins,2,6,8,8,No,No,No,2,,,0,6,3,No,3,0,3,6,10,8,3,7,16,0,3,-8,3
+48,47_NHL_2015_2016,15.10.2015 00:00:00,76,Philadelphia Flyers,61,Chicago Blackhawks,3,0,3,3,Yes,Yes,Yes,1,,,0,1,0,No,3,3,4,1,4,10,4,9,6,5,-5,4,-1
+49,46_NHL_2015_2016,15.10.2015 00:00:00,63,Columbus Blue Jackets,75,Ottawa Senators,3,7,10,10,No,No,No,2,,,0,2,4,No,0,0,1,3,6,13,0,9,8,5,-3,5,-5
+50,53_NHL_2015_2016,16.10.2015 00:00:00,67,Florida Panthers,58,Buffalo Sabres,3,2,5,5,No,Yes,Yes,1,,,0,4,1,No,3,3,4,2,11,3,6,6,9,3,5,-6,3
+51,50_NHL_2015_2016,16.10.2015 00:00:00,84,Washington Capitals,61,Chicago Blackhawks,4,1,5,5,No,Yes,Yes,1,,,0,0,5,No,0,0,0,3,5,8,3,9,9,5,-4,-1,-2
+52,54_NHL_2015_2016,16.10.2015 00:00:00,81,Tampa Bay Lightning,64,Dallas Stars,3,5,8,8,No,No,No,2,,,0,1,3,No,0,3,4,2,14,9,8,10,8,6,4,1,2
+53,57_NHL_2015_2016,16.10.2015 00:00:00,77,Arizona Coyotes,69,Minnesota Wild,3,4,7,7,No,No,No,2,,,0,4,0,No,3,3,3,2,10,2,9,8,6,6,2,-4,3
+54,51_NHL_2015_2016,16.10.2015 00:00:00,73,New York Islanders,71,Nashville Predators,4,3,7,7,No,No,No,1,,,0,4,2,No,3,3,3,1,7,9,4,7,2,9,0,7,-5
+55,55_NHL_2015_2016,16.10.2015 00:00:00,70,Montreal Canadiens,74,New York Rangers,3,0,3,3,Yes,Yes,Yes,1,,,0,3,2,No,3,0,1,4,13,6,12,13,10,9,0,-4,3
+56,52_NHL_2015_2016,16.10.2015 00:00:00,78,Pittsburgh Penguins,75,Ottawa Senators,2,0,2,2,Yes,Yes,Yes,1,,,0,2,3,No,0,3,7,3,3,8,0,16,11,8,-13,-3,-8
+57,56_NHL_2015_2016,16.10.2015 00:00:00,66,Edmonton Oilers,80,St. Louis Blues,2,4,6,6,No,No,Yes,2,,,0,2,4,No,0,3,4,3,3,9,0,9,7,6,-6,2,-6
+58,61_NHL_2015_2016,17.10.2015 00:00:00,85,Winnipeg Jets,59,Calgary Flames,3,1,4,4,Yes,Yes,Yes,1,,,0,4,1,No,3,0,3,4,15,8,9,7,11,2,8,-3,7
+59,60_NHL_2015_2016,17.10.2015 00:00:00,65,Detroit Red Wings,60,Carolina Hurricanes,3,5,8,8,No,No,No,2,,,0,3,1,No,3,0,1,4,11,4,9,5,10,0,6,-6,9
+60,62_NHL_2015_2016,17.10.2015 00:00:00,56,Anaheim Ducks,62,Colorado Avalanche,0,3,3,3,Yes,Yes,Yes,2,,,0,0,4,No,0,0,2,6,1,8,1,12,14,3,-11,-6,-2
+61,64_NHL_2015_2016,17.10.2015 00:00:00,68,Los Angeles Kings,69,Minnesota Wild,2,1,3,2,Yes,Yes,Yes,1,1,,1,0,3,Yes,0,3,4,3,2,12,0,12,9,9,-10,3,-9
+62,59_NHL_2015_2016,17.10.2015 00:00:00,72,New Jersey Devils,79,San Jose Sharks,1,2,3,2,Yes,Yes,Yes,2,,1,1,1,3,Yes,0,3,5,0,5,11,0,12,1,9,-7,10,-9
+63,63_NHL_2015_2016,17.10.2015 00:00:00,83,Vancouver Canucks,80,St. Louis Blues,3,4,7,7,No,No,No,2,,,0,3,0,No,3,3,4,2,12,5,9,13,9,9,-1,-4,0
+64,58_NHL_2015_2016,17.10.2015 00:00:00,63,Columbus Blue Jackets,82,Toronto Maple Leafs,3,6,9,9,No,No,No,2,,,0,3,7,No,0,1,4,5,9,20,0,5,12,1,4,8,-1
+65,73_NHL_2015_2016,18.10.2015 00:00:00,77,Arizona Coyotes,57,Boston Bruins,3,5,8,8,No,No,No,2,,,0,3,4,No,0,3,6,2,13,6,9,13,18,3,0,-12,6
+66,65_NHL_2015_2016,18.10.2015 00:00:00,81,Tampa Bay Lightning,58,Buffalo Sabres,2,1,3,3,Yes,Yes,Yes,1,,,0,3,5,No,0,0,2,3,17,14,8,8,12,3,9,2,5
+67,66_NHL_2015_2016,18.10.2015 00:00:00,84,Washington Capitals,60,Carolina Hurricanes,4,1,5,5,No,Yes,Yes,1,,,0,4,1,No,3,3,5,3,9,9,6,10,13,3,-1,-4,3
+68,72_NHL_2015_2016,18.10.2015 00:00:00,61,Chicago Blackhawks,63,Columbus Blue Jackets,4,1,5,5,No,Yes,Yes,1,,,0,1,4,No,0,0,3,6,10,13,5,12,26,0,-2,-13,5
+69,67_NHL_2015_2016,18.10.2015 00:00:00,67,Florida Panthers,64,Dallas Stars,2,4,6,6,No,No,Yes,2,,,0,3,2,No,3,3,5,3,14,5,9,15,11,9,-1,-6,0
+70,69_NHL_2015_2016,18.10.2015 00:00:00,70,Montreal Canadiens,65,Detroit Red Wings,4,1,5,5,No,Yes,Yes,1,,,0,3,0,No,3,0,3,5,16,6,15,14,9,9,2,-3,6
+71,74_NHL_2015_2016,18.10.2015 00:00:00,59,Calgary Flames,66,Edmonton Oilers,2,5,7,7,No,No,No,2,,,0,1,3,No,0,0,2,4,8,14,2,5,13,0,3,1,2
+72,70_NHL_2015_2016,18.10.2015 00:00:00,75,Ottawa Senators,71,Nashville Predators,3,4,7,6,No,No,Yes,2,,1,1,0,2,Yes,0,0,3,4,16,13,8,10,6,9,6,7,-1
+73,75_NHL_2015_2016,18.10.2015 00:00:00,74,New York Rangers,72,New Jersey Devils,1,2,3,2,Yes,Yes,Yes,2,1,,1,0,3,Yes,0,1,1,2,13,13,9,6,13,1,7,0,8
+74,71_NHL_2015_2016,18.10.2015 00:00:00,73,New York Islanders,79,San Jose Sharks,6,3,9,9,No,No,No,1,,,0,4,3,No,3,2,2,1,11,12,7,14,2,11,-3,10,-4
+75,76_NHL_2015_2016,18.10.2015 00:00:00,85,Winnipeg Jets,80,St. Louis Blues,2,4,6,6,No,No,Yes,2,,,0,3,1,No,3,3,4,3,18,9,12,17,12,12,1,-3,0
+76,68_NHL_2015_2016,18.10.2015 00:00:00,78,Pittsburgh Penguins,82,Toronto Maple Leafs,2,1,3,3,Yes,Yes,Yes,1,,,0,2,0,No,3,3,6,3,5,8,3,11,15,4,-6,-7,-1
+77,79_NHL_2015_2016,19.10.2015 00:00:00,68,Los Angeles Kings,62,Colorado Avalanche,2,1,3,3,Yes,Yes,Yes,1,,,0,2,1,No,2,3,3,0,4,13,2,15,14,6,-11,-1,-4
+78,78_NHL_2015_2016,19.10.2015 00:00:00,83,Vancouver Canucks,66,Edmonton Oilers,1,2,3,2,Yes,Yes,Yes,2,1,,1,3,4,Yes,0,3,5,2,15,9,9,10,15,3,5,-6,6
+79,77_NHL_2015_2016,19.10.2015 00:00:00,56,Anaheim Ducks,69,Minnesota Wild,4,1,5,5,No,Yes,Yes,1,,,0,0,3,No,0,1,1,2,1,11,1,13,11,10,-12,0,-9
+80,80_NHL_2015_2016,20.10.2015 00:00:00,74,New York Rangers,79,San Jose Sharks,4,0,4,4,Yes,Yes,Yes,1,,,0,1,2,No,1,0,3,6,14,15,10,17,8,11,-3,7,-1
+81,82_NHL_2015_2016,21.10.2015 00:00:00,72,New Jersey Devils,77,Arizona Coyotes,3,2,5,4,Yes,Yes,Yes,1,1,,1,2,1,Yes,2,0,3,5,8,14,3,16,11,9,-8,3,-6
+82,84_NHL_2015_2016,21.10.2015 00:00:00,76,Philadelphia Flyers,64,Dallas Stars,1,2,3,3,Yes,Yes,Yes,2,,,0,3,0,No,3,3,4,2,7,10,7,19,13,12,-12,-3,-5
+83,83_NHL_2015_2016,21.10.2015 00:00:00,78,Pittsburgh Penguins,67,Florida Panthers,3,2,5,4,Yes,Yes,Yes,1,1,,1,2,1,Yes,3,0,2,4,7,9,6,16,9,9,-9,0,-3
+84,81_NHL_2015_2016,21.10.2015 00:00:00,63,Columbus Blue Jackets,73,New York Islanders,0,4,4,4,Yes,Yes,Yes,2,,,0,1,4,No,0,3,6,3,13,30,0,17,15,10,-4,15,-10
+85,85_NHL_2015_2016,21.10.2015 00:00:00,70,Montreal Canadiens,80,St. Louis Blues,3,0,3,3,Yes,Yes,Yes,1,,,0,4,1,No,3,3,4,2,20,7,18,21,14,15,-1,-7,3
+86,86_NHL_2015_2016,21.10.2015 00:00:00,71,Nashville Predators,81,Tampa Bay Lightning,5,4,9,8,No,No,No,1,,1,1,4,3,Yes,2,3,2,1,14,9,11,19,15,11,-5,-6,0
+87,87_NHL_2015_2016,21.10.2015 00:00:00,59,Calgary Flames,84,Washington Capitals,2,6,8,8,No,No,No,2,,,0,2,5,No,0,3,4,1,10,19,2,13,10,9,-3,9,-7
+88,91_NHL_2015_2016,22.10.2015 00:00:00,62,Colorado Avalanche,60,Carolina Hurricanes,0,1,1,0,Yes,Yes,Yes,2,1,,1,1,2,Yes,0,0,1,4,16,16,6,11,17,3,5,-1,3
+89,90_NHL_2015_2016,22.10.2015 00:00:00,66,Edmonton Oilers,65,Detroit Red Wings,3,1,4,4,Yes,Yes,Yes,1,,,0,2,1,No,2,0,1,4,12,16,5,15,13,9,-3,3,-4
+90,89_NHL_2015_2016,22.10.2015 00:00:00,57,Boston Bruins,76,Philadelphia Flyers,4,5,9,8,No,No,No,2,1,,1,5,3,Yes,3,0,1,2,18,21,6,8,12,7,10,9,-1
+91,88_NHL_2015_2016,22.10.2015 00:00:00,58,Buffalo Sabres,82,Toronto Maple Leafs,2,1,3,2,Yes,Yes,Yes,1,,1,1,1,2,Yes,0,0,1,2,9,14,3,12,17,4,-3,-3,-1
+92,96_NHL_2015_2016,23.10.2015 00:00:00,71,Nashville Predators,56,Anaheim Ducks,5,1,6,6,No,No,Yes,1,,,0,5,4,No,2,3,4,1,19,13,13,5,12,4,14,1,9
+93,93_NHL_2015_2016,23.10.2015 00:00:00,74,New York Rangers,77,Arizona Coyotes,4,1,5,5,No,Yes,Yes,1,,,0,4,0,No,3,1,2,3,18,15,13,18,14,10,0,1,3
+94,95_NHL_2015_2016,23.10.2015 00:00:00,69,Minnesota Wild,63,Columbus Blue Jackets,3,2,5,5,No,Yes,Yes,1,,,0,1,4,No,0,0,0,4,14,15,10,13,34,0,1,-19,10
+95,92_NHL_2015_2016,23.10.2015 00:00:00,78,Pittsburgh Penguins,64,Dallas Stars,1,4,5,5,No,Yes,Yes,2,,,0,3,2,No,2,3,2,1,10,11,8,21,14,15,-11,-3,-7
+96,97_NHL_2015_2016,23.10.2015 00:00:00,61,Chicago Blackhawks,67,Florida Panthers,3,2,5,5,No,Yes,Yes,1,,,0,4,1,No,3,1,2,3,14,14,8,18,12,10,-4,2,-2
+97,99_NHL_2015_2016,23.10.2015 00:00:00,79,San Jose Sharks,68,Los Angeles Kings,1,4,5,5,No,Yes,Yes,2,,,0,0,4,No,0,3,2,1,17,12,11,6,14,5,11,-2,6
+98,94_NHL_2015_2016,23.10.2015 00:00:00,75,Ottawa Senators,72,New Jersey Devils,4,5,9,8,No,No,No,2,,1,1,3,4,Yes,1,2,3,2,19,17,9,11,16,5,8,1,4
+99,98_NHL_2015_2016,23.10.2015 00:00:00,83,Vancouver Canucks,84,Washington Capitals,2,3,5,5,No,Yes,Yes,2,,,0,1,2,No,1,3,6,2,16,11,10,19,12,12,-3,-1,-2
+100,101_NHL_2015_2016,24.10.2015 00:00:00,73,New York Islanders,57,Boston Bruins,3,5,8,8,No,No,No,2,,,0,4,0,No,3,1,4,5,21,15,13,22,26,7,-1,-11,6
+101,105_NHL_2015_2016,24.10.2015 00:00:00,68,Los Angeles Kings,60,Carolina Hurricanes,3,0,3,3,Yes,Yes,Yes,1,,,0,4,1,No,3,2,1,0,10,15,8,12,17,5,-2,-2,3
+102,104_NHL_2015_2016,24.10.2015 00:00:00,59,Calgary Flames,65,Detroit Red Wings,3,2,5,4,Yes,Yes,Yes,1,1,,1,2,6,Yes,0,0,1,3,12,25,2,16,16,9,-4,9,-7
+103,100_NHL_2015_2016,24.10.2015 00:00:00,58,Buffalo Sabres,70,Montreal Canadiens,2,7,9,9,No,No,No,2,,,0,2,1,No,2,3,3,0,11,15,5,23,7,21,-12,8,-16
+104,102_NHL_2015_2016,24.10.2015 00:00:00,85,Winnipeg Jets,81,Tampa Bay Lightning,3,4,7,6,No,No,Yes,2,1,,1,2,4,Yes,0,1,4,5,20,13,12,23,20,12,-3,-7,0
+105,103_NHL_2015_2016,24.10.2015 00:00:00,66,Edmonton Oilers,84,Washington Capitals,4,7,11,11,No,No,No,2,,,0,3,1,No,3,3,3,2,15,17,8,22,14,15,-7,3,-7
+106,106_NHL_2015_2016,25.10.2015 00:00:00,69,Minnesota Wild,56,Anaheim Ducks,3,0,3,3,Yes,Yes,Yes,1,,,0,3,2,No,3,0,1,5,20,17,16,6,17,4,14,0,12
+107,108_NHL_2015_2016,25.10.2015 00:00:00,75,Ottawa Senators,77,Arizona Coyotes,1,4,5,5,No,Yes,Yes,2,,,0,4,5,No,1,0,1,4,23,22,10,19,18,10,4,4,0
+108,117_NHL_2015_2016,25.10.2015 00:00:00,79,San Jose Sharks,60,Carolina Hurricanes,5,2,7,7,No,No,No,1,,,0,1,4,No,0,0,0,3,18,16,11,12,20,5,6,-4,6
+109,115_NHL_2015_2016,25.10.2015 00:00:00,62,Colorado Avalanche,63,Columbus Blue Jackets,3,4,7,7,No,No,No,2,,,0,0,1,No,1,0,2,3,16,17,7,15,37,0,1,-20,7
+110,116_NHL_2015_2016,25.10.2015 00:00:00,83,Vancouver Canucks,65,Detroit Red Wings,2,3,5,4,Yes,Yes,Yes,2,1,,1,2,3,Yes,0,1,2,3,18,14,10,18,19,10,0,-5,0
+111,113_NHL_2015_2016,25.10.2015 00:00:00,64,Dallas Stars,67,Florida Panthers,2,6,8,8,No,No,No,2,,,0,4,1,No,3,0,2,3,25,15,18,20,15,10,5,0,8
+112,118_NHL_2015_2016,25.10.2015 00:00:00,85,Winnipeg Jets,69,Minnesota Wild,5,4,9,9,No,No,No,1,,,0,3,4,No,1,3,3,0,23,17,13,20,17,16,3,0,-3
+113,109_NHL_2015_2016,25.10.2015 00:00:00,58,Buffalo Sabres,72,New Jersey Devils,3,4,7,7,No,No,No,2,,,0,2,7,No,0,2,5,4,13,22,5,16,20,7,-3,2,-2
+114,112_NHL_2015_2016,25.10.2015 00:00:00,80,St. Louis Blues,73,New York Islanders,2,3,5,4,Yes,Yes,Yes,2,1,,1,0,3,Yes,0,0,3,5,21,17,15,24,20,13,-3,-3,2
+115,111_NHL_2015_2016,25.10.2015 00:00:00,76,Philadelphia Flyers,74,New York Rangers,3,2,5,4,Yes,Yes,Yes,1,,1,1,5,4,Yes,2,3,4,1,13,16,9,22,16,16,-9,0,-7
+116,107_NHL_2015_2016,25.10.2015 00:00:00,71,Nashville Predators,78,Pittsburgh Penguins,1,2,3,2,Yes,Yes,Yes,2,1,,1,5,1,Yes,3,0,1,4,24,14,16,11,15,8,13,-1,8
+117,114_NHL_2015_2016,25.10.2015 00:00:00,61,Chicago Blackhawks,81,Tampa Bay Lightning,1,0,1,0,Yes,Yes,Yes,1,1,,1,3,2,Yes,3,2,4,3,17,16,11,27,23,14,-10,-7,-3
+118,110_NHL_2015_2016,25.10.2015 00:00:00,70,Montreal Canadiens,82,Toronto Maple Leafs,5,3,8,8,No,No,No,1,,,0,7,2,No,3,1,1,2,30,9,24,13,19,5,17,-10,19
+119,119_NHL_2015_2016,26.10.2015 00:00:00,74,New York Rangers,59,Calgary Flames,4,1,5,5,No,Yes,Yes,1,,,0,2,3,No,1,2,3,2,24,19,17,15,27,4,9,-8,13
+120,120_NHL_2015_2016,26.10.2015 00:00:00,66,Edmonton Oilers,68,Los Angeles Kings,2,3,5,5,No,Yes,Yes,2,,,0,4,7,No,0,3,3,0,19,24,8,13,15,11,6,9,-3
+121,123_NHL_2015_2016,27.10.2015 00:00:00,61,Chicago Blackhawks,56,Anaheim Ducks,1,0,1,0,Yes,Yes,Yes,1,1,,1,1,0,Yes,2,0,0,3,18,16,13,6,20,4,12,-4,9
+122,122_NHL_2015_2016,27.10.2015 00:00:00,82,Toronto Maple Leafs,77,Arizona Coyotes,3,4,7,7,No,No,No,2,,,0,3,5,No,0,3,4,1,16,24,5,23,19,13,-7,5,-8
+123,121_NHL_2015_2016,27.10.2015 00:00:00,73,New York Islanders,59,Calgary Flames,4,0,4,4,Yes,Yes,Yes,1,,,0,3,2,No,2,0,1,4,27,22,15,16,31,4,11,-9,11
+124,132_NHL_2015_2016,28.10.2015 00:00:00,64,Dallas Stars,56,Anaheim Ducks,4,3,7,7,No,No,No,1,,,0,2,6,No,0,1,0,1,27,21,18,6,21,5,21,0,13
+125,125_NHL_2015_2016,28.10.2015 00:00:00,57,Boston Bruins,77,Arizona Coyotes,6,0,6,6,No,No,Yes,1,,,0,5,3,No,3,3,4,3,27,29,10,27,22,16,0,7,-6
+126,126_NHL_2015_2016,28.10.2015 00:00:00,76,Philadelphia Flyers,58,Buffalo Sabres,3,4,7,6,No,No,Yes,2,1,,1,3,2,Yes,2,0,3,4,16,18,11,16,26,5,0,-8,6
+127,127_NHL_2015_2016,28.10.2015 00:00:00,65,Detroit Red Wings,60,Carolina Hurricanes,1,3,4,4,Yes,Yes,Yes,2,,,0,3,2,No,2,0,2,5,21,21,12,14,25,5,7,-4,7
+128,128_NHL_2015_2016,28.10.2015 00:00:00,67,Florida Panthers,62,Colorado Avalanche,4,1,5,5,No,Yes,Yes,1,,,0,6,2,No,3,0,3,4,26,17,13,19,21,7,7,-4,6
+129,124_NHL_2015_2016,28.10.2015 00:00:00,72,New Jersey Devils,63,Columbus Blue Jackets,1,3,4,4,Yes,Yes,Yes,2,,,0,4,3,No,3,3,4,3,20,23,10,19,40,3,1,-17,7
+130,130_NHL_2015_2016,28.10.2015 00:00:00,69,Minnesota Wild,66,Edmonton Oilers,4,3,7,7,No,No,No,1,,,0,4,5,No,0,0,2,3,24,22,16,21,27,8,3,-5,8
+131,129_NHL_2015_2016,28.10.2015 00:00:00,85,Winnipeg Jets,68,Los Angeles Kings,1,4,5,5,No,Yes,Yes,2,,,0,5,4,No,3,3,3,2,28,21,16,16,17,14,12,4,2
+132,133_NHL_2015_2016,28.10.2015 00:00:00,83,Vancouver Canucks,70,Montreal Canadiens,5,1,6,6,No,No,Yes,1,,,0,2,3,No,1,3,5,3,20,17,11,35,12,27,-15,5,-16
+133,131_NHL_2015_2016,28.10.2015 00:00:00,80,St. Louis Blues,81,Tampa Bay Lightning,2,0,2,2,Yes,Yes,Yes,1,,,0,2,3,No,1,1,0,1,23,20,16,27,24,15,-4,-4,1
+134,134_NHL_2015_2016,29.10.2015 00:00:00,75,Ottawa Senators,59,Calgary Flames,5,4,9,8,No,No,No,1,,1,1,1,4,Yes,0,0,0,4,24,26,10,16,35,4,8,-9,6
+135,136_NHL_2015_2016,29.10.2015 00:00:00,79,San Jose Sharks,71,Nashville Predators,1,2,3,3,Yes,Yes,Yes,2,,,0,5,2,No,3,1,1,2,23,18,14,25,16,17,-2,2,-3
+136,135_NHL_2015_2016,29.10.2015 00:00:00,84,Washington Capitals,78,Pittsburgh Penguins,1,3,4,4,Yes,Yes,Yes,2,,,0,7,4,No,3,2,2,1,29,18,18,13,16,10,16,2,8
+137,142_NHL_2015_2016,30.10.2015 00:00:00,80,St. Louis Blues,56,Anaheim Ducks,2,1,3,3,Yes,Yes,Yes,1,,,0,2,0,No,3,0,3,4,25,20,19,9,25,5,16,-5,14
+138,137_NHL_2015_2016,30.10.2015 00:00:00,78,Pittsburgh Penguins,58,Buffalo Sabres,4,3,7,7,No,No,No,1,,,0,3,1,No,3,2,4,3,16,17,13,20,29,7,-4,-12,6
+139,138_NHL_2015_2016,30.10.2015 00:00:00,73,New York Islanders,60,Carolina Hurricanes,2,3,5,4,Yes,Yes,Yes,2,1,,1,4,0,Yes,3,3,3,1,31,22,18,17,26,8,14,-4,10
+140,141_NHL_2015_2016,30.10.2015 00:00:00,85,Winnipeg Jets,61,Chicago Blackhawks,3,1,4,4,Yes,Yes,Yes,1,,,0,1,4,No,0,2,1,0,29,25,16,19,16,15,10,9,1
+141,140_NHL_2015_2016,30.10.2015 00:00:00,81,Tampa Bay Lightning,62,Colorado Avalanche,1,2,3,3,Yes,Yes,Yes,2,,,0,0,2,No,0,0,1,4,27,26,15,20,25,7,7,1,8
+142,144_NHL_2015_2016,30.10.2015 00:00:00,66,Edmonton Oilers,70,Montreal Canadiens,4,3,7,7,No,No,No,1,,,0,3,4,No,0,0,1,5,24,31,8,36,17,27,-12,14,-19
+143,139_NHL_2015_2016,30.10.2015 00:00:00,76,Philadelphia Flyers,72,New Jersey Devils,1,4,5,5,No,Yes,Yes,2,,,0,3,4,No,1,0,1,3,19,22,12,21,26,10,-2,-4,2
+144,143_NHL_2015_2016,30.10.2015 00:00:00,64,Dallas Stars,83,Vancouver Canucks,4,3,7,6,No,No,Yes,1,1,,1,4,3,Yes,3,3,5,1,31,24,21,25,18,14,6,6,7
+145,150_NHL_2015_2016,31.10.2015 00:00:00,67,Florida Panthers,57,Boston Bruins,1,3,4,4,Yes,Yes,Yes,2,,,0,4,1,No,3,3,6,0,30,18,16,33,29,13,-3,-11,3
+146,151_NHL_2015_2016,31.10.2015 00:00:00,69,Minnesota Wild,61,Chicago Blackhawks,5,4,9,9,No,No,No,1,,,0,4,3,No,3,0,1,3,28,25,19,20,19,15,8,6,4
+147,145_NHL_2015_2016,31.10.2015 00:00:00,60,Carolina Hurricanes,62,Colorado Avalanche,3,2,5,5,No,Yes,Yes,1,,,0,3,2,No,2,3,2,1,20,28,10,22,26,10,-2,2,0
+148,146_NHL_2015_2016,31.10.2015 00:00:00,84,Washington Capitals,63,Columbus Blue Jackets,2,1,3,3,Yes,Yes,Yes,1,,,0,1,3,No,0,3,3,1,30,21,18,22,41,6,8,-20,12
+149,152_NHL_2015_2016,31.10.2015 00:00:00,59,Calgary Flames,70,Montreal Canadiens,2,6,8,8,No,No,No,2,,,0,4,5,No,1,0,3,4,20,40,5,39,21,27,-19,19,-22
+150,156_NHL_2015_2016,31.10.2015 00:00:00,68,Los Angeles Kings,71,Nashville Predators,4,3,7,6,No,No,Yes,1,1,,1,4,1,Yes,3,3,2,1,20,18,17,27,17,20,-7,1,-3
+151,154_NHL_2015_2016,31.10.2015 00:00:00,72,New Jersey Devils,73,New York Islanders,3,2,5,4,Yes,Yes,Yes,1,,1,1,4,1,Yes,3,1,2,3,25,27,13,33,25,19,-8,2,-6
+152,149_NHL_2015_2016,31.10.2015 00:00:00,65,Detroit Red Wings,75,Ottawa Senators,1,3,4,4,Yes,Yes,Yes,2,,,0,1,3,No,0,2,5,4,22,24,12,29,30,12,-7,-6,0
+153,148_NHL_2015_2016,31.10.2015 00:00:00,58,Buffalo Sabres,76,Philadelphia Flyers,3,1,4,4,Yes,Yes,Yes,1,,,0,3,4,No,0,0,1,4,23,33,7,20,26,12,3,7,-5
+154,155_NHL_2015_2016,31.10.2015 00:00:00,64,Dallas Stars,79,San Jose Sharks,5,3,8,8,No,No,No,1,,,0,4,3,No,2,0,1,2,35,27,23,24,20,14,11,7,9
+155,147_NHL_2015_2016,31.10.2015 00:00:00,74,New York Rangers,82,Toronto Maple Leafs,3,1,4,4,Yes,Yes,Yes,1,,,0,4,1,No,3,0,3,4,28,20,20,19,28,5,9,-8,15
+156,153_NHL_2015_2016,31.10.2015 00:00:00,77,Arizona Coyotes,83,Vancouver Canucks,3,4,7,7,No,No,No,2,,,0,0,6,No,0,1,3,4,27,28,16,28,22,15,-1,6,1
+157,157_NHL_2015_2016,01.11.2015 00:00:00,81,Tampa Bay Lightning,57,Boston Bruins,1,3,4,4,Yes,Yes,Yes,2,,,0,1,2,No,0,3,3,1,29,31,15,36,30,16,-7,1,-1
+158,163_NHL_2015_2016,01.11.2015 00:00:00,66,Edmonton Oilers,59,Calgary Flames,4,5,9,9,No,No,No,2,,,0,4,3,No,3,0,2,6,28,34,11,22,46,5,6,-12,6
+159,161_NHL_2015_2016,01.11.2015 00:00:00,75,Ottawa Senators,65,Detroit Red Wings,3,5,8,8,No,No,No,2,,,0,3,1,No,3,0,1,3,32,31,15,23,27,12,9,4,3
+160,162_NHL_2015_2016,01.11.2015 00:00:00,80,St. Louis Blues,69,Minnesota Wild,3,2,5,4,Yes,Yes,Yes,1,1,,1,2,1,Yes,3,3,5,4,27,21,22,33,29,22,-6,-8,0
+161,158_NHL_2015_2016,01.11.2015 00:00:00,82,Toronto Maple Leafs,78,Pittsburgh Penguins,0,4,4,4,Yes,Yes,Yes,2,,,0,1,3,No,0,3,4,3,20,31,5,20,20,16,0,11,-11
+162,164_NHL_2015_2016,01.11.2015 00:00:00,62,Colorado Avalanche,79,San Jose Sharks,3,4,7,7,No,No,No,2,,,0,2,3,No,0,0,3,5,24,29,10,27,25,14,-3,4,-4
+163,165_NHL_2015_2016,01.11.2015 00:00:00,60,Carolina Hurricanes,81,Tampa Bay Lightning,3,4,7,7,No,No,No,2,,,0,3,2,No,3,0,1,3,23,30,13,29,31,15,-6,-1,-2
+164,159_NHL_2015_2016,01.11.2015 00:00:00,67,Florida Panthers,84,Washington Capitals,1,2,3,2,Yes,Yes,Yes,2,1,,1,1,3,Yes,0,3,2,1,31,21,16,32,22,21,-1,-1,-5
+165,160_NHL_2015_2016,01.11.2015 00:00:00,63,Columbus Blue Jackets,85,Winnipeg Jets,2,3,5,5,No,Yes,Yes,2,,,0,1,2,No,0,3,3,1,23,43,6,32,26,19,-9,17,-13
+166,167_NHL_2015_2016,02.11.2015 00:00:00,73,New York Islanders,58,Buffalo Sabres,1,2,3,3,Yes,Yes,Yes,2,,,0,2,3,No,1,3,3,1,35,28,20,26,34,10,9,-6,10
+167,168_NHL_2015_2016,02.11.2015 00:00:00,56,Anaheim Ducks,71,Nashville Predators,4,2,6,6,No,No,Yes,1,,,0,1,2,No,0,1,3,4,10,27,5,30,21,21,-20,6,-16
+168,166_NHL_2015_2016,02.11.2015 00:00:00,70,Montreal Canadiens,85,Winnipeg Jets,5,1,6,6,No,No,Yes,1,,,0,6,2,No,3,3,3,2,45,23,30,35,28,22,10,-5,8
+169,169_NHL_2015_2016,03.11.2015 00:00:00,82,Toronto Maple Leafs,64,Dallas Stars,4,1,5,5,No,Yes,Yes,1,,,0,0,4,No,0,3,5,3,20,35,5,40,30,26,-20,5,-21
+170,170_NHL_2015_2016,03.11.2015 00:00:00,61,Chicago Blackhawks,68,Los Angeles Kings,4,2,6,6,No,No,Yes,1,,,0,4,5,No,0,2,4,3,24,24,15,24,21,19,0,3,-4
+171,171_NHL_2015_2016,03.11.2015 00:00:00,83,Vancouver Canucks,76,Philadelphia Flyers,4,1,5,5,No,Yes,Yes,1,,,0,4,3,No,3,0,1,3,32,25,18,21,29,12,11,-4,6
+172,179_NHL_2015_2016,04.11.2015 00:00:00,62,Colorado Avalanche,59,Calgary Flames,6,3,9,9,No,No,No,1,,,0,3,4,No,0,3,5,4,27,33,10,27,50,8,0,-17,2
+173,180_NHL_2015_2016,04.11.2015 00:00:00,79,San Jose Sharks,63,Columbus Blue Jackets,2,5,7,7,No,No,No,2,,,0,4,3,No,3,0,2,3,31,28,17,25,46,6,6,-18,11
+174,174_NHL_2015_2016,04.11.2015 00:00:00,57,Boston Bruins,64,Dallas Stars,3,5,8,8,No,No,No,2,,,0,3,1,No,3,0,1,4,39,31,19,41,34,26,-2,-3,-7
+175,177_NHL_2015_2016,04.11.2015 00:00:00,80,St. Louis Blues,68,Los Angeles Kings,0,3,3,3,Yes,Yes,Yes,2,,,0,3,2,No,2,0,2,4,30,23,24,26,25,19,4,-2,5
+176,172_NHL_2015_2016,04.11.2015 00:00:00,73,New York Islanders,72,New Jersey Devils,2,1,3,3,Yes,Yes,Yes,1,,,0,1,2,No,0,2,3,2,36,30,20,28,29,15,8,1,5
+177,175_NHL_2015_2016,04.11.2015 00:00:00,70,Montreal Canadiens,75,Ottawa Senators,1,2,3,2,Yes,Yes,Yes,2,1,,1,5,1,Yes,3,0,3,5,50,24,33,35,36,15,15,-12,18
+178,178_NHL_2015_2016,04.11.2015 00:00:00,66,Edmonton Oilers,76,Philadelphia Flyers,4,2,6,6,No,No,Yes,1,,,0,4,5,No,0,0,1,4,32,39,11,22,33,12,10,6,-1
+179,176_NHL_2015_2016,04.11.2015 00:00:00,65,Detroit Red Wings,81,Tampa Bay Lightning,2,1,3,3,Yes,Yes,Yes,1,,,0,5,3,No,3,3,4,3,28,30,15,33,34,18,-5,-4,-3
+180,173_NHL_2015_2016,04.11.2015 00:00:00,74,New York Rangers,84,Washington Capitals,5,2,7,7,No,No,No,1,,,0,3,1,No,3,2,2,1,31,21,23,34,23,23,-3,-2,0
+181,184_NHL_2015_2016,05.11.2015 00:00:00,56,Anaheim Ducks,67,Florida Panthers,3,2,5,4,Yes,Yes,Yes,1,,1,1,4,2,Yes,3,1,1,2,14,29,8,32,23,17,-18,6,-9
+182,183_NHL_2015_2016,05.11.2015 00:00:00,83,Vancouver Canucks,78,Pittsburgh Penguins,2,3,5,5,No,Yes,Yes,2,,,0,4,1,No,3,3,4,0,36,26,21,24,20,19,12,6,2
+183,182_NHL_2015_2016,05.11.2015 00:00:00,61,Chicago Blackhawks,80,St. Louis Blues,5,6,11,10,No,No,No,2,1,,1,4,2,Yes,3,0,0,3,28,26,18,30,26,24,-2,0,-6
+184,181_NHL_2015_2016,05.11.2015 00:00:00,82,Toronto Maple Leafs,85,Winnipeg Jets,2,4,6,6,No,No,Yes,2,,,0,4,1,No,3,0,1,5,24,36,8,36,33,22,-12,3,-14
+185,186_NHL_2015_2016,06.11.2015 00:00:00,84,Washington Capitals,57,Boston Bruins,4,1,5,5,No,Yes,Yes,1,,,0,2,5,No,0,0,3,5,36,28,23,42,36,19,-6,-8,4
+186,191_NHL_2015_2016,06.11.2015 00:00:00,77,Arizona Coyotes,62,Colorado Avalanche,4,2,6,6,No,No,Yes,1,,,0,3,4,No,0,3,6,3,30,32,16,33,36,13,-3,-4,3
+187,193_NHL_2015_2016,06.11.2015 00:00:00,68,Los Angeles Kings,63,Columbus Blue Jackets,2,3,5,5,No,Yes,Yes,2,,,0,3,0,No,3,3,5,2,29,25,22,30,48,9,-1,-23,13
+188,192_NHL_2015_2016,06.11.2015 00:00:00,79,San Jose Sharks,67,Florida Panthers,5,2,7,7,No,No,No,1,,,0,2,5,No,0,1,2,3,33,33,17,34,26,18,-1,7,-1
+189,189_NHL_2015_2016,06.11.2015 00:00:00,69,Minnesota Wild,71,Nashville Predators,2,3,5,5,No,Yes,Yes,2,,,0,2,3,No,1,0,2,4,35,32,23,32,25,21,3,7,2
+190,187_NHL_2015_2016,06.11.2015 00:00:00,70,Montreal Canadiens,73,New York Islanders,4,1,5,5,No,Yes,Yes,1,,,0,1,2,No,1,3,2,1,51,26,34,38,31,23,13,-5,11
+191,190_NHL_2015_2016,06.11.2015 00:00:00,59,Calgary Flames,76,Philadelphia Flyers,2,1,3,2,Yes,Yes,Yes,1,1,,1,3,6,Yes,0,0,2,4,30,56,8,24,37,12,6,19,-4
+192,185_NHL_2015_2016,06.11.2015 00:00:00,58,Buffalo Sabres,81,Tampa Bay Lightning,1,4,5,5,No,Yes,Yes,2,,,0,2,1,No,3,0,1,2,28,35,13,34,36,18,-6,-1,-5
+193,188_NHL_2015_2016,06.11.2015 00:00:00,75,Ottawa Senators,85,Winnipeg Jets,3,2,5,4,Yes,Yes,Yes,1,,1,1,2,1,Yes,2,3,4,2,37,37,17,40,35,25,-3,2,-8
+194,195_NHL_2015_2016,07.11.2015 00:00:00,72,New Jersey Devils,61,Chicago Blackhawks,4,2,6,6,No,No,Yes,1,,,0,1,2,No,0,1,5,6,29,31,15,33,32,19,-4,-1,-4
+195,199_NHL_2015_2016,07.11.2015 00:00:00,56,Anaheim Ducks,63,Columbus Blue Jackets,4,2,6,6,No,No,Yes,1,,,0,3,2,No,2,3,3,2,17,31,10,33,50,12,-16,-19,-2
+196,194_NHL_2015_2016,07.11.2015 00:00:00,60,Carolina Hurricanes,64,Dallas Stars,1,4,5,5,No,Yes,Yes,2,,,0,3,4,No,0,3,5,3,26,34,13,46,37,29,-20,-3,-16
+197,196_NHL_2015_2016,07.11.2015 00:00:00,82,Toronto Maple Leafs,65,Detroit Red Wings,1,2,3,2,Yes,Yes,Yes,2,1,,1,2,4,Yes,0,3,2,1,26,40,8,30,31,18,-4,9,-10
+198,201_NHL_2015_2016,07.11.2015 00:00:00,68,Los Angeles Kings,67,Florida Panthers,4,1,5,5,No,Yes,Yes,1,,,0,2,3,No,0,0,2,5,31,28,22,36,31,18,-5,-3,4
+199,197_NHL_2015_2016,07.11.2015 00:00:00,62,Colorado Avalanche,74,New York Rangers,1,2,3,3,Yes,Yes,Yes,2,,,0,2,4,No,0,3,5,2,35,40,13,36,23,26,-1,17,-13
+200,198_NHL_2015_2016,07.11.2015 00:00:00,66,Edmonton Oilers,78,Pittsburgh Penguins,1,2,3,3,Yes,Yes,Yes,2,,,0,4,2,No,3,3,3,2,36,41,14,27,22,22,9,19,-8
+201,200_NHL_2015_2016,07.11.2015 00:00:00,58,Buffalo Sabres,83,Vancouver Canucks,3,2,5,5,No,Yes,Yes,1,,,0,1,4,No,0,0,2,3,29,39,13,38,29,21,-9,10,-8
+202,210_NHL_2015_2016,08.11.2015 00:00:00,79,San Jose Sharks,56,Anaheim Ducks,0,1,1,1,Yes,Yes,Yes,2,,,0,5,2,No,3,3,4,2,38,35,20,21,33,13,17,2,7
+203,212_NHL_2015_2016,08.11.2015 00:00:00,73,New York Islanders,57,Boston Bruins,1,2,3,3,Yes,Yes,Yes,2,,,0,1,4,No,0,0,1,4,39,35,23,45,41,22,-6,-6,1
+204,204_NHL_2015_2016,08.11.2015 00:00:00,70,Montreal Canadiens,57,Boston Bruins,4,2,6,6,No,No,Yes,1,,,0,4,1,No,3,3,2,1,55,27,37,45,41,22,10,-14,15
+205,211_NHL_2015_2016,08.11.2015 00:00:00,65,Detroit Red Wings,64,Dallas Stars,1,4,5,5,No,Yes,Yes,2,,,0,2,1,No,2,3,4,1,32,32,20,50,38,32,-18,-6,-12
+206,208_NHL_2015_2016,08.11.2015 00:00:00,77,Arizona Coyotes,74,New York Rangers,1,4,5,5,No,Yes,Yes,2,,,0,4,2,No,3,3,2,1,34,34,19,38,24,29,-4,10,-10
+207,203_NHL_2015_2016,08.11.2015 00:00:00,60,Carolina Hurricanes,75,Ottawa Senators,3,2,5,4,Yes,Yes,Yes,1,1,,1,1,4,Yes,0,2,3,2,27,38,13,40,39,19,-13,-1,-6
+208,202_NHL_2015_2016,08.11.2015 00:00:00,85,Winnipeg Jets,76,Philadelphia Flyers,0,3,3,3,Yes,Yes,Yes,2,,,0,2,3,No,1,1,1,2,42,38,26,25,39,13,17,-1,13
+209,209_NHL_2015_2016,08.11.2015 00:00:00,59,Calgary Flames,78,Pittsburgh Penguins,5,2,7,7,No,No,No,1,,,0,2,1,No,2,3,2,1,32,57,10,29,23,25,3,34,-15
+210,207_NHL_2015_2016,08.11.2015 00:00:00,71,Nashville Predators,80,St. Louis Blues,0,4,4,4,Yes,Yes,Yes,2,,,0,3,2,No,3,2,6,5,35,27,24,36,31,26,-1,-4,-2
+211,206_NHL_2015_2016,08.11.2015 00:00:00,69,Minnesota Wild,81,Tampa Bay Lightning,1,0,1,1,Yes,Yes,Yes,1,,,0,2,3,No,0,3,4,1,37,35,23,38,37,21,-1,-2,2
+212,205_NHL_2015_2016,08.11.2015 00:00:00,84,Washington Capitals,82,Toronto Maple Leafs,3,2,5,4,Yes,Yes,Yes,1,,1,1,4,1,Yes,3,1,1,2,40,29,26,27,42,9,13,-13,17
+213,213_NHL_2015_2016,08.11.2015 00:00:00,72,New Jersey Devils,83,Vancouver Canucks,4,3,7,6,No,No,Yes,1,1,,1,4,2,Yes,3,0,2,3,33,33,18,40,32,21,-7,1,-3
+214,214_NHL_2015_2016,09.11.2015 00:00:00,61,Chicago Blackhawks,66,Edmonton Oilers,4,2,6,6,No,No,Yes,1,,,0,2,4,No,0,0,1,2,35,36,19,37,43,14,-2,-7,5
+215,215_NHL_2015_2016,10.11.2015 00:00:00,56,Anaheim Ducks,77,Arizona Coyotes,3,4,7,6,No,No,Yes,2,1,,1,1,0,Yes,3,0,1,4,22,33,16,35,38,19,-13,-5,-3
+216,227_NHL_2015_2016,11.11.2015 00:00:00,68,Los Angeles Kings,77,Arizona Coyotes,2,3,5,5,No,Yes,Yes,2,,,0,4,1,No,3,2,4,3,35,29,25,39,41,21,-4,-12,4
+217,222_NHL_2015_2016,11.11.2015 00:00:00,81,Tampa Bay Lightning,58,Buffalo Sabres,1,4,5,5,No,Yes,Yes,2,,,0,0,1,No,0,3,3,2,38,38,21,32,41,16,6,-3,5
+218,221_NHL_2015_2016,11.11.2015 00:00:00,67,Florida Panthers,59,Calgary Flames,4,3,7,7,No,No,No,1,,,0,1,4,No,0,3,5,2,37,35,18,37,59,13,0,-24,5
+219,219_NHL_2015_2016,11.11.2015 00:00:00,74,New York Rangers,60,Carolina Hurricanes,3,0,3,3,Yes,Yes,Yes,1,,,0,4,1,No,3,2,3,2,42,25,32,30,40,15,12,-15,17
+220,218_NHL_2015_2016,11.11.2015 00:00:00,76,Philadelphia Flyers,62,Colorado Avalanche,0,4,4,4,Yes,Yes,Yes,2,,,0,3,0,No,3,0,1,2,28,39,16,36,42,13,-8,-3,3
+221,226_NHL_2015_2016,11.11.2015 00:00:00,79,San Jose Sharks,73,New York Islanders,2,4,6,6,No,No,Yes,2,,,0,0,1,No,0,0,1,2,38,36,20,40,37,23,-2,-1,-3
+222,224_NHL_2015_2016,11.11.2015 00:00:00,71,Nashville Predators,75,Ottawa Senators,7,5,12,12,No,No,No,1,,,0,0,4,No,0,1,2,3,35,31,24,42,42,20,-7,-11,4
+223,216_NHL_2015_2016,11.11.2015 00:00:00,72,New Jersey Devils,80,St. Louis Blues,0,2,2,2,Yes,Yes,Yes,2,,,0,4,3,No,2,3,4,0,37,36,20,40,31,29,-3,5,-9
+224,225_NHL_2015_2016,11.11.2015 00:00:00,64,Dallas Stars,82,Toronto Maple Leafs,2,3,5,5,No,Yes,Yes,2,,,0,4,1,No,3,1,2,3,54,39,35,29,45,10,25,-6,25
+225,217_NHL_2015_2016,11.11.2015 00:00:00,63,Columbus Blue Jackets,83,Vancouver Canucks,3,5,8,8,No,No,No,2,,,0,2,4,No,0,1,3,4,35,54,12,43,36,22,-8,18,-10
+226,220_NHL_2015_2016,11.11.2015 00:00:00,65,Detroit Red Wings,84,Washington Capitals,1,0,1,1,Yes,Yes,Yes,1,,,0,1,4,No,0,2,3,2,33,36,20,43,31,28,-10,5,-8
+227,223_NHL_2015_2016,11.11.2015 00:00:00,69,Minnesota Wild,85,Winnipeg Jets,5,3,8,8,No,No,No,1,,,0,1,0,No,3,0,0,3,38,35,26,42,41,26,-4,-6,0
+228,229_NHL_2015_2016,12.11.2015 00:00:00,56,Anaheim Ducks,66,Edmonton Oilers,3,4,7,6,No,No,Yes,2,1,,1,3,4,Yes,1,0,2,4,25,37,17,39,47,14,-14,-10,3
+229,228_NHL_2015_2016,12.11.2015 00:00:00,78,Pittsburgh Penguins,70,Montreal Canadiens,4,3,7,6,No,No,Yes,1,,1,1,2,5,Yes,0,3,4,2,31,28,25,59,29,40,-28,-1,-15
+230,235_NHL_2015_2016,13.11.2015 00:00:00,67,Florida Panthers,58,Buffalo Sabres,2,3,5,5,No,Yes,Yes,2,,,0,4,3,No,3,3,4,1,41,38,21,36,42,19,5,-4,2
+231,236_NHL_2015_2016,13.11.2015 00:00:00,81,Tampa Bay Lightning,59,Calgary Flames,3,1,4,4,Yes,Yes,Yes,1,,,0,1,4,No,0,0,3,4,39,42,21,40,63,13,-1,-21,8
+232,232_NHL_2015_2016,13.11.2015 00:00:00,57,Boston Bruins,62,Colorado Avalanche,2,3,5,5,No,Yes,Yes,2,,,0,2,4,No,0,3,4,0,47,45,22,40,42,16,7,3,6
+233,240_NHL_2015_2016,13.11.2015 00:00:00,77,Arizona Coyotes,66,Edmonton Oilers,4,1,5,5,No,Yes,Yes,1,,,0,3,2,No,3,2,4,3,42,43,24,43,50,16,-1,-7,8
+234,231_NHL_2015_2016,13.11.2015 00:00:00,60,Carolina Hurricanes,69,Minnesota Wild,2,3,5,4,Yes,Yes,Yes,2,1,,1,0,3,Yes,0,3,5,3,30,43,15,43,38,29,-13,5,-14
+235,238_NHL_2015_2016,13.11.2015 00:00:00,61,Chicago Blackhawks,72,New Jersey Devils,2,3,5,5,No,Yes,Yes,2,,,0,4,2,No,3,0,0,2,39,38,22,37,38,20,2,0,2
+236,241_NHL_2015_2016,13.11.2015 00:00:00,68,Los Angeles Kings,73,New York Islanders,2,1,3,3,Yes,Yes,Yes,1,,,0,2,3,No,0,3,4,2,37,32,25,44,39,26,-7,-7,-1
+237,230_NHL_2015_2016,13.11.2015 00:00:00,74,New York Rangers,80,St. Louis Blues,6,3,9,9,No,No,No,1,,,0,3,0,No,3,3,2,0,45,25,35,42,31,32,3,-6,3
+238,237_NHL_2015_2016,13.11.2015 00:00:00,71,Nashville Predators,82,Toronto Maple Leafs,1,2,3,2,Yes,Yes,Yes,2,,1,1,7,5,Yes,3,3,3,2,42,36,27,32,47,13,10,-11,14
+239,234_NHL_2015_2016,13.11.2015 00:00:00,75,Ottawa Senators,83,Vancouver Canucks,3,2,5,5,No,Yes,Yes,1,,,0,5,7,No,0,3,5,3,47,49,20,48,39,25,-1,10,-5
+240,233_NHL_2015_2016,13.11.2015 00:00:00,76,Philadelphia Flyers,84,Washington Capitals,2,5,7,7,No,No,No,2,,,0,0,4,No,0,0,0,1,28,43,16,43,32,28,-15,11,-12
+241,239_NHL_2015_2016,13.11.2015 00:00:00,64,Dallas Stars,85,Winnipeg Jets,6,3,9,9,No,No,No,1,,,0,2,3,No,0,0,3,5,56,42,35,45,46,26,11,-4,9
+242,242_NHL_2015_2016,14.11.2015 00:00:00,84,Washington Capitals,59,Calgary Flames,2,3,5,4,Yes,Yes,Yes,2,1,,1,5,2,Yes,3,0,1,3,48,34,31,41,66,13,7,-32,18
+243,243_NHL_2015_2016,14.11.2015 00:00:00,78,Pittsburgh Penguins,63,Columbus Blue Jackets,1,2,3,3,Yes,Yes,Yes,2,,,0,4,3,No,2,0,3,5,35,31,27,38,59,12,-3,-28,15
+244,245_NHL_2015_2016,14.11.2015 00:00:00,56,Anaheim Ducks,73,New York Islanders,1,4,5,5,No,Yes,Yes,2,,,0,3,4,No,1,0,1,2,28,41,18,45,41,26,-17,0,-8
+245,244_NHL_2015_2016,14.11.2015 00:00:00,65,Detroit Red Wings,79,San Jose Sharks,2,3,5,5,No,Yes,Yes,2,,,0,1,0,No,3,0,2,4,34,36,23,40,40,20,-6,-4,3
+246,247_NHL_2015_2016,16.11.2015 00:00:00,61,Chicago Blackhawks,59,Calgary Flames,4,1,5,5,No,Yes,Yes,1,,,0,2,3,No,0,2,3,2,41,41,22,44,68,15,-3,-27,7
+247,246_NHL_2015_2016,16.11.2015 00:00:00,74,New York Rangers,82,Toronto Maple Leafs,4,3,7,7,No,No,No,1,,,0,6,3,No,3,2,2,1,51,28,38,34,48,15,17,-20,23
+248,248_NHL_2015_2016,17.11.2015 00:00:00,60,Carolina Hurricanes,56,Anaheim Ducks,1,4,5,5,No,Yes,Yes,2,,,0,2,3,No,1,0,1,4,32,46,16,29,45,18,3,1,-2
+249,249_NHL_2015_2016,17.11.2015 00:00:00,73,New York Islanders,77,Arizona Coyotes,5,2,7,7,No,No,No,1,,,0,4,1,No,3,3,4,1,49,42,29,46,44,27,3,-2,2
+250,251_NHL_2015_2016,17.11.2015 00:00:00,75,Ottawa Senators,65,Detroit Red Wings,3,4,7,6,No,No,Yes,2,1,,1,3,2,Yes,3,0,2,3,50,51,23,36,39,23,14,12,0
+251,250_NHL_2015_2016,17.11.2015 00:00:00,67,Florida Panthers,81,Tampa Bay Lightning,1,0,1,1,Yes,Yes,Yes,1,,,0,2,3,No,0,3,3,1,43,41,21,42,43,24,1,-2,-3
+252,252_NHL_2015_2016,17.11.2015 00:00:00,70,Montreal Canadiens,83,Vancouver Canucks,4,3,7,6,No,No,Yes,1,1,,1,3,4,Yes,1,0,2,3,62,33,41,50,42,25,12,-9,16
+253,253_NHL_2015_2016,17.11.2015 00:00:00,80,St. Louis Blues,85,Winnipeg Jets,3,2,5,5,No,Yes,Yes,1,,,0,3,6,No,0,0,3,6,45,37,32,48,52,26,-3,-15,6
+254,260_NHL_2015_2016,18.11.2015 00:00:00,71,Nashville Predators,56,Anaheim Ducks,3,2,5,5,No,Yes,Yes,1,,,0,1,2,No,1,3,4,1,43,38,28,33,46,21,10,-8,7
+255,258_NHL_2015_2016,18.11.2015 00:00:00,82,Toronto Maple Leafs,62,Colorado Avalanche,5,1,6,6,No,No,Yes,1,,,0,3,4,No,0,3,3,2,37,52,15,43,44,19,-6,8,-4
+256,256_NHL_2015_2016,18.11.2015 00:00:00,58,Buffalo Sabres,64,Dallas Stars,1,3,4,4,Yes,Yes,Yes,2,,,0,3,2,No,3,3,6,3,39,44,22,62,45,38,-23,-1,-16
+257,257_NHL_2015_2016,18.11.2015 00:00:00,76,Philadelphia Flyers,68,Los Angeles Kings,2,3,5,4,Yes,Yes,Yes,2,,1,1,2,5,Yes,0,3,2,1,30,48,16,39,33,28,-9,15,-12
+258,259_NHL_2015_2016,18.11.2015 00:00:00,78,Pittsburgh Penguins,69,Minnesota Wild,4,3,7,7,No,No,No,1,,,0,1,2,No,0,2,3,2,36,33,27,46,40,31,-10,-7,-4
+259,261_NHL_2015_2016,18.11.2015 00:00:00,59,Calgary Flames,72,New Jersey Devils,3,2,5,5,No,Yes,Yes,1,,,0,1,4,No,0,3,3,2,45,72,15,40,40,23,5,32,-8
+260,255_NHL_2015_2016,18.11.2015 00:00:00,57,Boston Bruins,79,San Jose Sharks,4,5,9,9,No,No,No,2,,,0,2,3,No,0,3,3,2,49,48,22,43,42,23,6,6,-1
+261,254_NHL_2015_2016,18.11.2015 00:00:00,63,Columbus Blue Jackets,80,St. Louis Blues,3,1,4,4,Yes,Yes,Yes,1,,,0,2,1,No,3,3,3,2,40,60,15,48,39,35,-8,21,-20
+262,264_NHL_2015_2016,19.11.2015 00:00:00,66,Edmonton Oilers,61,Chicago Blackhawks,3,4,7,6,No,No,Yes,2,1,,1,1,4,Yes,0,3,4,1,44,54,16,45,42,25,-1,12,-9
+263,262_NHL_2015_2016,19.11.2015 00:00:00,85,Winnipeg Jets,83,Vancouver Canucks,4,1,5,5,No,Yes,Yes,1,,,0,2,3,No,0,1,3,4,50,55,26,53,46,26,-3,9,0
+264,263_NHL_2015_2016,19.11.2015 00:00:00,65,Detroit Red Wings,84,Washington Capitals,1,2,3,2,Yes,Yes,Yes,2,1,,1,4,3,Yes,2,1,2,3,40,42,25,50,37,32,-10,5,-7
+265,270_NHL_2015_2016,21.11.2015 00:00:00,59,Calgary Flames,61,Chicago Blackhawks,2,1,3,2,Yes,Yes,Yes,1,1,,1,3,2,Yes,3,2,4,3,48,74,18,49,45,27,-1,29,-9
+266,267_NHL_2015_2016,21.11.2015 00:00:00,65,Detroit Red Wings,68,Los Angeles Kings,3,2,5,5,No,Yes,Yes,1,,,0,1,2,No,1,2,3,2,41,44,26,42,35,30,-1,9,-4
+267,268_NHL_2015_2016,21.11.2015 00:00:00,73,New York Islanders,70,Montreal Canadiens,3,5,8,8,No,No,No,2,,,0,5,2,No,3,2,4,3,54,44,32,66,36,43,-12,8,-11
+268,265_NHL_2015_2016,21.11.2015 00:00:00,63,Columbus Blue Jackets,71,Nashville Predators,4,0,4,4,Yes,Yes,Yes,1,,,0,3,1,No,3,3,3,2,43,61,18,46,40,31,-3,21,-13
+269,269_NHL_2015_2016,21.11.2015 00:00:00,66,Edmonton Oilers,72,New Jersey Devils,5,1,6,6,No,No,Yes,1,,,0,3,4,No,1,0,2,3,47,58,17,42,43,23,5,15,-6
+270,266_NHL_2015_2016,21.11.2015 00:00:00,60,Carolina Hurricanes,82,Toronto Maple Leafs,1,2,3,2,Yes,Yes,Yes,2,,1,1,1,4,Yes,0,3,5,1,33,50,16,42,53,18,-9,-3,-2
+271,272_NHL_2015_2016,22.11.2015 00:00:00,81,Tampa Bay Lightning,56,Anaheim Ducks,5,0,5,5,No,Yes,Yes,1,,,0,0,1,No,0,0,2,3,42,44,24,35,49,21,7,-5,3
+272,274_NHL_2015_2016,22.11.2015 00:00:00,85,Winnipeg Jets,77,Arizona Coyotes,3,2,5,5,No,Yes,Yes,1,,,0,4,1,No,3,0,2,5,54,56,29,48,49,27,6,7,2
+273,278_NHL_2015_2016,22.11.2015 00:00:00,64,Dallas Stars,58,Buffalo Sabres,3,0,3,3,Yes,Yes,Yes,1,,,0,3,1,No,3,0,1,3,65,46,41,40,47,22,25,-1,19
+274,281_NHL_2015_2016,22.11.2015 00:00:00,83,Vancouver Canucks,61,Chicago Blackhawks,6,3,9,9,No,No,No,1,,,0,1,4,No,0,1,1,2,54,50,26,50,47,28,4,3,-2
+275,273_NHL_2015_2016,22.11.2015 00:00:00,84,Washington Capitals,62,Colorado Avalanche,7,3,10,10,No,No,No,1,,,0,2,1,No,2,0,1,5,52,38,34,44,49,19,8,-11,15
+276,280_NHL_2015_2016,22.11.2015 00:00:00,80,St. Louis Blues,65,Detroit Red Wings,3,4,7,6,No,No,Yes,2,1,,1,1,3,Yes,0,3,3,2,49,42,35,44,46,29,5,-4,6
+277,282_NHL_2015_2016,22.11.2015 00:00:00,60,Carolina Hurricanes,68,Los Angeles Kings,4,3,7,7,No,No,No,1,,,0,1,2,No,1,0,2,3,34,52,17,44,38,30,-10,14,-13
+278,279_NHL_2015_2016,22.11.2015 00:00:00,69,Minnesota Wild,71,Nashville Predators,4,0,4,4,Yes,Yes,Yes,1,,,0,3,4,No,0,0,0,4,49,44,31,46,44,31,3,0,0
+279,277_NHL_2015_2016,22.11.2015 00:00:00,67,Florida Panthers,74,New York Rangers,4,5,9,8,No,No,No,2,1,,1,1,0,Yes,3,3,4,3,44,41,24,55,31,41,-11,10,-17
+280,275_NHL_2015_2016,22.11.2015 00:00:00,75,Ottawa Senators,76,Philadelphia Flyers,4,0,4,4,Yes,Yes,Yes,1,,,0,3,4,No,1,1,2,3,53,55,24,32,51,17,21,4,7
+281,283_NHL_2015_2016,22.11.2015 00:00:00,63,Columbus Blue Jackets,79,San Jose Sharks,3,5,8,8,No,No,No,2,,,0,4,0,No,3,3,5,4,47,61,21,53,49,29,-6,12,-8
+282,271_NHL_2015_2016,22.11.2015 00:00:00,78,Pittsburgh Penguins,79,San Jose Sharks,1,3,4,4,Yes,Yes,Yes,2,,,0,4,3,No,3,3,5,3,40,36,30,53,49,29,-13,-13,1
+283,276_NHL_2015_2016,22.11.2015 00:00:00,57,Boston Bruins,82,Toronto Maple Leafs,2,0,2,2,Yes,Yes,Yes,1,,,0,4,5,No,0,2,2,1,53,53,22,44,54,20,9,-1,2
+284,285_NHL_2015_2016,23.11.2015 00:00:00,83,Vancouver Canucks,72,New Jersey Devils,2,3,5,5,No,Yes,Yes,2,,,0,6,3,No,3,0,1,5,60,53,29,43,48,23,17,5,6
+285,284_NHL_2015_2016,23.11.2015 00:00:00,70,Montreal Canadiens,73,New York Islanders,4,2,6,6,No,No,Yes,1,,,0,5,3,No,3,0,3,5,71,39,46,57,49,32,14,-10,14
+286,292_NHL_2015_2016,24.11.2015 00:00:00,82,Toronto Maple Leafs,57,Boston Bruins,3,4,7,6,No,No,Yes,2,,1,1,0,2,Yes,0,3,2,0,44,56,20,55,53,25,-11,3,-5
+287,291_NHL_2015_2016,24.11.2015 00:00:00,76,Philadelphia Flyers,60,Carolina Hurricanes,3,2,5,4,Yes,Yes,Yes,1,1,,1,0,4,Yes,0,3,4,3,32,55,17,38,55,20,-6,0,-3
+288,290_NHL_2015_2016,24.11.2015 00:00:00,85,Winnipeg Jets,62,Colorado Avalanche,1,4,5,5,No,Yes,Yes,2,,,0,3,2,No,3,0,3,7,57,58,32,47,56,19,10,2,13
+289,286_NHL_2015_2016,24.11.2015 00:00:00,84,Washington Capitals,66,Edmonton Oilers,1,0,1,1,Yes,Yes,Yes,1,,,0,7,3,No,3,3,5,1,59,41,37,52,59,20,7,-18,17
+290,289_NHL_2015_2016,24.11.2015 00:00:00,67,Florida Panthers,68,Los Angeles Kings,1,3,4,4,Yes,Yes,Yes,2,,,0,4,5,No,1,0,3,4,48,46,25,47,42,30,1,4,-5
+291,288_NHL_2015_2016,24.11.2015 00:00:00,74,New York Rangers,71,Nashville Predators,3,0,3,3,Yes,Yes,Yes,1,,,0,5,4,No,2,0,0,4,60,35,43,46,48,31,14,-13,12
+292,287_NHL_2015_2016,24.11.2015 00:00:00,58,Buffalo Sabres,80,St. Louis Blues,1,2,3,3,Yes,Yes,Yes,2,,,0,0,3,No,0,1,3,4,40,50,22,52,46,36,-12,4,-14
+293,303_NHL_2015_2016,26.11.2015 00:00:00,77,Arizona Coyotes,56,Anaheim Ducks,4,2,6,6,No,No,Yes,1,,,0,2,3,No,0,0,0,5,50,52,27,35,54,21,15,-2,6
+294,301_NHL_2015_2016,26.11.2015 00:00:00,65,Detroit Red Wings,57,Boston Bruins,2,3,5,4,Yes,Yes,Yes,2,1,,1,4,3,Yes,2,2,4,3,48,49,31,59,56,27,-11,-7,4
+295,305_NHL_2015_2016,26.11.2015 00:00:00,79,San Jose Sharks,61,Chicago Blackhawks,2,5,7,7,No,No,No,2,,,0,3,1,No,3,0,3,6,56,50,32,53,53,28,3,-3,4
+296,293_NHL_2015_2016,26.11.2015 00:00:00,72,New Jersey Devils,63,Columbus Blue Jackets,1,2,3,3,Yes,Yes,Yes,2,,,0,3,2,No,3,0,3,5,46,50,26,50,66,21,-4,-16,5
+297,294_NHL_2015_2016,26.11.2015 00:00:00,60,Carolina Hurricanes,66,Edmonton Oilers,4,1,5,5,No,Yes,Yes,1,,,0,2,3,No,1,0,0,1,40,58,21,52,60,20,-12,-2,1
+298,302_NHL_2015_2016,26.11.2015 00:00:00,81,Tampa Bay Lightning,68,Los Angeles Kings,2,1,3,2,Yes,Yes,Yes,1,,1,1,5,0,Yes,3,3,3,1,47,44,27,50,43,33,-3,1,-6
+299,299_NHL_2015_2016,26.11.2015 00:00:00,74,New York Rangers,70,Montreal Canadiens,1,5,6,6,No,No,Yes,2,,,0,3,0,No,3,3,4,2,63,35,46,75,41,49,-12,-6,-3
+300,295_NHL_2015_2016,26.11.2015 00:00:00,58,Buffalo Sabres,71,Nashville Predators,2,3,5,5,No,Yes,Yes,2,,,0,1,2,No,0,0,0,3,41,52,22,46,51,31,-5,1,-9
+301,304_NHL_2015_2016,26.11.2015 00:00:00,62,Colorado Avalanche,75,Ottawa Senators,3,5,8,8,No,No,No,2,,,0,4,1,No,3,3,4,0,51,57,22,57,55,27,-6,2,-5
+302,300_NHL_2015_2016,26.11.2015 00:00:00,73,New York Islanders,76,Philadelphia Flyers,3,1,4,4,Yes,Yes,Yes,1,,,0,2,4,No,0,2,3,2,59,53,32,35,57,19,24,-4,13
+303,296_NHL_2015_2016,26.11.2015 00:00:00,78,Pittsburgh Penguins,80,St. Louis Blues,4,3,7,6,No,No,Yes,1,1,,1,1,3,Yes,0,3,2,1,41,39,30,54,47,39,-13,-8,-9
+304,298_NHL_2015_2016,26.11.2015 00:00:00,69,Minnesota Wild,83,Vancouver Canucks,2,3,5,5,No,Yes,Yes,2,,,0,4,0,No,3,0,2,3,53,44,34,62,56,29,-9,-12,5
+305,297_NHL_2015_2016,26.11.2015 00:00:00,84,Washington Capitals,85,Winnipeg Jets,5,3,8,8,No,No,No,1,,,0,1,0,No,3,0,1,4,60,41,40,58,62,32,2,-21,8
+306,310_NHL_2015_2016,27.11.2015 00:00:00,56,Anaheim Ducks,61,Chicago Blackhawks,2,3,5,4,Yes,Yes,Yes,2,1,,1,2,4,Yes,0,3,5,2,37,58,21,58,55,31,-21,3,-10
+307,307_NHL_2015_2016,27.11.2015 00:00:00,76,Philadelphia Flyers,71,Nashville Predators,3,2,5,4,Yes,Yes,Yes,1,1,,1,1,3,Yes,0,3,3,2,36,60,19,49,53,34,-13,7,-15
+308,306_NHL_2015_2016,27.11.2015 00:00:00,57,Boston Bruins,74,New York Rangers,4,3,7,7,No,No,No,1,,,0,3,2,No,2,0,1,5,62,58,29,64,40,46,-2,18,-17
+309,309_NHL_2015_2016,27.11.2015 00:00:00,84,Washington Capitals,81,Tampa Bay Lightning,4,2,6,6,No,No,Yes,1,,,0,5,3,No,3,2,2,1,65,44,43,49,45,29,16,-1,14
+310,308_NHL_2015_2016,27.11.2015 00:00:00,69,Minnesota Wild,85,Winnipeg Jets,1,3,4,4,Yes,Yes,Yes,2,,,0,2,3,No,0,0,3,5,55,47,34,61,67,32,-6,-20,2
+311,317_NHL_2015_2016,28.11.2015 00:00:00,77,Arizona Coyotes,59,Calgary Flames,2,1,3,2,Yes,Yes,Yes,1,1,,1,4,2,Yes,3,2,2,1,54,54,30,50,75,20,4,-21,10
+312,311_NHL_2015_2016,28.11.2015 00:00:00,58,Buffalo Sabres,60,Carolina Hurricanes,4,1,5,5,No,Yes,Yes,1,,,0,2,3,No,0,3,4,1,43,55,22,44,59,24,-1,-4,-2
+313,314_NHL_2015_2016,28.11.2015 00:00:00,65,Detroit Red Wings,66,Edmonton Oilers,4,3,7,6,No,No,Yes,1,1,,1,2,3,Yes,1,0,1,4,50,52,32,53,64,20,-3,-12,12
+314,313_NHL_2015_2016,28.11.2015 00:00:00,72,New Jersey Devils,70,Montreal Canadiens,2,3,5,4,Yes,Yes,Yes,2,,1,1,1,2,Yes,0,3,5,1,47,52,26,80,42,52,-33,10,-26
+315,315_NHL_2015_2016,28.11.2015 00:00:00,67,Florida Panthers,73,New York Islanders,3,2,5,4,Yes,Yes,Yes,1,,1,1,1,3,Yes,0,3,3,1,49,49,25,62,54,35,-13,-5,-10
+316,318_NHL_2015_2016,28.11.2015 00:00:00,74,New York Rangers,76,Philadelphia Flyers,0,3,3,3,Yes,Yes,Yes,2,,,0,3,4,No,0,2,3,2,67,44,46,39,62,21,28,-18,25
+317,312_NHL_2015_2016,28.11.2015 00:00:00,63,Columbus Blue Jackets,78,Pittsburgh Penguins,2,1,3,2,Yes,Yes,Yes,1,1,,1,2,1,Yes,3,2,4,3,52,67,24,45,42,32,7,25,-8
+318,316_NHL_2015_2016,28.11.2015 00:00:00,64,Dallas Stars,83,Vancouver Canucks,3,2,5,4,Yes,Yes,Yes,1,,1,1,3,0,Yes,3,3,3,2,68,46,44,65,58,32,3,-12,12
+319,323_NHL_2015_2016,29.11.2015 00:00:00,71,Nashville Predators,58,Buffalo Sabres,1,4,5,5,No,Yes,Yes,2,,,0,2,3,No,1,3,4,1,51,56,35,47,56,25,4,0,10
+320,327_NHL_2015_2016,29.11.2015 00:00:00,79,San Jose Sharks,59,Calgary Flames,5,2,7,7,No,No,No,1,,,0,2,5,No,0,1,1,2,58,55,32,51,77,21,7,-22,11
+321,329_NHL_2015_2016,29.11.2015 00:00:00,68,Los Angeles Kings,61,Chicago Blackhawks,3,2,5,4,Yes,Yes,Yes,1,1,,1,1,2,Yes,1,2,3,2,51,45,34,61,57,33,-10,-12,1
+322,324_NHL_2015_2016,29.11.2015 00:00:00,80,St. Louis Blues,63,Columbus Blue Jackets,3,1,4,4,Yes,Yes,Yes,1,,,0,3,4,No,1,2,2,1,57,51,40,54,68,26,3,-17,14
+323,325_NHL_2015_2016,29.11.2015 00:00:00,69,Minnesota Wild,64,Dallas Stars,3,4,7,6,No,No,Yes,2,1,,1,1,3,Yes,0,2,3,2,56,50,34,71,48,46,-15,2,-12
+324,322_NHL_2015_2016,29.11.2015 00:00:00,78,Pittsburgh Penguins,66,Edmonton Oilers,2,3,5,4,Yes,Yes,Yes,2,,1,1,1,2,Yes,1,1,3,4,46,44,33,56,68,21,-10,-24,12
+325,330_NHL_2015_2016,29.11.2015 00:00:00,65,Detroit Red Wings,67,Florida Panthers,1,2,3,2,Yes,Yes,Yes,2,1,,1,4,3,Yes,2,2,3,2,54,55,34,52,51,27,2,4,7
+326,321_NHL_2015_2016,29.11.2015 00:00:00,70,Montreal Canadiens,72,New Jersey Devils,2,3,5,4,Yes,Yes,Yes,2,1,,1,3,2,Yes,2,1,2,3,83,44,54,49,55,27,34,-11,27
+327,319_NHL_2015_2016,29.11.2015 00:00:00,81,Tampa Bay Lightning,73,New York Islanders,2,3,5,5,No,Yes,Yes,2,,,0,2,4,No,0,1,2,3,51,49,29,64,57,36,-13,-8,-7
+328,328_NHL_2015_2016,29.11.2015 00:00:00,77,Arizona Coyotes,75,Ottawa Senators,4,3,7,7,No,No,No,1,,,0,2,1,No,2,3,5,3,56,55,32,62,58,30,-6,-3,2
+329,320_NHL_2015_2016,29.11.2015 00:00:00,82,Toronto Maple Leafs,84,Washington Capitals,2,4,6,6,No,No,Yes,2,,,0,3,4,No,1,3,4,2,47,60,21,69,46,46,-22,14,-25
+330,326_NHL_2015_2016,29.11.2015 00:00:00,62,Colorado Avalanche,85,Winnipeg Jets,5,3,8,8,No,No,No,1,,,0,3,5,No,0,3,3,1,54,62,22,64,68,35,-10,-6,-13
+331,332_NHL_2015_2016,01.12.2015 00:00:00,74,New York Rangers,60,Carolina Hurricanes,4,3,7,7,No,No,No,1,,,0,0,3,No,0,0,1,4,67,47,46,45,63,24,22,-16,22
+332,331_NHL_2015_2016,01.12.2015 00:00:00,73,New York Islanders,62,Colorado Avalanche,5,3,8,8,No,No,No,1,,,0,3,2,No,3,3,5,3,67,59,39,59,65,25,8,-6,14
+333,333_NHL_2015_2016,01.12.2015 00:00:00,82,Toronto Maple Leafs,66,Edmonton Oilers,3,0,3,3,Yes,Yes,Yes,1,,,0,2,4,No,0,2,3,2,49,64,21,59,70,23,-10,-6,-2
+334,334_NHL_2015_2016,01.12.2015 00:00:00,56,Anaheim Ducks,83,Vancouver Canucks,4,0,4,4,Yes,Yes,Yes,1,,,0,2,3,No,1,1,2,3,39,61,22,67,61,33,-28,0,-11
+335,340_NHL_2015_2016,02.12.2015 00:00:00,71,Nashville Predators,77,Arizona Coyotes,5,2,7,7,No,No,No,1,,,0,1,4,No,0,3,4,3,52,60,35,60,58,35,-8,2,0
+336,338_NHL_2015_2016,02.12.2015 00:00:00,65,Detroit Red Wings,58,Buffalo Sabres,5,4,9,8,No,No,No,1,,1,1,1,2,Yes,1,3,4,1,55,57,35,51,57,28,4,0,7
+337,335_NHL_2015_2016,02.12.2015 00:00:00,72,New Jersey Devils,62,Colorado Avalanche,1,2,3,3,Yes,Yes,Yes,2,,,0,3,2,No,2,0,3,5,52,57,29,62,70,25,-10,-13,4
+338,336_NHL_2015_2016,02.12.2015 00:00:00,70,Montreal Canadiens,63,Columbus Blue Jackets,2,1,3,3,Yes,Yes,Yes,1,,,0,2,3,No,1,0,1,3,85,47,55,55,71,26,30,-24,29
+339,342_NHL_2015_2016,02.12.2015 00:00:00,59,Calgary Flames,64,Dallas Stars,4,3,7,6,No,No,Yes,1,,1,1,2,5,Yes,0,2,4,3,53,82,21,75,51,48,-22,31,-27
+340,341_NHL_2015_2016,02.12.2015 00:00:00,80,St. Louis Blues,67,Florida Panthers,1,3,4,4,Yes,Yes,Yes,2,,,0,3,1,No,3,2,2,1,60,52,43,54,52,29,6,0,14
+341,339_NHL_2015_2016,02.12.2015 00:00:00,61,Chicago Blackhawks,69,Minnesota Wild,1,2,3,3,Yes,Yes,Yes,2,,,0,2,3,No,1,1,3,4,63,60,34,59,54,35,4,6,-1
+342,337_NHL_2015_2016,02.12.2015 00:00:00,75,Ottawa Senators,76,Philadelphia Flyers,2,4,6,6,No,No,Yes,2,,,0,3,4,No,0,3,3,0,65,62,30,42,62,24,23,0,6
+343,344_NHL_2015_2016,02.12.2015 00:00:00,79,San Jose Sharks,78,Pittsburgh Penguins,1,5,6,6,No,No,Yes,2,,,0,5,2,No,3,1,2,3,63,57,35,48,47,34,15,10,1
+344,343_NHL_2015_2016,02.12.2015 00:00:00,68,Los Angeles Kings,83,Vancouver Canucks,2,1,3,2,Yes,Yes,Yes,1,1,,1,3,2,Yes,2,0,0,4,54,47,36,67,65,33,-13,-18,3
+345,347_NHL_2015_2016,03.12.2015 00:00:00,66,Edmonton Oilers,57,Boston Bruins,3,2,5,4,Yes,Yes,Yes,1,,1,1,0,3,Yes,0,3,4,3,59,73,23,66,61,32,-7,12,-9
+346,346_NHL_2015_2016,03.12.2015 00:00:00,73,New York Islanders,74,New York Rangers,2,1,3,2,Yes,Yes,Yes,1,,1,1,5,3,Yes,3,3,4,3,72,62,42,71,50,49,1,12,-7
+347,348_NHL_2015_2016,03.12.2015 00:00:00,56,Anaheim Ducks,81,Tampa Bay Lightning,1,2,3,3,Yes,Yes,Yes,2,,,0,4,0,No,3,0,2,3,43,61,25,53,52,29,-10,9,-4
+348,345_NHL_2015_2016,03.12.2015 00:00:00,85,Winnipeg Jets,82,Toronto Maple Leafs,6,1,7,7,No,No,No,1,,,0,3,5,No,0,3,3,0,67,73,35,52,64,24,15,9,11
+349,354_NHL_2015_2016,04.12.2015 00:00:00,65,Detroit Red Wings,77,Arizona Coyotes,5,1,6,6,No,No,Yes,1,,,0,5,4,No,2,0,2,5,60,61,37,62,63,35,-2,-2,2
+350,352_NHL_2015_2016,04.12.2015 00:00:00,75,Ottawa Senators,61,Chicago Blackhawks,4,3,7,6,No,No,Yes,1,1,,1,2,4,Yes,0,0,1,2,67,66,30,64,62,34,3,4,-4
+351,356_NHL_2015_2016,04.12.2015 00:00:00,74,New York Rangers,62,Colorado Avalanche,1,2,3,3,Yes,Yes,Yes,2,,,0,1,2,No,1,3,2,1,72,52,50,64,71,28,8,-19,22
+352,349_NHL_2015_2016,04.12.2015 00:00:00,83,Vancouver Canucks,64,Dallas Stars,2,4,6,6,No,No,Yes,2,,,0,1,2,No,1,1,3,4,68,67,34,78,55,49,-10,12,-15
+353,350_NHL_2015_2016,04.12.2015 00:00:00,71,Nashville Predators,67,Florida Panthers,1,2,3,3,Yes,Yes,Yes,2,,,0,5,2,No,3,3,3,1,57,62,38,57,53,32,0,9,6
+354,355_NHL_2015_2016,04.12.2015 00:00:00,60,Carolina Hurricanes,72,New Jersey Devils,1,5,6,6,No,No,Yes,2,,,0,3,4,No,0,0,1,2,48,67,24,53,59,29,-5,8,-5
+355,351_NHL_2015_2016,04.12.2015 00:00:00,69,Minnesota Wild,82,Toronto Maple Leafs,1,0,1,1,Yes,Yes,Yes,1,,,0,2,1,No,3,0,1,6,61,55,38,53,70,24,8,-15,14
+356,353_NHL_2015_2016,04.12.2015 00:00:00,70,Montreal Canadiens,84,Washington Capitals,2,3,5,5,No,Yes,Yes,2,,,0,2,1,No,3,3,4,2,87,48,58,73,48,49,14,0,9
+357,358_NHL_2015_2016,05.12.2015 00:00:00,58,Buffalo Sabres,77,Arizona Coyotes,5,2,7,7,No,No,No,1,,,0,4,5,No,1,0,1,5,55,62,29,63,68,35,-8,-6,-6
+358,362_NHL_2015_2016,05.12.2015 00:00:00,59,Calgary Flames,57,Boston Bruins,5,4,9,8,No,No,No,1,1,,1,4,3,Yes,2,1,2,3,57,85,23,68,64,33,-11,21,-10
+359,361_NHL_2015_2016,05.12.2015 00:00:00,66,Edmonton Oilers,64,Dallas Stars,2,1,3,2,Yes,Yes,Yes,1,1,,1,3,2,Yes,2,3,4,2,62,75,25,82,57,52,-20,18,-27
+360,359_NHL_2015_2016,05.12.2015 00:00:00,63,Columbus Blue Jackets,67,Florida Panthers,1,2,3,2,Yes,Yes,Yes,2,,1,1,1,2,Yes,0,3,2,1,56,73,26,59,54,35,-3,19,-9
+361,357_NHL_2015_2016,05.12.2015 00:00:00,72,New Jersey Devils,76,Philadelphia Flyers,3,4,7,6,No,No,Yes,2,1,,1,5,1,Yes,3,3,4,2,58,60,32,46,64,27,12,-4,5
+362,365_NHL_2015_2016,05.12.2015 00:00:00,68,Los Angeles Kings,78,Pittsburgh Penguins,5,3,8,8,No,No,No,1,,,0,2,1,No,2,3,5,1,56,48,38,53,48,37,3,0,1
+363,363_NHL_2015_2016,05.12.2015 00:00:00,56,Anaheim Ducks,79,San Jose Sharks,1,0,1,1,Yes,Yes,Yes,1,,,0,1,2,No,0,0,1,5,44,63,25,64,62,35,-20,1,-10
+364,360_NHL_2015_2016,05.12.2015 00:00:00,73,New York Islanders,80,St. Louis Blues,2,1,3,2,Yes,Yes,Yes,1,,1,1,2,1,Yes,2,0,1,3,74,63,44,61,55,43,13,8,1
+365,364_NHL_2015_2016,05.12.2015 00:00:00,85,Winnipeg Jets,84,Washington Capitals,2,1,3,2,Yes,Yes,Yes,1,1,,1,6,1,Yes,3,3,3,2,73,74,38,76,50,52,-3,24,-14
+366,374_NHL_2015_2016,06.12.2015 00:00:00,60,Carolina Hurricanes,77,Arizona Coyotes,5,4,9,9,No,No,No,1,,,0,3,2,No,3,0,2,5,52,74,27,65,73,35,-13,1,-8
+367,372_NHL_2015_2016,06.12.2015 00:00:00,83,Vancouver Canucks,57,Boston Bruins,0,4,4,4,Yes,Yes,Yes,2,,,0,2,4,No,0,1,4,5,70,71,34,72,69,34,-2,2,0
+368,371_NHL_2015_2016,06.12.2015 00:00:00,69,Minnesota Wild,62,Colorado Avalanche,3,0,3,3,Yes,Yes,Yes,1,,,0,1,0,No,3,3,2,1,62,55,41,66,72,31,-4,-17,10
+369,370_NHL_2015_2016,06.12.2015 00:00:00,76,Philadelphia Flyers,63,Columbus Blue Jackets,1,4,5,5,No,Yes,Yes,2,,,0,4,3,No,2,1,1,2,50,67,29,57,75,27,-7,-8,2
+370,368_NHL_2015_2016,06.12.2015 00:00:00,60,Carolina Hurricanes,70,Montreal Canadiens,3,2,5,5,No,Yes,Yes,1,,,0,1,5,No,0,0,2,3,52,74,27,89,51,58,-37,23,-31
+371,367_NHL_2015_2016,06.12.2015 00:00:00,65,Detroit Red Wings,71,Nashville Predators,5,4,9,8,No,No,No,1,1,,1,5,1,Yes,3,0,1,2,65,62,40,58,64,38,7,-2,2
+372,369_NHL_2015_2016,06.12.2015 00:00:00,75,Ottawa Senators,73,New York Islanders,3,2,5,4,Yes,Yes,Yes,1,1,,1,4,3,Yes,2,2,2,1,71,69,32,76,64,46,-5,5,-14
+373,373_NHL_2015_2016,06.12.2015 00:00:00,79,San Jose Sharks,81,Tampa Bay Lightning,3,4,7,7,No,No,No,2,,,0,0,1,No,0,3,2,1,64,63,35,55,53,32,9,10,3
+374,366_NHL_2015_2016,06.12.2015 00:00:00,80,St. Louis Blues,82,Toronto Maple Leafs,1,4,5,5,No,Yes,Yes,2,,,0,1,2,No,1,0,0,1,62,57,44,53,71,24,9,-14,20
+375,375_NHL_2015_2016,06.12.2015 00:00:00,61,Chicago Blackhawks,85,Winnipeg Jets,3,1,4,4,Yes,Yes,Yes,1,,,0,3,4,No,1,2,2,1,67,66,35,75,75,40,-8,-9,-5
+376,379_NHL_2015_2016,07.12.2015 00:00:00,66,Edmonton Oilers,58,Buffalo Sabres,4,2,6,6,No,No,Yes,1,,,0,2,1,No,2,3,5,2,64,76,27,60,64,32,4,12,-5
+377,376_NHL_2015_2016,07.12.2015 00:00:00,72,New Jersey Devils,67,Florida Panthers,4,2,6,6,No,No,Yes,1,,,0,3,4,No,1,2,2,1,61,64,33,61,55,37,0,9,-4
+378,377_NHL_2015_2016,07.12.2015 00:00:00,74,New York Rangers,75,Ottawa Senators,4,1,5,5,No,Yes,Yes,1,,,0,1,2,No,0,2,3,2,73,54,50,74,71,34,-1,-17,16
+379,378_NHL_2015_2016,07.12.2015 00:00:00,56,Anaheim Ducks,78,Pittsburgh Penguins,2,1,3,3,Yes,Yes,Yes,1,,,0,1,0,No,3,0,3,5,45,63,28,56,53,37,-11,10,-9
+380,380_NHL_2015_2016,07.12.2015 00:00:00,68,Los Angeles Kings,81,Tampa Bay Lightning,3,1,4,4,Yes,Yes,Yes,1,,,0,5,3,No,3,3,4,3,61,51,41,59,56,35,2,-5,6
+381,383_NHL_2015_2016,08.12.2015 00:00:00,83,Vancouver Canucks,58,Buffalo Sabres,5,2,7,7,No,No,No,1,,,0,0,4,No,0,0,2,4,70,75,34,62,68,32,8,7,2
+382,382_NHL_2015_2016,08.12.2015 00:00:00,62,Colorado Avalanche,69,Minnesota Wild,2,1,3,3,Yes,Yes,Yes,1,,,0,0,3,No,0,3,3,0,66,75,31,65,55,44,1,20,-13
+383,381_NHL_2015_2016,08.12.2015 00:00:00,57,Boston Bruins,71,Nashville Predators,2,3,5,5,No,Yes,Yes,2,,,0,4,0,No,3,1,4,5,76,69,37,62,69,39,14,0,-2
+384,389_NHL_2015_2016,09.12.2015 00:00:00,80,St. Louis Blues,77,Arizona Coyotes,4,1,5,5,No,Yes,Yes,1,,,0,1,4,No,0,0,4,5,63,61,44,69,78,35,-6,-17,9
+385,391_NHL_2015_2016,09.12.2015 00:00:00,64,Dallas Stars,60,Carolina Hurricanes,6,5,11,11,No,No,No,1,,,0,1,2,No,1,3,5,4,83,59,53,57,78,30,26,-19,23
+386,387_NHL_2015_2016,09.12.2015 00:00:00,84,Washington Capitals,65,Detroit Red Wings,3,2,5,4,Yes,Yes,Yes,1,,1,1,1,2,Yes,1,2,5,4,77,52,53,70,66,42,7,-14,11
+387,384_NHL_2015_2016,09.12.2015 00:00:00,63,Columbus Blue Jackets,68,Los Angeles Kings,2,3,5,4,Yes,Yes,Yes,2,1,,1,4,1,Yes,3,3,3,1,61,76,30,64,52,44,-3,24,-14
+388,390_NHL_2015_2016,09.12.2015 00:00:00,61,Chicago Blackhawks,71,Nashville Predators,4,1,5,5,No,Yes,Yes,1,,,0,3,1,No,3,3,3,2,70,67,38,65,71,42,5,-4,-4
+389,388_NHL_2015_2016,09.12.2015 00:00:00,82,Toronto Maple Leafs,72,New Jersey Devils,3,2,5,4,Yes,Yes,Yes,1,,1,1,4,1,Yes,3,3,4,2,57,72,27,65,66,36,-8,6,-9
+390,385_NHL_2015_2016,09.12.2015 00:00:00,76,Philadelphia Flyers,73,New York Islanders,3,4,7,6,No,No,Yes,2,,1,1,1,4,Yes,0,1,2,3,51,71,29,78,67,47,-27,4,-18
+391,386_NHL_2015_2016,09.12.2015 00:00:00,67,Florida Panthers,75,Ottawa Senators,2,4,6,6,No,No,Yes,2,,,0,2,4,No,0,0,1,4,63,59,37,75,75,34,-12,-16,3
+392,392_NHL_2015_2016,09.12.2015 00:00:00,59,Calgary Flames,79,San Jose Sharks,4,2,6,6,No,No,Yes,1,,,0,5,4,No,2,0,3,4,62,89,25,67,67,35,-5,22,-10
+393,393_NHL_2015_2016,10.12.2015 00:00:00,70,Montreal Canadiens,57,Boston Bruins,1,3,4,4,Yes,Yes,Yes,2,,,0,2,3,No,0,0,2,3,91,54,58,78,72,37,13,-18,21
+394,396_NHL_2015_2016,10.12.2015 00:00:00,83,Vancouver Canucks,74,New York Rangers,2,1,3,3,Yes,Yes,Yes,1,,,0,5,2,No,3,3,4,1,75,77,37,77,55,53,-2,22,-16
+395,395_NHL_2015_2016,10.12.2015 00:00:00,62,Colorado Avalanche,78,Pittsburgh Penguins,2,4,6,6,No,No,Yes,2,,,0,2,1,No,3,0,1,2,68,76,34,57,55,37,11,21,-3
+396,394_NHL_2015_2016,10.12.2015 00:00:00,66,Edmonton Oilers,79,San Jose Sharks,4,3,7,6,No,No,Yes,1,1,,1,4,2,Yes,3,0,2,4,68,78,30,69,71,35,-1,7,-5
+397,403_NHL_2015_2016,11.12.2015 00:00:00,59,Calgary Flames,58,Buffalo Sabres,4,3,7,7,No,No,No,1,,,0,4,2,No,3,0,2,5,66,91,28,64,73,32,2,18,-4
+398,401_NHL_2015_2016,11.12.2015 00:00:00,71,Nashville Predators,61,Chicago Blackhawks,5,1,6,6,No,No,Yes,1,,,0,1,4,No,0,3,4,1,66,75,42,74,68,41,-8,7,1
+399,402_NHL_2015_2016,11.12.2015 00:00:00,85,Winnipeg Jets,63,Columbus Blue Jackets,6,4,10,10,No,No,No,1,,,0,1,3,No,0,1,2,3,76,78,40,63,79,31,13,-1,9
+400,397_NHL_2015_2016,11.12.2015 00:00:00,65,Detroit Red Wings,70,Montreal Canadiens,3,2,5,5,No,Yes,Yes,1,,,0,2,3,No,1,0,1,3,72,69,43,92,57,58,-20,12,-15
+401,398_NHL_2015_2016,11.12.2015 00:00:00,81,Tampa Bay Lightning,75,Ottawa Senators,4,1,5,5,No,Yes,Yes,1,,,0,1,3,No,0,3,4,2,60,59,35,79,77,37,-19,-18,-2
+402,400_NHL_2015_2016,11.12.2015 00:00:00,80,St. Louis Blues,76,Philadelphia Flyers,2,4,6,6,No,No,Yes,2,,,0,4,1,No,3,1,3,4,67,62,47,54,75,30,13,-13,17
+403,399_NHL_2015_2016,11.12.2015 00:00:00,67,Florida Panthers,84,Washington Capitals,4,1,5,5,No,Yes,Yes,1,,,0,2,4,No,0,2,3,2,65,63,37,80,54,55,-15,9,-18
+404,410_NHL_2015_2016,12.12.2015 00:00:00,56,Anaheim Ducks,60,Carolina Hurricanes,1,5,6,6,No,No,Yes,2,,,0,2,1,No,3,0,5,6,47,64,31,62,84,30,-15,-20,1
+405,404_NHL_2015_2016,12.12.2015 00:00:00,72,New Jersey Devils,65,Detroit Red Wings,3,2,5,4,Yes,Yes,Yes,1,1,,1,2,3,Yes,1,3,3,2,67,69,37,75,71,46,-8,-2,-9
+406,411_NHL_2015_2016,12.12.2015 00:00:00,57,Boston Bruins,67,Florida Panthers,3,1,4,4,Yes,Yes,Yes,1,,,0,3,1,No,3,3,4,1,81,73,40,69,64,40,12,9,0
+407,405_NHL_2015_2016,12.12.2015 00:00:00,78,Pittsburgh Penguins,68,Los Angeles Kings,2,3,5,4,Yes,Yes,Yes,2,,1,1,4,2,Yes,3,2,3,2,61,57,40,67,54,46,-6,3,-6
+408,408_NHL_2015_2016,12.12.2015 00:00:00,77,Arizona Coyotes,69,Minnesota Wild,2,1,3,2,Yes,Yes,Yes,1,1,,1,1,4,Yes,0,0,1,2,70,82,35,66,57,44,4,25,-9
+409,409_NHL_2015_2016,12.12.2015 00:00:00,66,Edmonton Oilers,74,New York Rangers,7,5,12,12,No,No,No,1,,,0,4,3,No,2,0,1,2,72,81,32,78,57,53,-6,24,-21
+410,407_NHL_2015_2016,12.12.2015 00:00:00,64,Dallas Stars,76,Philadelphia Flyers,3,1,4,4,Yes,Yes,Yes,1,,,0,6,5,No,3,3,4,2,89,64,56,58,77,33,31,-13,23
+411,406_NHL_2015_2016,12.12.2015 00:00:00,61,Chicago Blackhawks,85,Winnipeg Jets,2,0,2,2,Yes,Yes,Yes,1,,,0,1,5,No,0,3,6,4,75,73,41,82,82,43,-7,-9,-2
+412,418_NHL_2015_2016,13.12.2015 00:00:00,77,Arizona Coyotes,60,Carolina Hurricanes,4,5,9,8,No,No,No,2,1,,1,2,1,Yes,2,3,5,1,72,83,37,67,85,33,5,-2,4
+413,416_NHL_2015_2016,13.12.2015 00:00:00,71,Nashville Predators,62,Colorado Avalanche,2,3,5,5,No,Yes,Yes,2,,,0,5,1,No,3,0,2,4,71,76,45,70,80,34,1,-4,11
+414,417_NHL_2015_2016,13.12.2015 00:00:00,80,St. Louis Blues,64,Dallas Stars,3,0,3,3,Yes,Yes,Yes,1,,,0,2,4,No,0,3,3,1,69,66,47,92,65,59,-23,1,-12
+415,414_NHL_2015_2016,13.12.2015 00:00:00,58,Buffalo Sabres,68,Los Angeles Kings,2,1,3,2,Yes,Yes,Yes,1,1,,1,3,4,Yes,0,2,3,2,67,77,32,70,56,48,-3,21,-16
+416,420_NHL_2015_2016,13.12.2015 00:00:00,79,San Jose Sharks,69,Minnesota Wild,0,2,2,2,Yes,Yes,Yes,2,,,0,3,4,No,1,1,1,2,72,75,36,67,59,45,5,16,-9
+417,421_NHL_2015_2016,13.12.2015 00:00:00,73,New York Islanders,72,New Jersey Devils,4,0,4,4,Yes,Yes,Yes,1,,,0,4,3,No,2,2,3,2,86,70,52,70,71,39,16,-1,13
+418,412_NHL_2015_2016,13.12.2015 00:00:00,63,Columbus Blue Jackets,73,New York Islanders,2,3,5,4,Yes,Yes,Yes,2,1,,1,4,6,Yes,0,3,4,0,67,85,31,86,70,52,-19,15,-21
+419,419_NHL_2015_2016,13.12.2015 00:00:00,59,Calgary Flames,74,New York Rangers,5,4,9,8,No,No,No,1,1,,1,4,3,Yes,3,0,5,7,70,94,31,83,64,53,-13,30,-22
+420,415_NHL_2015_2016,13.12.2015 00:00:00,70,Montreal Canadiens,75,Ottawa Senators,3,1,4,4,Yes,Yes,Yes,1,,,0,2,3,No,0,0,1,4,94,60,58,80,81,37,14,-21,21
+421,413_NHL_2015_2016,13.12.2015 00:00:00,81,Tampa Bay Lightning,84,Washington Capitals,1,2,3,3,Yes,Yes,Yes,2,,,0,4,1,No,3,0,1,4,64,60,38,81,58,55,-17,2,-17
+422,422_NHL_2015_2016,14.12.2015 00:00:00,80,St. Louis Blues,62,Colorado Avalanche,1,3,4,4,Yes,Yes,Yes,2,,,0,3,0,No,3,3,3,2,72,66,50,73,82,37,-1,-16,13
+423,423_NHL_2015_2016,14.12.2015 00:00:00,61,Chicago Blackhawks,83,Vancouver Canucks,4,0,4,4,Yes,Yes,Yes,1,,,0,2,0,No,3,3,2,1,77,73,44,77,78,40,0,-5,4
+424,427_NHL_2015_2016,15.12.2015 00:00:00,65,Detroit Red Wings,58,Buffalo Sabres,1,2,3,3,Yes,Yes,Yes,2,,,0,2,3,No,1,2,2,1,77,74,47,69,78,34,8,-4,13
+425,426_NHL_2015_2016,15.12.2015 00:00:00,57,Boston Bruins,66,Edmonton Oilers,2,3,5,4,Yes,Yes,Yes,2,1,,1,3,1,Yes,3,3,7,5,84,74,43,79,86,35,5,-12,8
+426,428_NHL_2015_2016,15.12.2015 00:00:00,75,Ottawa Senators,68,Los Angeles Kings,5,3,8,8,No,No,No,1,,,0,1,3,No,0,1,1,2,81,84,37,71,58,49,10,26,-12
+427,424_NHL_2015_2016,15.12.2015 00:00:00,63,Columbus Blue Jackets,81,Tampa Bay Lightning,1,2,3,3,Yes,Yes,Yes,2,,,0,2,3,No,1,0,1,2,69,88,32,65,62,38,4,26,-6
+428,425_NHL_2015_2016,15.12.2015 00:00:00,78,Pittsburgh Penguins,84,Washington Capitals,1,4,5,5,No,Yes,Yes,2,,,0,2,3,No,1,3,2,1,63,60,41,83,59,58,-20,1,-17
+429,435_NHL_2015_2016,16.12.2015 00:00:00,71,Nashville Predators,59,Calgary Flames,1,2,3,2,Yes,Yes,Yes,2,1,,1,2,3,Yes,0,2,5,4,73,79,45,75,98,33,-2,-19,12
+430,432_NHL_2015_2016,16.12.2015 00:00:00,76,Philadelphia Flyers,60,Carolina Hurricanes,4,3,7,6,No,No,Yes,1,1,,1,1,3,Yes,0,2,5,4,59,80,33,72,89,35,-13,-9,-2
+431,438_NHL_2015_2016,16.12.2015 00:00:00,61,Chicago Blackhawks,62,Colorado Avalanche,0,3,3,3,Yes,Yes,Yes,2,,,0,4,0,No,3,3,3,1,81,73,47,76,83,40,5,-10,7
+432,439_NHL_2015_2016,16.12.2015 00:00:00,64,Dallas Stars,63,Columbus Blue Jackets,5,1,6,6,No,No,Yes,1,,,0,0,3,No,0,0,1,2,92,68,59,70,90,32,22,-22,27
+433,430_NHL_2015_2016,16.12.2015 00:00:00,74,New York Rangers,66,Edmonton Oilers,4,2,6,6,No,No,Yes,1,,,0,4,5,No,1,2,3,2,87,69,54,82,88,37,5,-19,17
+434,431_NHL_2015_2016,16.12.2015 00:00:00,73,New York Islanders,67,Florida Panthers,1,5,6,6,No,No,Yes,2,,,0,3,2,No,2,0,1,3,89,72,54,70,67,40,19,5,14
+435,429_NHL_2015_2016,16.12.2015 00:00:00,58,Buffalo Sabres,72,New Jersey Devils,0,2,2,2,Yes,Yes,Yes,2,,,0,2,1,No,3,0,0,4,71,79,37,70,75,39,1,4,-2
+436,433_NHL_2015_2016,16.12.2015 00:00:00,70,Montreal Canadiens,79,San Jose Sharks,1,3,4,4,Yes,Yes,Yes,2,,,0,3,1,No,3,0,0,2,97,61,61,72,77,36,25,-16,25
+437,436_NHL_2015_2016,16.12.2015 00:00:00,85,Winnipeg Jets,80,St. Louis Blues,3,4,7,7,No,No,No,2,,,0,0,2,No,0,0,1,3,82,84,43,73,69,50,9,15,-7
+438,434_NHL_2015_2016,16.12.2015 00:00:00,82,Toronto Maple Leafs,81,Tampa Bay Lightning,4,5,9,8,No,No,No,2,1,,1,3,2,Yes,2,3,2,1,60,74,29,67,63,41,-7,11,-12
+439,437_NHL_2015_2016,16.12.2015 00:00:00,69,Minnesota Wild,83,Vancouver Canucks,6,2,8,8,No,No,No,1,,,0,2,0,No,3,0,0,4,69,59,48,77,82,40,-8,-23,8
+440,440_NHL_2015_2016,17.12.2015 00:00:00,84,Washington Capitals,75,Ottawa Senators,2,1,3,3,Yes,Yes,Yes,1,,,0,4,1,No,3,3,5,3,87,60,61,86,87,40,1,-27,21
+441,441_NHL_2015_2016,17.12.2015 00:00:00,57,Boston Bruins,78,Pittsburgh Penguins,3,0,3,3,Yes,Yes,Yes,1,,,0,2,3,No,1,0,1,4,86,77,44,64,64,41,22,13,3
+442,443_NHL_2015_2016,18.12.2015 00:00:00,58,Buffalo Sabres,56,Anaheim Ducks,3,0,3,3,Yes,Yes,Yes,1,,,0,0,2,No,0,0,1,5,71,81,37,48,69,31,23,12,6
+443,450_NHL_2015_2016,18.12.2015 00:00:00,64,Dallas Stars,59,Calgary Flames,1,3,4,4,Yes,Yes,Yes,2,,,0,5,1,No,3,2,2,1,97,69,62,77,99,35,20,-30,27
+444,452_NHL_2015_2016,18.12.2015 00:00:00,77,Arizona Coyotes,63,Columbus Blue Jackets,5,7,12,12,No,No,No,2,,,0,4,5,No,1,0,1,5,76,88,38,71,95,32,5,-7,6
+445,449_NHL_2015_2016,18.12.2015 00:00:00,61,Chicago Blackhawks,66,Edmonton Oilers,4,0,4,4,Yes,Yes,Yes,1,,,0,0,3,No,0,0,2,4,81,76,47,84,92,37,-3,-16,10
+446,442_NHL_2015_2016,18.12.2015 00:00:00,72,New Jersey Devils,67,Florida Panthers,1,5,6,6,No,No,Yes,2,,,0,2,0,No,3,3,5,1,72,75,42,75,68,43,-3,7,-1
+447,445_NHL_2015_2016,18.12.2015 00:00:00,70,Montreal Canadiens,68,Los Angeles Kings,0,3,3,3,Yes,Yes,Yes,2,,,0,1,3,No,0,0,3,5,98,64,61,74,63,49,24,1,12
+448,447_NHL_2015_2016,18.12.2015 00:00:00,80,St. Louis Blues,71,Nashville Predators,2,1,3,3,Yes,Yes,Yes,1,,,0,4,3,No,3,1,1,2,77,72,53,74,81,46,3,-9,7
+449,451_NHL_2015_2016,18.12.2015 00:00:00,62,Colorado Avalanche,73,New York Islanders,2,1,3,3,Yes,Yes,Yes,1,,,0,3,0,No,3,0,1,5,79,83,43,90,77,54,-11,6,-11
+450,448_NHL_2015_2016,18.12.2015 00:00:00,69,Minnesota Wild,74,New York Rangers,5,2,7,7,No,No,No,1,,,0,6,2,No,3,3,4,2,75,61,51,91,71,57,-16,-10,-6
+451,446_NHL_2015_2016,18.12.2015 00:00:00,82,Toronto Maple Leafs,79,San Jose Sharks,4,5,9,8,No,No,No,2,1,,1,4,5,Yes,1,3,3,1,64,79,30,75,78,39,-11,1,-9
+452,444_NHL_2015_2016,18.12.2015 00:00:00,76,Philadelphia Flyers,83,Vancouver Canucks,2,0,2,2,Yes,Yes,Yes,1,,,0,4,3,No,2,0,2,6,63,83,35,79,88,40,-16,-5,-5
+453,455_NHL_2015_2016,19.12.2015 00:00:00,78,Pittsburgh Penguins,57,Boston Bruins,2,6,8,8,No,No,No,2,,,0,0,3,No,0,3,3,0,64,67,41,89,77,47,-25,-10,-6
+454,460_NHL_2015_2016,19.12.2015 00:00:00,80,St. Louis Blues,59,Calgary Flames,3,2,5,5,No,Yes,Yes,1,,,0,2,1,No,3,3,3,1,79,73,56,80,100,38,-1,-27,18
+455,459_NHL_2015_2016,19.12.2015 00:00:00,58,Buffalo Sabres,61,Chicago Blackhawks,2,3,5,4,Yes,Yes,Yes,2,,1,1,3,0,Yes,3,3,4,0,74,81,40,85,76,50,-11,5,-10
+456,453_NHL_2015_2016,19.12.2015 00:00:00,60,Carolina Hurricanes,67,Florida Panthers,0,2,2,2,Yes,Yes,Yes,2,,,0,3,4,No,1,3,5,1,75,93,36,80,69,46,-5,24,-10
+457,458_NHL_2015_2016,19.12.2015 00:00:00,85,Winnipeg Jets,74,New York Rangers,5,2,7,7,No,No,No,1,,,0,3,4,No,0,0,2,5,85,88,43,93,76,57,-8,12,-14
+458,456_NHL_2015_2016,19.12.2015 00:00:00,75,Ottawa Senators,79,San Jose Sharks,4,2,6,6,No,No,Yes,1,,,0,1,2,No,0,2,5,4,87,89,40,80,82,41,7,7,-1
+459,454_NHL_2015_2016,19.12.2015 00:00:00,84,Washington Capitals,81,Tampa Bay Lightning,5,3,8,8,No,No,No,1,,,0,2,1,No,3,2,5,4,89,61,64,72,67,43,17,-6,21
+460,457_NHL_2015_2016,19.12.2015 00:00:00,65,Detroit Red Wings,83,Vancouver Canucks,3,4,7,6,No,No,Yes,2,,1,1,1,2,Yes,0,0,0,2,78,76,47,79,90,40,-1,-14,7
+461,462_NHL_2015_2016,20.12.2015 00:00:00,72,New Jersey Devils,56,Anaheim Ducks,1,2,3,3,Yes,Yes,Yes,2,,,0,1,5,No,0,0,0,3,74,82,42,48,72,31,26,10,11
+462,461_NHL_2015_2016,20.12.2015 00:00:00,78,Pittsburgh Penguins,60,Carolina Hurricanes,1,2,3,3,Yes,Yes,Yes,2,,,0,2,6,No,0,0,0,2,66,73,41,75,95,36,-9,-22,5
+463,468_NHL_2015_2016,20.12.2015 00:00:00,62,Colorado Avalanche,66,Edmonton Oilers,5,1,6,6,No,No,Yes,1,,,0,2,1,No,3,0,0,4,81,84,46,84,96,37,-3,-12,9
+464,463_NHL_2015_2016,20.12.2015 00:00:00,82,Toronto Maple Leafs,68,Los Angeles Kings,5,0,5,5,No,Yes,Yes,1,,,0,4,5,No,1,3,3,0,68,84,31,77,63,52,-9,21,-21
+465,466_NHL_2015_2016,20.12.2015 00:00:00,71,Nashville Predators,69,Minnesota Wild,3,2,5,5,No,Yes,Yes,1,,,0,1,2,No,0,3,5,2,75,83,46,80,63,54,-5,20,-8
+466,465_NHL_2015_2016,20.12.2015 00:00:00,64,Dallas Stars,70,Montreal Canadiens,6,2,8,8,No,No,No,1,,,0,1,3,No,0,0,0,3,98,72,62,98,67,61,0,5,1
+467,471_NHL_2015_2016,20.12.2015 00:00:00,57,Boston Bruins,72,New Jersey Devils,2,1,3,2,Yes,Yes,Yes,1,,1,1,6,2,Yes,3,0,1,2,95,79,50,74,82,42,21,-3,8
+468,467_NHL_2015_2016,20.12.2015 00:00:00,77,Arizona Coyotes,73,New York Islanders,1,0,1,1,Yes,Yes,Yes,1,,,0,5,7,No,0,0,1,2,81,95,38,91,79,54,-10,16,-16
+469,470_NHL_2015_2016,20.12.2015 00:00:00,81,Tampa Bay Lightning,75,Ottawa Senators,5,2,7,7,No,No,No,1,,,0,3,5,No,0,3,4,2,75,72,43,91,91,43,-16,-19,0
+470,464_NHL_2015_2016,20.12.2015 00:00:00,63,Columbus Blue Jackets,76,Philadelphia Flyers,3,2,5,4,Yes,Yes,Yes,1,,1,1,7,5,Yes,3,3,2,0,78,100,35,65,83,38,13,17,-3
+471,469_NHL_2015_2016,20.12.2015 00:00:00,67,Florida Panthers,83,Vancouver Canucks,5,4,9,8,No,No,No,1,,1,1,2,0,Yes,3,2,4,3,82,69,49,83,93,42,-1,-24,7
+472,472_NHL_2015_2016,21.12.2015 00:00:00,65,Detroit Red Wings,59,Calgary Flames,4,2,6,6,No,No,Yes,1,,,0,3,4,No,1,0,2,3,81,80,48,82,103,38,-1,-23,10
+473,474_NHL_2015_2016,21.12.2015 00:00:00,61,Chicago Blackhawks,79,San Jose Sharks,4,3,7,6,No,No,Yes,1,1,,1,3,2,Yes,2,0,2,4,88,78,52,82,86,41,6,-8,11
+474,473_NHL_2015_2016,21.12.2015 00:00:00,74,New York Rangers,84,Washington Capitals,3,7,10,10,No,No,No,2,,,0,2,5,No,0,3,5,3,95,81,57,94,64,67,1,17,-10
+475,476_NHL_2015_2016,22.12.2015 00:00:00,73,New York Islanders,56,Anaheim Ducks,5,2,7,7,No,No,No,1,,,0,0,1,No,0,3,2,1,91,80,54,50,73,34,41,7,20
+476,478_NHL_2015_2016,22.12.2015 00:00:00,78,Pittsburgh Penguins,63,Columbus Blue Jackets,5,2,7,7,No,No,No,1,,,0,1,2,No,0,2,3,2,67,75,41,81,102,37,-14,-27,4
+477,480_NHL_2015_2016,22.12.2015 00:00:00,69,Minnesota Wild,64,Dallas Stars,3,6,9,9,No,No,No,2,,,0,2,3,No,0,3,6,2,82,66,54,104,74,65,-22,-8,-11
+478,479_NHL_2015_2016,22.12.2015 00:00:00,71,Nashville Predators,70,Montreal Canadiens,5,1,6,6,No,No,Yes,1,,,0,3,2,No,3,0,2,6,78,85,49,100,73,61,-22,12,-12
+479,477_NHL_2015_2016,22.12.2015 00:00:00,76,Philadelphia Flyers,80,St. Louis Blues,4,3,7,7,No,No,No,1,,,0,2,3,No,1,3,3,2,67,86,39,82,75,59,-15,11,-20
+480,481_NHL_2015_2016,22.12.2015 00:00:00,62,Colorado Avalanche,82,Toronto Maple Leafs,4,7,11,11,No,No,No,2,,,0,5,1,No,3,3,5,0,86,85,49,73,84,34,13,1,15
+481,475_NHL_2015_2016,22.12.2015 00:00:00,60,Carolina Hurricanes,84,Washington Capitals,1,2,3,3,Yes,Yes,Yes,2,,,0,2,1,No,3,3,7,3,77,96,39,101,67,70,-24,29,-31
+482,482_NHL_2015_2016,22.12.2015 00:00:00,66,Edmonton Oilers,85,Winnipeg Jets,3,1,4,4,Yes,Yes,Yes,1,,,0,1,5,No,0,3,5,2,85,101,37,90,90,46,-5,11,-9
+483,484_NHL_2015_2016,23.12.2015 00:00:00,74,New York Rangers,56,Anaheim Ducks,3,2,5,4,Yes,Yes,Yes,1,1,,1,3,7,Yes,0,0,2,5,98,88,57,52,78,34,46,10,23
+484,489_NHL_2015_2016,23.12.2015 00:00:00,64,Dallas Stars,61,Chicago Blackhawks,4,0,4,4,Yes,Yes,Yes,1,,,0,6,3,No,3,2,4,3,110,77,68,92,81,54,18,-4,14
+485,488_NHL_2015_2016,23.12.2015 00:00:00,69,Minnesota Wild,70,Montreal Canadiens,2,1,3,3,Yes,Yes,Yes,1,,,0,3,6,No,0,0,1,5,85,72,54,101,78,61,-16,-6,-7
+486,486_NHL_2015_2016,23.12.2015 00:00:00,65,Detroit Red Wings,72,New Jersey Devils,3,4,7,7,No,No,No,2,,,0,4,2,No,3,1,1,2,85,82,51,75,84,43,10,-2,8
+487,487_NHL_2015_2016,23.12.2015 00:00:00,67,Florida Panthers,75,Ottawa Senators,2,1,3,2,Yes,Yes,Yes,1,,1,1,5,4,Yes,2,0,2,5,87,73,51,93,96,43,-6,-23,8
+488,492_NHL_2015_2016,23.12.2015 00:00:00,68,Los Angeles Kings,79,San Jose Sharks,3,5,8,8,No,No,No,2,,,0,0,5,No,0,1,3,4,77,68,52,85,90,42,-8,-22,10
+489,483_NHL_2015_2016,23.12.2015 00:00:00,57,Boston Bruins,80,St. Louis Blues,0,2,2,2,Yes,Yes,Yes,2,,,0,2,1,No,2,0,3,4,97,80,52,85,79,59,12,1,-7
+490,490_NHL_2015_2016,23.12.2015 00:00:00,77,Arizona Coyotes,82,Toronto Maple Leafs,3,2,5,5,No,Yes,Yes,1,,,0,1,0,No,3,3,7,4,82,95,41,80,88,37,2,7,4
+491,485_NHL_2015_2016,23.12.2015 00:00:00,81,Tampa Bay Lightning,83,Vancouver Canucks,1,2,3,3,Yes,Yes,Yes,2,,,0,5,2,No,3,1,4,5,80,74,46,87,98,43,-7,-24,3
+492,491_NHL_2015_2016,23.12.2015 00:00:00,59,Calgary Flames,85,Winnipeg Jets,4,1,5,5,No,Yes,Yes,1,,,0,2,4,No,0,0,1,3,84,107,38,91,93,46,-7,14,-8
+493,502_NHL_2015_2016,27.12.2015 00:00:00,75,Ottawa Senators,57,Boston Bruins,3,1,4,4,Yes,Yes,Yes,1,,,0,1,2,No,1,0,0,2,94,98,44,98,85,52,-4,13,-8
+494,494_NHL_2015_2016,27.12.2015 00:00:00,57,Boston Bruins,58,Buffalo Sabres,3,6,9,9,No,No,No,2,,,0,1,3,No,0,1,2,3,98,85,52,76,84,41,22,1,11
+495,496_NHL_2015_2016,27.12.2015 00:00:00,81,Tampa Bay Lightning,63,Columbus Blue Jackets,5,2,7,7,No,No,No,1,,,0,1,2,No,0,0,2,5,81,76,46,83,107,37,-2,-31,9
+496,499_NHL_2015_2016,27.12.2015 00:00:00,80,St. Louis Blues,64,Dallas Stars,3,2,5,4,Yes,Yes,Yes,1,,1,1,2,0,Yes,3,3,4,0,87,79,62,114,77,71,-27,2,-9
+497,497_NHL_2015_2016,27.12.2015 00:00:00,71,Nashville Predators,65,Detroit Red Wings,2,3,5,5,No,Yes,Yes,2,,,0,5,1,No,3,0,3,4,83,86,52,88,86,51,-5,0,1
+498,501_NHL_2015_2016,27.12.2015 00:00:00,83,Vancouver Canucks,66,Edmonton Oilers,2,1,3,2,Yes,Yes,Yes,1,1,,1,2,1,Yes,3,3,3,1,89,99,46,88,102,40,1,-3,6
+499,500_NHL_2015_2016,27.12.2015 00:00:00,77,Arizona Coyotes,68,Los Angeles Kings,3,4,7,6,No,No,Yes,2,1,,1,3,2,Yes,3,0,3,5,85,97,44,80,73,52,5,24,-8
+500,495_NHL_2015_2016,27.12.2015 00:00:00,84,Washington Capitals,70,Montreal Canadiens,3,1,4,4,Yes,Yes,Yes,1,,,0,2,1,No,3,0,1,2,103,68,73,102,80,61,1,-12,12
+501,493_NHL_2015_2016,27.12.2015 00:00:00,60,Carolina Hurricanes,72,New Jersey Devils,3,1,4,4,Yes,Yes,Yes,1,,,0,1,2,No,0,3,4,3,78,98,39,79,87,46,-1,11,-7
+502,498_NHL_2015_2016,27.12.2015 00:00:00,69,Minnesota Wild,78,Pittsburgh Penguins,1,3,4,4,Yes,Yes,Yes,2,,,0,2,1,No,3,3,5,2,87,73,57,72,77,44,15,-4,13
+503,509_NHL_2015_2016,28.12.2015 00:00:00,62,Colorado Avalanche,77,Arizona Coyotes,1,2,3,2,Yes,Yes,Yes,2,1,,1,4,7,Yes,0,1,3,4,90,92,49,88,101,45,2,-9,4
+504,506_NHL_2015_2016,28.12.2015 00:00:00,61,Chicago Blackhawks,60,Carolina Hurricanes,1,2,3,3,Yes,Yes,Yes,2,,,0,0,4,No,0,3,3,1,92,85,54,81,99,42,11,-14,12
+505,504_NHL_2015_2016,28.12.2015 00:00:00,67,Florida Panthers,63,Columbus Blue Jackets,3,2,5,5,No,Yes,Yes,1,,,0,2,1,No,2,0,2,5,89,74,53,85,112,37,4,-38,16
+506,510_NHL_2015_2016,28.12.2015 00:00:00,59,Calgary Flames,66,Edmonton Oilers,5,3,8,8,No,No,No,1,,,0,4,1,No,3,1,1,2,88,108,41,89,104,41,-1,4,0
+507,508_NHL_2015_2016,28.12.2015 00:00:00,56,Anaheim Ducks,76,Philadelphia Flyers,4,2,6,6,No,No,Yes,1,,,0,2,3,No,1,3,4,3,54,81,35,71,89,42,-17,-8,-7
+508,507_NHL_2015_2016,28.12.2015 00:00:00,85,Winnipeg Jets,78,Pittsburgh Penguins,1,0,1,1,Yes,Yes,Yes,1,,,0,1,4,No,0,3,3,1,92,97,46,75,78,47,17,19,-1
+509,505_NHL_2015_2016,28.12.2015 00:00:00,64,Dallas Stars,80,St. Louis Blues,3,0,3,3,Yes,Yes,Yes,1,,,0,2,3,No,1,2,3,2,116,80,72,90,81,64,26,-1,8
+510,503_NHL_2015_2016,28.12.2015 00:00:00,73,New York Islanders,82,Toronto Maple Leafs,1,3,4,4,Yes,Yes,Yes,2,,,0,5,2,No,3,0,2,3,96,82,57,82,91,37,14,-9,20
+511,516_NHL_2015_2016,29.12.2015 00:00:00,79,San Jose Sharks,62,Colorado Avalanche,3,6,9,9,No,No,No,2,,,0,5,3,No,3,1,1,2,90,93,45,91,94,50,-1,-1,-5
+512,512_NHL_2015_2016,29.12.2015 00:00:00,69,Minnesota Wild,65,Detroit Red Wings,3,1,4,4,Yes,Yes,Yes,1,,,0,1,3,No,0,3,3,2,88,76,57,91,88,54,-3,-12,3
+513,515_NHL_2015_2016,29.12.2015 00:00:00,83,Vancouver Canucks,68,Los Angeles Kings,0,5,5,5,No,Yes,Yes,2,,,0,2,1,No,2,2,4,3,91,100,48,84,76,54,7,24,-6
+514,513_NHL_2015_2016,29.12.2015 00:00:00,81,Tampa Bay Lightning,70,Montreal Canadiens,3,4,7,6,No,No,Yes,2,,1,1,5,2,Yes,3,0,1,3,86,78,49,103,83,61,-17,-5,-12
+515,514_NHL_2015_2016,29.12.2015 00:00:00,71,Nashville Predators,74,New York Rangers,5,3,8,8,No,No,No,1,,,0,2,3,No,0,2,3,2,85,89,52,101,90,59,-16,-1,-7
+516,511_NHL_2015_2016,29.12.2015 00:00:00,58,Buffalo Sabres,84,Washington Capitals,0,2,2,2,Yes,Yes,Yes,2,,,0,6,3,No,3,3,3,1,82,87,44,106,69,76,-24,18,-32
+517,524_NHL_2015_2016,30.12.2015 00:00:00,59,Calgary Flames,56,Anaheim Ducks,0,1,1,1,Yes,Yes,Yes,2,,,0,5,3,No,3,3,4,2,93,111,44,58,83,38,35,28,6
+518,517_NHL_2015_2016,30.12.2015 00:00:00,72,New Jersey Devils,60,Carolina Hurricanes,3,2,5,5,No,Yes,Yes,1,,,0,1,3,No,0,3,2,1,80,90,46,83,100,45,-3,-10,1
+519,526_NHL_2015_2016,30.12.2015 00:00:00,77,Arizona Coyotes,61,Chicago Blackhawks,5,7,12,12,No,No,No,2,,,0,2,1,No,2,0,1,2,90,102,47,93,87,54,-3,15,-7
+520,519_NHL_2015_2016,30.12.2015 00:00:00,63,Columbus Blue Jackets,64,Dallas Stars,6,3,9,9,No,No,No,1,,,0,2,3,No,0,3,3,0,87,115,37,119,80,75,-32,35,-38
+521,522_NHL_2015_2016,30.12.2015 00:00:00,85,Winnipeg Jets,65,Detroit Red Wings,4,1,5,5,No,Yes,Yes,1,,,0,1,0,No,3,0,1,3,93,97,49,92,91,54,1,6,-5
+522,525_NHL_2015_2016,30.12.2015 00:00:00,66,Edmonton Oilers,68,Los Angeles Kings,2,5,7,7,No,No,No,2,,,0,3,5,No,0,3,5,0,92,109,41,89,76,57,3,33,-16
+523,521_NHL_2015_2016,30.12.2015 00:00:00,67,Florida Panthers,70,Montreal Canadiens,3,1,4,4,Yes,Yes,Yes,1,,,0,3,2,No,3,2,4,3,92,76,56,107,86,63,-15,-10,-7
+524,523_NHL_2015_2016,30.12.2015 00:00:00,80,St. Louis Blues,71,Nashville Predators,4,3,7,6,No,No,Yes,1,1,,1,0,3,Yes,0,3,5,3,90,84,64,90,92,55,0,-8,9
+525,518_NHL_2015_2016,30.12.2015 00:00:00,82,Toronto Maple Leafs,73,New York Islanders,3,6,9,9,No,No,No,2,,,0,3,1,No,3,0,1,3,85,92,40,97,85,57,-12,7,-17
+526,520_NHL_2015_2016,30.12.2015 00:00:00,57,Boston Bruins,75,Ottawa Senators,7,3,10,10,No,No,No,1,,,0,3,6,No,0,3,3,1,101,91,52,97,99,47,4,-8,5
+527,527_NHL_2015_2016,31.12.2015 00:00:00,84,Washington Capitals,58,Buffalo Sabres,5,2,7,7,No,No,No,1,,,0,2,0,No,3,0,0,2,108,69,79,82,89,44,26,-20,35
+528,528_NHL_2015_2016,31.12.2015 00:00:00,75,Ottawa Senators,72,New Jersey Devils,0,3,3,3,Yes,Yes,Yes,2,,,0,3,7,No,0,3,3,2,100,106,47,83,92,49,17,14,-2
+529,530_NHL_2015_2016,31.12.2015 00:00:00,81,Tampa Bay Lightning,74,New York Rangers,2,5,7,7,No,No,No,2,,,0,3,4,No,1,0,3,5,89,82,50,104,95,59,-15,-13,-9
+530,531_NHL_2015_2016,31.12.2015 00:00:00,79,San Jose Sharks,76,Philadelphia Flyers,4,2,6,6,No,No,Yes,1,,,0,3,6,No,0,0,2,4,93,99,45,73,93,42,20,6,3
+531,529_NHL_2015_2016,31.12.2015 00:00:00,78,Pittsburgh Penguins,82,Toronto Maple Leafs,2,3,5,4,Yes,Yes,Yes,2,,1,1,0,1,Yes,0,0,3,6,75,79,47,88,98,40,-13,-19,7
+532,538_NHL_2015_2016,01.01.2016 00:00:00,66,Edmonton Oilers,56,Anaheim Ducks,0,1,1,1,Yes,Yes,Yes,2,,,0,2,5,No,0,3,1,0,94,114,41,59,83,41,35,31,0
+533,536_NHL_2015_2016,01.01.2016 00:00:00,62,Colorado Avalanche,61,Chicago Blackhawks,3,4,7,6,No,No,Yes,2,1,,1,6,3,Yes,3,3,7,5,97,97,53,100,92,57,-3,5,-4
+534,539_NHL_2015_2016,01.01.2016 00:00:00,59,Calgary Flames,68,Los Angeles Kings,1,4,5,5,No,Yes,Yes,2,,,0,0,1,No,0,3,5,2,93,112,44,94,78,60,-1,34,-16
+535,535_NHL_2015_2016,01.01.2016 00:00:00,80,St. Louis Blues,69,Minnesota Wild,1,3,4,4,Yes,Yes,Yes,2,,,0,4,3,No,2,3,3,1,94,87,66,91,77,60,3,10,6
+536,541_NHL_2015_2016,01.01.2016 00:00:00,57,Boston Bruins,70,Montreal Canadiens,1,5,6,6,No,No,Yes,2,,,0,7,3,No,3,0,1,3,108,94,55,108,89,63,0,5,-8
+537,537_NHL_2015_2016,01.01.2016 00:00:00,64,Dallas Stars,71,Nashville Predators,5,1,6,6,No,No,Yes,1,,,0,3,6,No,0,1,3,4,122,86,75,93,96,56,29,-10,19
+538,533_NHL_2015_2016,01.01.2016 00:00:00,58,Buffalo Sabres,73,New York Islanders,1,2,3,3,Yes,Yes,Yes,2,,,0,2,5,No,0,3,6,3,84,94,44,103,88,60,-19,6,-16
+539,534_NHL_2015_2016,01.01.2016 00:00:00,65,Detroit Red Wings,78,Pittsburgh Penguins,2,5,7,7,No,No,No,2,,,0,1,4,No,0,1,2,3,93,95,54,77,82,48,16,13,6
+540,532_NHL_2015_2016,01.01.2016 00:00:00,60,Carolina Hurricanes,84,Washington Capitals,4,2,6,6,No,No,Yes,1,,,0,2,3,No,0,3,5,2,85,103,45,113,71,82,-28,32,-37
+541,540_NHL_2015_2016,01.01.2016 00:00:00,77,Arizona Coyotes,85,Winnipeg Jets,4,2,6,6,No,No,Yes,1,,,0,5,7,No,0,3,4,1,95,109,47,97,98,52,-2,11,-5
+542,542_NHL_2015_2016,02.01.2016 00:00:00,83,Vancouver Canucks,56,Anaheim Ducks,2,1,3,2,Yes,Yes,Yes,1,,1,1,0,5,Yes,0,3,1,0,91,105,48,60,83,44,31,22,4
+543,544_NHL_2015_2016,03.01.2016 00:00:00,62,Colorado Avalanche,59,Calgary Flames,0,4,4,4,Yes,Yes,Yes,2,,,0,3,4,No,1,0,1,4,100,101,54,94,116,44,6,-15,10
+544,549_NHL_2015_2016,03.01.2016 00:00:00,72,New Jersey Devils,64,Dallas Stars,3,2,5,4,Yes,Yes,Yes,1,1,,1,3,0,Yes,3,0,5,6,86,92,52,132,93,78,-46,-1,-26
+545,552_NHL_2015_2016,03.01.2016 00:00:00,73,New York Islanders,64,Dallas Stars,6,5,11,11,No,No,No,1,,,0,2,5,No,0,3,5,1,107,94,63,132,93,78,-25,1,-15
+546,545_NHL_2015_2016,03.01.2016 00:00:00,81,Tampa Bay Lightning,69,Minnesota Wild,3,2,5,4,Yes,Yes,Yes,1,,1,1,2,5,Yes,0,3,3,1,91,87,50,94,78,63,-3,9,-13
+547,548_NHL_2015_2016,03.01.2016 00:00:00,60,Carolina Hurricanes,71,Nashville Predators,1,2,3,2,Yes,Yes,Yes,2,1,,1,4,2,Yes,3,0,1,5,89,105,48,94,101,56,-5,4,-8
+548,550_NHL_2015_2016,03.01.2016 00:00:00,78,Pittsburgh Penguins,73,New York Islanders,5,2,7,7,No,No,No,1,,,0,5,2,No,3,3,2,1,82,84,51,107,94,63,-25,-10,-12
+549,551_NHL_2015_2016,03.01.2016 00:00:00,67,Florida Panthers,74,New York Rangers,3,0,3,3,Yes,Yes,Yes,1,,,0,3,1,No,3,3,5,2,95,77,59,109,97,62,-14,-20,-3
+550,547_NHL_2015_2016,03.01.2016 00:00:00,82,Toronto Maple Leafs,80,St. Louis Blues,4,1,5,5,No,Yes,Yes,1,,,0,3,2,No,2,0,1,3,91,100,42,95,90,66,-4,10,-24
+551,546_NHL_2015_2016,03.01.2016 00:00:00,63,Columbus Blue Jackets,84,Washington Capitals,5,4,9,8,No,No,No,1,,1,1,6,3,Yes,3,0,2,4,93,118,40,115,75,82,-22,43,-42
+552,543_NHL_2015_2016,03.01.2016 00:00:00,79,San Jose Sharks,85,Winnipeg Jets,1,4,5,5,No,Yes,Yes,2,,,0,4,2,No,3,0,2,4,97,101,48,99,102,52,-2,-1,-4
+553,555_NHL_2015_2016,04.01.2016 00:00:00,67,Florida Panthers,69,Minnesota Wild,2,1,3,3,Yes,Yes,Yes,1,,,0,3,0,No,3,1,2,3,98,77,62,96,81,64,2,-4,-2
+554,554_NHL_2015_2016,04.01.2016 00:00:00,61,Chicago Blackhawks,75,Ottawa Senators,3,0,3,3,Yes,Yes,Yes,1,,,0,4,3,No,2,0,0,3,104,95,59,100,109,47,4,-14,12
+555,553_NHL_2015_2016,04.01.2016 00:00:00,56,Anaheim Ducks,85,Winnipeg Jets,4,1,5,5,No,Yes,Yes,1,,,0,1,2,No,1,3,4,1,61,85,45,103,103,55,-42,-18,-10
+556,556_NHL_2015_2016,05.01.2016 00:00:00,83,Vancouver Canucks,77,Arizona Coyotes,2,3,5,5,No,Yes,Yes,2,,,0,2,1,No,2,3,4,2,93,106,50,99,111,50,-6,-5,0
+557,558_NHL_2015_2016,05.01.2016 00:00:00,66,Edmonton Oilers,60,Carolina Hurricanes,1,0,1,0,Yes,Yes,Yes,1,1,,1,0,1,Yes,0,1,1,2,94,115,41,90,107,49,4,8,-8
+558,560_NHL_2015_2016,05.01.2016 00:00:00,72,New Jersey Devils,65,Detroit Red Wings,0,1,1,1,Yes,Yes,Yes,2,,,0,3,2,No,2,0,2,5,89,94,54,95,100,54,-6,-6,0
+559,557_NHL_2015_2016,05.01.2016 00:00:00,62,Colorado Avalanche,68,Los Angeles Kings,4,1,5,5,No,Yes,Yes,1,,,0,0,4,No,0,3,4,1,100,105,54,98,79,63,2,26,-9
+560,559_NHL_2015_2016,05.01.2016 00:00:00,80,St. Louis Blues,75,Ottawa Senators,2,3,5,4,Yes,Yes,Yes,2,1,,1,1,4,Yes,0,0,0,3,96,94,66,100,112,47,-4,-18,19
+561,564_NHL_2015_2016,06.01.2016 00:00:00,78,Pittsburgh Penguins,61,Chicago Blackhawks,2,3,5,4,Yes,Yes,Yes,2,1,,1,5,2,Yes,3,3,3,0,87,86,54,107,95,62,-20,-9,-8
+562,565_NHL_2015_2016,06.01.2016 00:00:00,74,New York Rangers,64,Dallas Stars,6,2,8,8,No,No,No,1,,,0,0,3,No,0,1,2,3,109,100,62,134,96,79,-25,4,-17
+563,566_NHL_2015_2016,06.01.2016 00:00:00,58,Buffalo Sabres,67,Florida Panthers,1,5,6,6,No,No,Yes,2,,,0,1,2,No,0,3,2,1,85,96,44,100,78,65,-15,18,-21
+564,567_NHL_2015_2016,06.01.2016 00:00:00,63,Columbus Blue Jackets,69,Minnesota Wild,2,4,6,6,No,No,Yes,2,,,0,5,4,No,2,0,1,2,98,122,42,97,83,64,1,39,-22
+565,563_NHL_2015_2016,06.01.2016 00:00:00,76,Philadelphia Flyers,70,Montreal Canadiens,4,3,7,7,No,No,No,1,,,0,2,4,No,0,3,5,1,75,97,42,113,90,66,-38,7,-24
+566,561_NHL_2015_2016,06.01.2016 00:00:00,59,Calgary Flames,81,Tampa Bay Lightning,3,1,4,4,Yes,Yes,Yes,1,,,0,4,0,No,3,2,3,2,98,116,47,94,89,52,4,27,-5
+567,568_NHL_2015_2016,06.01.2016 00:00:00,57,Boston Bruins,84,Washington Capitals,2,3,5,5,No,Yes,Yes,2,,,0,1,5,No,0,1,4,5,109,99,55,119,80,83,-10,19,-28
+568,562_NHL_2015_2016,06.01.2016 00:00:00,71,Nashville Predators,85,Winnipeg Jets,1,4,5,5,No,Yes,Yes,2,,,0,2,1,No,2,0,1,4,96,102,58,104,107,55,-8,-5,3
+569,571_NHL_2015_2016,07.01.2016 00:00:00,83,Vancouver Canucks,60,Carolina Hurricanes,3,2,5,5,No,Yes,Yes,1,,,0,2,3,No,0,1,0,1,95,109,50,90,108,50,5,1,0
+570,573_NHL_2015_2016,07.01.2016 00:00:00,70,Montreal Canadiens,72,New Jersey Devils,2,1,3,3,Yes,Yes,Yes,1,,,0,3,4,No,0,0,0,1,116,94,66,89,95,54,27,-1,12
+571,572_NHL_2015_2016,07.01.2016 00:00:00,61,Chicago Blackhawks,78,Pittsburgh Penguins,3,1,4,4,Yes,Yes,Yes,1,,,0,3,2,No,2,1,2,3,110,97,64,89,89,55,21,8,9
+572,569_NHL_2015_2016,07.01.2016 00:00:00,62,Colorado Avalanche,80,St. Louis Blues,4,3,7,6,No,No,Yes,1,1,,1,4,1,Yes,3,1,2,3,104,106,57,98,97,67,6,9,-10
+573,570_NHL_2015_2016,07.01.2016 00:00:00,56,Anaheim Ducks,82,Toronto Maple Leafs,0,4,4,4,Yes,Yes,Yes,2,,,0,4,1,No,3,3,4,1,65,86,48,95,101,45,-30,-15,3
+574,576_NHL_2015_2016,08.01.2016 00:00:00,59,Calgary Flames,77,Arizona Coyotes,1,2,3,3,Yes,Yes,Yes,2,,,0,3,1,No,3,3,3,2,101,117,50,102,113,53,-1,4,-3
+575,575_NHL_2015_2016,08.01.2016 00:00:00,79,San Jose Sharks,65,Detroit Red Wings,1,2,3,3,Yes,Yes,Yes,2,,,0,1,4,No,0,3,1,0,98,105,48,96,100,57,2,5,-9
+576,579_NHL_2015_2016,08.01.2016 00:00:00,75,Ottawa Senators,67,Florida Panthers,2,3,5,5,No,Yes,Yes,2,,,0,3,2,No,2,3,5,1,103,114,49,105,79,68,-2,35,-19
+577,578_NHL_2015_2016,08.01.2016 00:00:00,69,Minnesota Wild,76,Philadelphia Flyers,3,4,7,6,No,No,Yes,2,1,,1,4,2,Yes,3,3,4,3,101,85,67,79,100,45,22,-15,22
+578,574_NHL_2015_2016,08.01.2016 00:00:00,68,Los Angeles Kings,82,Toronto Maple Leafs,2,1,3,3,Yes,Yes,Yes,1,,,0,1,4,No,0,3,4,0,99,83,63,99,101,48,0,-18,15
+579,580_NHL_2015_2016,08.01.2016 00:00:00,73,New York Islanders,84,Washington Capitals,1,4,5,5,No,Yes,Yes,2,,,0,6,5,No,3,3,3,2,113,99,66,122,82,86,-9,17,-20
+580,577_NHL_2015_2016,08.01.2016 00:00:00,64,Dallas Stars,85,Winnipeg Jets,2,1,3,2,Yes,Yes,Yes,1,,1,1,2,6,Yes,0,3,4,1,136,102,79,108,108,58,28,-6,21
+581,586_NHL_2015_2016,09.01.2016 00:00:00,72,New Jersey Devils,57,Boston Bruins,1,4,5,5,No,Yes,Yes,2,,,0,1,2,No,0,0,2,3,90,97,54,111,102,55,-21,-5,-1
+582,584_NHL_2015_2016,09.01.2016 00:00:00,61,Chicago Blackhawks,58,Buffalo Sabres,3,1,4,4,Yes,Yes,Yes,1,,,0,3,1,No,3,0,1,5,113,98,67,86,101,44,27,-3,23
+583,585_NHL_2015_2016,09.01.2016 00:00:00,60,Carolina Hurricanes,63,Columbus Blue Jackets,4,1,5,5,No,Yes,Yes,1,,,0,2,3,No,0,0,2,4,92,111,50,100,126,42,-8,-15,8
+584,582_NHL_2015_2016,09.01.2016 00:00:00,62,Colorado Avalanche,71,Nashville Predators,5,3,8,8,No,No,No,1,,,0,4,3,No,2,0,1,4,108,109,59,97,106,58,11,3,1
+585,581_NHL_2015_2016,09.01.2016 00:00:00,56,Anaheim Ducks,80,St. Louis Blues,4,3,7,6,No,No,Yes,1,,1,1,0,4,Yes,0,1,3,4,65,90,48,101,101,68,-36,-11,-20
+586,583_NHL_2015_2016,09.01.2016 00:00:00,66,Edmonton Oilers,81,Tampa Bay Lightning,2,3,5,5,No,Yes,Yes,2,,,0,1,0,No,2,0,1,3,95,115,43,95,92,52,0,23,-9
+587,591_NHL_2015_2016,10.01.2016 00:00:00,75,Ottawa Senators,57,Boston Bruins,2,1,3,2,Yes,Yes,Yes,1,1,,1,2,3,Yes,0,3,4,1,105,117,49,115,103,58,-10,14,-9
+588,594_NHL_2015_2016,10.01.2016 00:00:00,63,Columbus Blue Jackets,60,Carolina Hurricanes,3,4,7,6,No,No,Yes,2,1,,1,1,4,Yes,0,3,4,1,101,130,42,96,112,53,5,18,-11
+589,590_NHL_2015_2016,10.01.2016 00:00:00,64,Dallas Stars,69,Minnesota Wild,1,2,3,3,Yes,Yes,Yes,2,,,0,2,1,No,2,1,3,4,138,103,81,104,89,68,34,14,13
+590,589_NHL_2015_2016,10.01.2016 00:00:00,77,Arizona Coyotes,71,Nashville Predators,4,0,4,4,Yes,Yes,Yes,1,,,0,2,1,No,3,0,3,5,104,114,56,100,111,58,4,3,-2
+591,592_NHL_2015_2016,10.01.2016 00:00:00,70,Montreal Canadiens,78,Pittsburgh Penguins,1,3,4,4,Yes,Yes,Yes,2,,,0,2,1,No,3,0,1,3,118,95,69,90,92,55,28,3,14
+592,587_NHL_2015_2016,10.01.2016 00:00:00,68,Los Angeles Kings,80,St. Louis Blues,1,2,3,2,Yes,Yes,Yes,2,,1,1,2,1,Yes,3,1,3,4,101,84,66,104,105,69,-3,-21,-3
+593,588_NHL_2015_2016,10.01.2016 00:00:00,83,Vancouver Canucks,81,Tampa Bay Lightning,2,3,5,4,Yes,Yes,Yes,2,1,,1,3,2,Yes,3,3,3,2,98,111,53,98,94,55,0,17,-2
+594,593_NHL_2015_2016,10.01.2016 00:00:00,79,San Jose Sharks,82,Toronto Maple Leafs,7,0,7,7,No,No,No,1,,,0,1,2,No,0,0,1,2,99,107,48,100,103,48,-1,4,0
+595,599_NHL_2015_2016,11.01.2016 00:00:00,61,Chicago Blackhawks,62,Colorado Avalanche,6,3,9,9,No,No,No,1,,,0,3,1,No,3,3,5,3,116,99,70,113,112,62,3,-13,8
+596,596_NHL_2015_2016,11.01.2016 00:00:00,56,Anaheim Ducks,65,Detroit Red Wings,1,2,3,3,Yes,Yes,Yes,2,,,0,4,3,No,2,3,2,1,69,93,50,98,101,60,-29,-8,-10
+597,595_NHL_2015_2016,11.01.2016 00:00:00,66,Edmonton Oilers,67,Florida Panthers,1,2,3,3,Yes,Yes,Yes,2,,,0,2,3,No,0,3,3,2,97,118,43,108,81,71,-11,37,-28
+598,597_NHL_2015_2016,11.01.2016 00:00:00,69,Minnesota Wild,72,New Jersey Devils,1,2,3,3,Yes,Yes,Yes,2,,,0,2,1,No,3,0,1,4,106,90,71,91,101,54,15,-11,17
+599,598_NHL_2015_2016,11.01.2016 00:00:00,84,Washington Capitals,75,Ottawa Senators,7,1,8,8,No,No,No,1,,,0,4,1,No,3,2,2,1,126,83,89,107,118,51,19,-35,38
+600,603_NHL_2015_2016,12.01.2016 00:00:00,74,New York Rangers,57,Boston Bruins,2,1,3,3,Yes,Yes,Yes,1,,,0,6,2,No,3,1,1,2,115,102,65,116,105,59,-1,-3,6
+601,600_NHL_2015_2016,12.01.2016 00:00:00,68,Los Angeles Kings,65,Detroit Red Wings,4,2,6,6,No,No,Yes,1,,,0,1,2,No,1,3,2,1,102,86,67,100,102,63,2,-16,4
+602,601_NHL_2015_2016,12.01.2016 00:00:00,83,Vancouver Canucks,67,Florida Panthers,3,2,5,4,Yes,Yes,Yes,1,1,,1,2,3,Yes,1,3,2,1,100,114,54,110,82,74,-10,32,-20
+603,602_NHL_2015_2016,12.01.2016 00:00:00,59,Calgary Flames,79,San Jose Sharks,4,5,9,9,No,No,No,2,,,0,1,2,No,0,3,7,0,102,119,50,106,107,51,-4,12,-1
+604,608_NHL_2015_2016,13.01.2016 00:00:00,69,Minnesota Wild,58,Buffalo Sabres,2,3,5,5,No,Yes,Yes,2,,,0,1,2,No,0,0,1,3,107,92,71,87,104,44,20,-12,27
+605,610_NHL_2015_2016,13.01.2016 00:00:00,73,New York Islanders,63,Columbus Blue Jackets,5,2,7,7,No,No,No,1,,,0,1,4,No,0,1,3,4,114,103,66,104,134,43,10,-31,23
+606,604_NHL_2015_2016,13.01.2016 00:00:00,77,Arizona Coyotes,66,Edmonton Oilers,4,3,7,6,No,No,Yes,1,1,,1,4,0,Yes,3,0,1,2,108,114,59,98,120,43,10,-6,16
+607,606_NHL_2015_2016,13.01.2016 00:00:00,61,Chicago Blackhawks,71,Nashville Predators,3,2,5,5,No,Yes,Yes,1,,,0,6,3,No,3,0,0,4,122,102,73,100,115,58,22,-13,15
+608,607_NHL_2015_2016,13.01.2016 00:00:00,80,St. Louis Blues,72,New Jersey Devils,5,2,7,7,No,No,No,1,,,0,2,1,No,2,3,2,1,106,106,71,93,102,57,13,4,14
+609,611_NHL_2015_2016,13.01.2016 00:00:00,60,Carolina Hurricanes,78,Pittsburgh Penguins,3,2,5,4,Yes,Yes,Yes,1,1,,1,4,3,Yes,2,3,3,1,100,115,55,93,93,58,7,22,-3
+610,609_NHL_2015_2016,13.01.2016 00:00:00,85,Winnipeg Jets,79,San Jose Sharks,1,4,5,5,No,Yes,Yes,2,,,0,1,2,No,1,3,5,4,109,110,59,111,111,54,-2,-1,5
+611,605_NHL_2015_2016,13.01.2016 00:00:00,62,Colorado Avalanche,81,Tampa Bay Lightning,0,4,4,4,Yes,Yes,Yes,2,,,0,3,6,No,0,2,3,2,116,118,62,101,96,57,15,22,5
+612,614_NHL_2015_2016,14.01.2016 00:00:00,76,Philadelphia Flyers,57,Boston Bruins,3,2,5,5,No,Yes,Yes,1,,,0,4,3,No,2,0,1,2,83,103,47,117,107,59,-34,-4,-12
+613,615_NHL_2015_2016,14.01.2016 00:00:00,82,Toronto Maple Leafs,63,Columbus Blue Jackets,1,3,4,4,Yes,Yes,Yes,2,,,0,0,7,No,0,0,2,5,100,110,48,106,139,43,-6,-29,5
+614,613_NHL_2015_2016,14.01.2016 00:00:00,59,Calgary Flames,67,Florida Panthers,6,0,6,6,No,No,Yes,1,,,0,4,5,No,0,1,2,3,106,124,50,112,85,75,-6,39,-25
+615,612_NHL_2015_2016,14.01.2016 00:00:00,56,Anaheim Ducks,75,Ottawa Senators,4,1,5,5,No,Yes,Yes,1,,,0,1,2,No,0,0,1,7,70,95,50,108,125,51,-38,-30,-1
+616,620_NHL_2015_2016,15.01.2016 00:00:00,80,St. Louis Blues,60,Carolina Hurricanes,1,4,5,5,No,Yes,Yes,2,,,0,5,2,No,3,2,3,2,111,108,74,103,117,57,8,-9,17
+617,621_NHL_2015_2016,15.01.2016 00:00:00,70,Montreal Canadiens,61,Chicago Blackhawks,1,2,3,3,Yes,Yes,Yes,2,,,0,1,3,No,0,3,3,2,119,98,69,125,104,76,-6,-6,-7
+618,617_NHL_2015_2016,15.01.2016 00:00:00,77,Arizona Coyotes,65,Detroit Red Wings,2,3,5,4,Yes,Yes,Yes,2,1,,1,4,3,Yes,2,0,2,4,112,117,61,102,106,63,10,11,-2
+619,616_NHL_2015_2016,15.01.2016 00:00:00,79,San Jose Sharks,66,Edmonton Oilers,2,1,3,2,Yes,Yes,Yes,1,,1,1,4,1,Yes,3,1,3,4,115,112,57,101,124,44,14,-12,13
+620,619_NHL_2015_2016,15.01.2016 00:00:00,85,Winnipeg Jets,71,Nashville Predators,5,4,9,8,No,No,No,1,1,,1,1,4,Yes,0,0,2,3,110,114,59,102,118,58,8,-4,1
+621,618_NHL_2015_2016,15.01.2016 00:00:00,62,Colorado Avalanche,72,New Jersey Devils,3,0,3,3,Yes,Yes,Yes,1,,,0,0,4,No,0,0,2,5,116,122,62,95,107,57,21,15,5
+622,623_NHL_2015_2016,15.01.2016 00:00:00,73,New York Islanders,74,New York Rangers,3,1,4,4,Yes,Yes,Yes,1,,,0,5,2,No,3,3,2,1,119,105,69,117,103,68,2,2,1
+623,622_NHL_2015_2016,15.01.2016 00:00:00,84,Washington Capitals,83,Vancouver Canucks,4,1,5,5,No,Yes,Yes,1,,,0,7,1,No,3,2,3,2,133,84,92,103,116,56,30,-32,36
+624,628_NHL_2015_2016,16.01.2016 00:00:00,58,Buffalo Sabres,57,Boston Bruins,1,4,5,5,No,Yes,Yes,2,,,0,3,2,No,3,0,2,3,90,106,47,119,110,59,-29,-4,-12
+625,629_NHL_2015_2016,16.01.2016 00:00:00,82,Toronto Maple Leafs,61,Chicago Blackhawks,1,4,5,5,No,Yes,Yes,2,,,0,1,3,No,0,3,2,1,101,113,48,127,105,79,-26,8,-31
+626,624_NHL_2015_2016,16.01.2016 00:00:00,56,Anaheim Ducks,64,Dallas Stars,4,2,6,6,No,No,Yes,1,,,0,4,1,No,3,0,1,2,74,96,53,139,105,81,-65,-9,-28
+627,631_NHL_2015_2016,16.01.2016 00:00:00,77,Arizona Coyotes,72,New Jersey Devils,0,2,2,2,Yes,Yes,Yes,2,,,0,2,3,No,1,0,0,3,114,120,62,95,110,57,19,10,5
+628,630_NHL_2015_2016,16.01.2016 00:00:00,76,Philadelphia Flyers,74,New York Rangers,2,3,5,4,Yes,Yes,Yes,2,,1,1,3,2,Yes,3,0,1,3,86,105,50,118,106,68,-32,-1,-18
+629,632_NHL_2015_2016,16.01.2016 00:00:00,68,Los Angeles Kings,75,Ottawa Senators,3,5,8,8,No,No,No,2,,,0,4,2,No,3,0,1,4,106,88,70,109,129,51,-3,-41,19
+630,626_NHL_2015_2016,16.01.2016 00:00:00,81,Tampa Bay Lightning,78,Pittsburgh Penguins,5,4,9,8,No,No,No,1,1,,1,4,0,Yes,3,1,2,3,105,96,60,95,96,59,10,0,1
+631,627_NHL_2015_2016,16.01.2016 00:00:00,60,Carolina Hurricanes,83,Vancouver Canucks,2,3,5,4,Yes,Yes,Yes,2,1,,1,4,1,Yes,3,0,1,4,107,118,60,104,120,56,3,-2,4
+632,625_NHL_2015_2016,16.01.2016 00:00:00,69,Minnesota Wild,85,Winnipeg Jets,0,1,1,1,Yes,Yes,Yes,2,,,0,2,3,No,0,2,5,4,109,95,71,115,118,61,-6,-23,10
+633,638_NHL_2015_2016,17.01.2016 00:00:00,66,Edmonton Oilers,59,Calgary Flames,2,1,3,2,Yes,Yes,Yes,1,,1,1,1,2,Yes,1,3,6,0,102,126,45,112,124,53,-10,2,-8
+634,643_NHL_2015_2016,17.01.2016 00:00:00,78,Pittsburgh Penguins,60,Carolina Hurricanes,5,0,5,5,No,Yes,Yes,1,,,0,4,5,No,1,1,2,3,99,101,60,109,121,61,-10,-20,-1
+635,634_NHL_2015_2016,17.01.2016 00:00:00,63,Columbus Blue Jackets,62,Colorado Avalanche,2,1,3,3,Yes,Yes,Yes,1,,,0,3,1,No,3,3,3,0,109,140,46,119,122,65,-10,18,-19
+636,639_NHL_2015_2016,17.01.2016 00:00:00,79,San Jose Sharks,64,Dallas Stars,4,3,7,6,No,No,Yes,1,1,,1,2,1,Yes,2,0,2,4,117,113,59,141,109,81,-24,4,-22
+637,641_NHL_2015_2016,17.01.2016 00:00:00,81,Tampa Bay Lightning,67,Florida Panthers,3,1,4,4,Yes,Yes,Yes,1,,,0,5,4,No,2,0,0,6,110,100,62,112,91,75,-2,9,-13
+638,637_NHL_2015_2016,17.01.2016 00:00:00,71,Nashville Predators,69,Minnesota Wild,3,0,3,3,Yes,Yes,Yes,1,,,0,4,5,No,1,0,0,1,106,123,59,109,96,71,-3,27,-12
+639,636_NHL_2015_2016,17.01.2016 00:00:00,80,St. Louis Blues,70,Montreal Canadiens,4,3,7,6,No,No,Yes,1,1,,1,1,4,Yes,0,0,1,2,112,112,74,120,100,69,-8,12,5
+640,640_NHL_2015_2016,17.01.2016 00:00:00,84,Washington Capitals,74,New York Rangers,5,2,7,7,No,No,No,1,,,0,4,1,No,3,2,3,2,142,87,98,121,108,70,21,-21,28
+641,635_NHL_2015_2016,17.01.2016 00:00:00,57,Boston Bruins,82,Toronto Maple Leafs,3,2,5,5,No,Yes,Yes,1,,,0,4,1,No,3,0,1,4,123,111,62,102,117,48,21,-6,14
+642,642_NHL_2015_2016,17.01.2016 00:00:00,73,New York Islanders,83,Vancouver Canucks,1,2,3,2,Yes,Yes,Yes,2,,1,1,3,1,Yes,3,2,3,2,122,106,72,107,122,58,15,-16,14
+643,633_NHL_2015_2016,17.01.2016 00:00:00,58,Buffalo Sabres,84,Washington Capitals,4,1,5,5,No,Yes,Yes,1,,,0,1,4,No,0,3,5,2,91,110,47,142,87,98,-51,23,-51
+644,644_NHL_2015_2016,18.01.2016 00:00:00,56,Anaheim Ducks,68,Los Angeles Kings,2,3,5,5,No,Yes,Yes,2,,,0,4,2,No,3,0,3,5,78,98,56,109,93,70,-31,5,-14
+645,646_NHL_2015_2016,18.01.2016 00:00:00,61,Chicago Blackhawks,70,Montreal Canadiens,5,2,7,7,No,No,No,1,,,0,4,1,No,3,1,3,4,131,106,82,123,104,70,8,2,12
+646,645_NHL_2015_2016,18.01.2016 00:00:00,65,Detroit Red Wings,76,Philadelphia Flyers,1,2,3,2,Yes,Yes,Yes,2,,1,1,3,2,Yes,2,1,2,3,105,108,65,88,108,51,17,0,14
+647,648_NHL_2015_2016,19.01.2016 00:00:00,77,Arizona Coyotes,58,Buffalo Sabres,1,2,3,3,Yes,Yes,Yes,2,,,0,0,2,No,0,3,4,1,114,122,62,95,111,50,19,11,12
+648,650_NHL_2015_2016,19.01.2016 00:00:00,85,Winnipeg Jets,62,Colorado Avalanche,1,2,3,3,Yes,Yes,Yes,2,,,0,1,0,No,3,0,1,2,116,118,64,120,124,65,-4,-6,-1
+649,651_NHL_2015_2016,19.01.2016 00:00:00,67,Florida Panthers,66,Edmonton Oilers,2,4,6,6,No,No,Yes,2,,,0,1,3,No,0,2,2,1,113,94,75,104,127,47,9,-33,28
+650,647_NHL_2015_2016,19.01.2016 00:00:00,79,San Jose Sharks,75,Ottawa Senators,3,4,7,6,No,No,Yes,2,,1,1,4,3,Yes,2,3,5,3,121,116,61,114,132,54,7,-16,7
+651,649_NHL_2015_2016,19.01.2016 00:00:00,80,St. Louis Blues,78,Pittsburgh Penguins,5,2,7,7,No,No,No,1,,,0,4,3,No,2,3,5,0,116,115,76,104,101,63,12,14,13
+652,655_NHL_2015_2016,20.01.2016 00:00:00,70,Montreal Canadiens,57,Boston Bruins,1,4,5,5,No,Yes,Yes,2,,,0,2,5,No,0,3,3,2,125,109,70,126,113,65,-1,-4,5
+653,659_NHL_2015_2016,20.01.2016 00:00:00,72,New Jersey Devils,59,Calgary Flames,4,2,6,6,No,No,Yes,1,,,0,2,0,No,3,1,1,2,97,110,60,113,126,54,-16,-16,6
+654,653_NHL_2015_2016,20.01.2016 00:00:00,71,Nashville Predators,61,Chicago Blackhawks,1,4,5,5,No,Yes,Yes,2,,,0,3,0,No,3,3,5,2,109,123,62,136,108,85,-27,15,-23
+655,652_NHL_2015_2016,20.01.2016 00:00:00,68,Los Angeles Kings,64,Dallas Stars,3,2,5,5,No,Yes,Yes,1,,,0,3,2,No,3,1,3,4,112,95,73,144,113,82,-32,-18,-9
+656,654_NHL_2015_2016,20.01.2016 00:00:00,81,Tampa Bay Lightning,66,Edmonton Oilers,6,4,10,10,No,No,No,1,,,0,3,1,No,3,3,4,2,113,101,65,108,129,50,5,-28,15
+657,656_NHL_2015_2016,20.01.2016 00:00:00,76,Philadelphia Flyers,82,Toronto Maple Leafs,2,3,5,5,No,Yes,Yes,2,,,0,2,1,No,2,0,2,3,90,109,53,104,120,48,-14,-11,5
+658,657_NHL_2015_2016,20.01.2016 00:00:00,74,New York Rangers,83,Vancouver Canucks,3,2,5,4,Yes,Yes,Yes,1,1,,1,2,5,Yes,0,2,2,1,123,113,70,109,123,60,14,-10,10
+659,658_NHL_2015_2016,20.01.2016 00:00:00,63,Columbus Blue Jackets,84,Washington Capitals,3,6,9,9,No,No,No,2,,,0,2,1,No,3,0,1,4,111,141,49,143,91,98,-32,50,-49
+660,661_NHL_2015_2016,21.01.2016 00:00:00,62,Colorado Avalanche,58,Buffalo Sabres,2,1,3,3,Yes,Yes,Yes,1,,,0,2,1,No,3,3,2,1,122,125,68,97,112,53,25,13,15
+661,660_NHL_2015_2016,21.01.2016 00:00:00,56,Anaheim Ducks,69,Minnesota Wild,3,1,4,4,Yes,Yes,Yes,1,,,0,2,3,No,0,0,0,3,80,101,56,109,99,71,-29,2,-15
+662,662_NHL_2015_2016,21.01.2016 00:00:00,65,Detroit Red Wings,80,St. Louis Blues,1,2,3,3,Yes,Yes,Yes,2,,,0,1,2,No,1,3,5,2,106,110,66,121,117,79,-15,-7,-13
+663,672_NHL_2015_2016,22.01.2016 00:00:00,63,Columbus Blue Jackets,59,Calgary Flames,2,4,6,6,No,No,Yes,2,,,0,3,6,No,0,0,2,4,114,147,49,115,130,54,-1,17,-5
+664,677_NHL_2015_2016,22.01.2016 00:00:00,82,Toronto Maple Leafs,60,Carolina Hurricanes,0,1,1,0,Yes,Yes,Yes,2,1,,1,0,1,Yes,1,0,0,5,107,123,52,110,126,63,-3,-3,-11
+665,667_NHL_2015_2016,22.01.2016 00:00:00,82,Toronto Maple Leafs,60,Carolina Hurricanes,0,1,1,0,Yes,Yes,Yes,2,1,,1,3,2,Yes,3,2,1,0,107,123,52,110,126,63,-3,-3,-11
+666,676_NHL_2015_2016,22.01.2016 00:00:00,81,Tampa Bay Lightning,61,Chicago Blackhawks,2,1,3,3,Yes,Yes,Yes,1,,,0,2,1,No,3,0,1,2,121,106,71,141,111,88,-20,-5,-17
+667,668_NHL_2015_2016,22.01.2016 00:00:00,81,Tampa Bay Lightning,61,Chicago Blackhawks,2,1,3,3,Yes,Yes,Yes,1,,,0,6,4,No,3,3,4,1,121,106,71,141,111,88,-20,-5,-17
+668,679_NHL_2015_2016,22.01.2016 00:00:00,64,Dallas Stars,66,Edmonton Oilers,3,2,5,5,No,Yes,Yes,1,,,0,3,2,No,3,0,4,6,149,118,85,114,138,50,35,-20,35
+669,665_NHL_2015_2016,22.01.2016 00:00:00,64,Dallas Stars,66,Edmonton Oilers,3,2,5,5,No,Yes,Yes,1,,,0,2,3,No,0,0,2,3,149,118,85,114,138,50,35,-20,35
+670,681_NHL_2015_2016,22.01.2016 00:00:00,68,Los Angeles Kings,69,Minnesota Wild,0,3,3,3,Yes,Yes,Yes,2,,,0,0,3,No,0,0,1,3,115,100,76,113,102,74,2,-2,2
+671,663_NHL_2015_2016,22.01.2016 00:00:00,68,Los Angeles Kings,69,Minnesota Wild,0,3,3,3,Yes,Yes,Yes,2,,,0,3,2,No,3,3,3,0,115,100,76,113,102,74,2,-2,2
+672,666_NHL_2015_2016,22.01.2016 00:00:00,85,Winnipeg Jets,71,Nashville Predators,1,4,5,5,No,Yes,Yes,2,,,0,1,2,No,0,0,1,4,118,124,64,114,128,65,4,-4,-1
+673,678_NHL_2015_2016,22.01.2016 00:00:00,85,Winnipeg Jets,71,Nashville Predators,1,4,5,5,No,Yes,Yes,2,,,0,1,4,No,0,3,4,1,118,124,64,114,128,65,4,-4,-1
+674,670_NHL_2015_2016,22.01.2016 00:00:00,72,New Jersey Devils,75,Ottawa Senators,6,3,9,9,No,No,No,1,,,0,4,2,No,3,2,4,3,107,115,66,121,141,56,-14,-26,10
+675,674_NHL_2015_2016,22.01.2016 00:00:00,72,New Jersey Devils,75,Ottawa Senators,6,3,9,9,No,No,No,1,,,0,6,3,No,3,0,3,6,107,115,66,121,141,56,-14,-26,10
+676,675_NHL_2015_2016,22.01.2016 00:00:00,78,Pittsburgh Penguins,76,Philadelphia Flyers,4,3,7,7,No,No,No,1,,,0,4,3,No,3,0,2,3,110,109,66,95,116,53,15,-7,13
+677,669_NHL_2015_2016,22.01.2016 00:00:00,78,Pittsburgh Penguins,76,Philadelphia Flyers,4,3,7,7,No,No,No,1,,,0,2,5,No,0,0,3,4,110,109,66,95,116,53,15,-7,13
+678,664_NHL_2015_2016,22.01.2016 00:00:00,77,Arizona Coyotes,79,San Jose Sharks,1,3,4,4,Yes,Yes,Yes,2,,,0,1,3,No,0,3,3,1,116,127,62,127,121,65,-11,6,-3
+679,680_NHL_2015_2016,22.01.2016 00:00:00,77,Arizona Coyotes,79,San Jose Sharks,1,3,4,4,Yes,Yes,Yes,2,,,0,1,2,No,0,1,3,4,116,127,62,127,121,65,-11,6,-3
+680,673_NHL_2015_2016,22.01.2016 00:00:00,57,Boston Bruins,83,Vancouver Canucks,2,4,6,6,No,No,Yes,2,,,0,2,4,No,0,1,2,3,132,118,68,115,128,64,17,-10,4
+681,671_NHL_2015_2016,22.01.2016 00:00:00,57,Boston Bruins,83,Vancouver Canucks,2,4,6,6,No,No,Yes,2,,,0,4,1,No,3,3,4,2,132,118,68,115,128,64,17,-10,4
+682,686_NHL_2015_2016,23.01.2016 00:00:00,67,Florida Panthers,61,Chicago Blackhawks,4,0,4,4,Yes,Yes,Yes,1,,,0,2,4,No,0,0,1,2,115,98,75,142,113,88,-27,-15,-13
+683,687_NHL_2015_2016,23.01.2016 00:00:00,58,Buffalo Sabres,65,Detroit Red Wings,0,3,3,3,Yes,Yes,Yes,2,,,0,1,2,No,0,0,1,2,98,114,53,107,112,66,-9,2,-13
+684,682_NHL_2015_2016,23.01.2016 00:00:00,79,San Jose Sharks,69,Minnesota Wild,4,3,7,7,No,No,No,1,,,0,3,1,No,3,3,3,0,130,122,68,116,102,77,14,20,-9
+685,685_NHL_2015_2016,23.01.2016 00:00:00,75,Ottawa Senators,73,New York Islanders,2,5,7,7,No,No,No,2,,,0,3,6,No,0,1,1,2,124,147,56,123,108,73,1,39,-17
+686,688_NHL_2015_2016,23.01.2016 00:00:00,60,Carolina Hurricanes,74,New York Rangers,1,4,5,5,No,Yes,Yes,2,,,0,1,0,No,2,2,3,2,111,126,65,126,115,72,-15,11,-7
+687,684_NHL_2015_2016,23.01.2016 00:00:00,62,Colorado Avalanche,80,St. Louis Blues,2,1,3,2,Yes,Yes,Yes,1,,1,1,2,1,Yes,3,3,2,1,124,126,71,123,118,82,1,8,-11
+688,683_NHL_2015_2016,23.01.2016 00:00:00,78,Pittsburgh Penguins,83,Vancouver Canucks,5,4,9,9,No,No,No,1,,,0,4,3,No,3,3,4,2,114,112,69,119,130,67,-5,-18,2
+689,696_NHL_2015_2016,24.01.2016 00:00:00,65,Detroit Red Wings,56,Anaheim Ducks,3,4,7,7,No,No,No,2,,,0,3,0,No,3,3,3,1,110,112,69,83,102,59,27,10,10
+690,692_NHL_2015_2016,24.01.2016 00:00:00,64,Dallas Stars,62,Colorado Avalanche,1,3,4,4,Yes,Yes,Yes,2,,,0,3,2,No,3,2,2,1,152,120,88,126,127,73,26,-7,15
+691,694_NHL_2015_2016,24.01.2016 00:00:00,57,Boston Bruins,63,Columbus Blue Jackets,3,2,5,4,Yes,Yes,Yes,1,,1,1,2,4,Yes,0,0,2,4,134,122,68,116,151,49,18,-29,19
+692,691_NHL_2015_2016,24.01.2016 00:00:00,77,Arizona Coyotes,68,Los Angeles Kings,3,2,5,5,No,Yes,Yes,1,,,0,1,3,No,0,0,0,3,117,130,62,115,103,76,2,27,-14
+693,693_NHL_2015_2016,24.01.2016 00:00:00,82,Toronto Maple Leafs,70,Montreal Canadiens,2,3,5,4,Yes,Yes,Yes,2,,1,1,0,1,Yes,1,0,1,4,107,124,53,126,113,70,-19,11,-17
+694,690_NHL_2015_2016,24.01.2016 00:00:00,66,Edmonton Oilers,71,Nashville Predators,1,4,5,5,No,Yes,Yes,2,,,0,2,3,No,0,3,4,1,116,141,50,118,129,68,-2,12,-18
+695,697_NHL_2015_2016,24.01.2016 00:00:00,85,Winnipeg Jets,72,New Jersey Devils,1,3,4,4,Yes,Yes,Yes,2,,,0,1,4,No,0,3,6,3,119,128,64,113,118,69,6,10,-5
+696,689_NHL_2015_2016,24.01.2016 00:00:00,75,Ottawa Senators,74,New York Rangers,3,0,3,3,Yes,Yes,Yes,1,,,0,2,5,No,0,3,4,1,126,152,56,130,116,75,-4,36,-19
+697,695_NHL_2015_2016,24.01.2016 00:00:00,67,Florida Panthers,81,Tampa Bay Lightning,5,2,7,7,No,No,No,1,,,0,4,0,No,3,3,2,1,119,98,78,123,107,74,-4,-9,4
+698,700_NHL_2015_2016,25.01.2016 00:00:00,60,Carolina Hurricanes,59,Calgary Flames,5,2,7,7,No,No,No,1,,,0,1,4,No,0,3,4,2,112,130,65,119,132,57,-7,-2,8
+699,698_NHL_2015_2016,25.01.2016 00:00:00,79,San Jose Sharks,68,Los Angeles Kings,2,3,5,4,Yes,Yes,Yes,2,1,,1,4,3,Yes,3,0,2,3,134,125,71,117,106,76,17,19,-5
+700,699_NHL_2015_2016,25.01.2016 00:00:00,61,Chicago Blackhawks,80,St. Louis Blues,2,0,2,2,Yes,Yes,Yes,1,,,0,0,4,No,0,1,1,2,142,117,88,124,120,83,18,-3,5
+701,701_NHL_2015_2016,26.01.2016 00:00:00,69,Minnesota Wild,77,Arizona Coyotes,1,2,3,2,Yes,Yes,Yes,2,,1,1,3,4,Yes,0,3,3,2,119,106,77,120,132,65,-1,-26,12
+702,704_NHL_2015_2016,26.01.2016 00:00:00,76,Philadelphia Flyers,57,Boston Bruins,2,3,5,5,No,Yes,Yes,2,,,0,3,4,No,0,2,3,2,98,120,53,137,124,70,-39,-4,-17
+703,703_NHL_2015_2016,26.01.2016 00:00:00,74,New York Rangers,58,Buffalo Sabres,6,3,9,9,No,No,No,1,,,0,0,3,No,0,0,0,3,130,119,75,98,117,53,32,2,22
+704,702_NHL_2015_2016,26.01.2016 00:00:00,64,Dallas Stars,59,Calgary Flames,2,1,3,3,Yes,Yes,Yes,1,,,0,1,3,No,0,0,2,5,153,123,88,121,137,57,32,-14,31
+705,706_NHL_2015_2016,26.01.2016 00:00:00,73,New York Islanders,65,Detroit Red Wings,2,4,6,6,No,No,Yes,2,,,0,5,2,No,3,0,3,4,128,110,76,113,116,69,15,-6,7
+706,705_NHL_2015_2016,26.01.2016 00:00:00,63,Columbus Blue Jackets,70,Montreal Canadiens,5,2,7,7,No,No,No,1,,,0,2,3,No,1,2,3,2,118,154,50,129,115,72,-11,39,-22
+707,714_NHL_2015_2016,27.01.2016 00:00:00,57,Boston Bruins,56,Anaheim Ducks,2,6,8,8,No,No,No,2,,,0,3,2,No,3,3,4,3,140,126,73,87,105,62,53,21,11
+708,709_NHL_2015_2016,27.01.2016 00:00:00,85,Winnipeg Jets,77,Arizona Coyotes,5,2,7,7,No,No,No,1,,,0,1,3,No,0,2,2,1,120,131,64,122,133,67,-2,-2,-3
+709,710_NHL_2015_2016,27.01.2016 00:00:00,75,Ottawa Senators,58,Buffalo Sabres,2,3,5,5,No,Yes,Yes,2,,,0,3,0,No,3,0,3,6,129,152,59,101,123,53,28,29,6
+710,713_NHL_2015_2016,27.01.2016 00:00:00,60,Carolina Hurricanes,61,Chicago Blackhawks,5,0,5,5,No,Yes,Yes,1,,,0,5,2,No,3,3,2,0,117,132,68,144,117,91,-27,15,-23
+711,707_NHL_2015_2016,27.01.2016 00:00:00,79,San Jose Sharks,62,Colorado Avalanche,6,1,7,7,No,No,No,1,,,0,2,3,No,1,3,3,1,136,128,72,129,128,76,7,0,-4
+712,711_NHL_2015_2016,27.01.2016 00:00:00,70,Montreal Canadiens,63,Columbus Blue Jackets,2,5,7,7,No,No,No,2,,,0,2,5,No,0,3,5,2,131,120,72,123,156,53,8,-36,19
+713,708_NHL_2015_2016,27.01.2016 00:00:00,83,Vancouver Canucks,71,Nashville Predators,1,2,3,3,Yes,Yes,Yes,2,,,0,4,5,No,0,3,4,1,123,135,67,122,130,71,1,5,-4
+714,715_NHL_2015_2016,27.01.2016 00:00:00,78,Pittsburgh Penguins,72,New Jersey Devils,2,0,2,2,Yes,Yes,Yes,1,,,0,5,4,No,3,3,3,1,119,116,72,116,119,72,3,-3,0
+715,712_NHL_2015_2016,27.01.2016 00:00:00,67,Florida Panthers,82,Toronto Maple Leafs,5,1,6,6,No,No,Yes,1,,,0,5,2,No,3,1,2,3,124,100,81,109,127,54,15,-27,27
+716,716_NHL_2015_2016,28.01.2016 00:00:00,68,Los Angeles Kings,62,Colorado Avalanche,3,4,7,7,No,No,No,2,,,0,3,2,No,2,0,1,6,120,108,78,130,134,76,-10,-26,2
+717,717_NHL_2015_2016,28.01.2016 00:00:00,59,Calgary Flames,71,Nashville Predators,1,2,3,3,Yes,Yes,Yes,2,,,0,1,2,No,0,3,2,1,122,139,57,124,131,74,-2,8,-17
+718,718_NHL_2015_2016,28.01.2016 00:00:00,84,Washington Capitals,76,Philadelphia Flyers,3,4,7,6,No,No,Yes,2,1,,1,6,3,Yes,3,0,2,3,149,94,101,100,123,53,49,-29,48
+719,719_NHL_2015_2016,28.01.2016 00:00:00,81,Tampa Bay Lightning,82,Toronto Maple Leafs,1,0,1,1,Yes,Yes,Yes,1,,,0,2,5,No,0,0,1,5,125,112,74,110,132,54,15,-20,20
+720,722_NHL_2015_2016,03.02.2016 00:00:00,62,Colorado Avalanche,61,Chicago Blackhawks,1,2,3,3,Yes,Yes,Yes,2,,,0,4,3,No,3,0,0,5,134,137,79,144,122,91,-10,15,-12
+721,721_NHL_2015_2016,03.02.2016 00:00:00,66,Edmonton Oilers,63,Columbus Blue Jackets,5,1,6,6,No,No,Yes,1,,,0,1,4,No,0,3,5,2,117,145,50,128,158,56,-11,-13,-6
+722,724_NHL_2015_2016,03.02.2016 00:00:00,85,Winnipeg Jets,64,Dallas Stars,3,5,8,8,No,No,No,2,,,0,5,2,No,3,3,2,1,125,133,67,155,124,91,-30,9,-24
+723,726_NHL_2015_2016,03.02.2016 00:00:00,84,Washington Capitals,67,Florida Panthers,2,5,7,7,No,No,No,2,,,0,3,4,No,1,3,5,1,152,98,102,129,101,84,23,-3,18
+724,723_NHL_2015_2016,03.02.2016 00:00:00,77,Arizona Coyotes,68,Los Angeles Kings,2,6,8,8,No,No,No,2,,,0,2,5,No,0,0,3,4,124,138,67,123,112,78,1,26,-11
+725,729_NHL_2015_2016,03.02.2016 00:00:00,73,New York Islanders,69,Minnesota Wild,5,3,8,8,No,No,No,1,,,0,2,4,No,0,1,1,2,130,114,76,120,108,78,10,6,-2
+726,730_NHL_2015_2016,03.02.2016 00:00:00,76,Philadelphia Flyers,70,Montreal Canadiens,4,2,6,6,No,No,Yes,1,,,0,4,3,No,2,0,2,5,104,126,55,133,125,72,-29,1,-17
+727,731_NHL_2015_2016,03.02.2016 00:00:00,72,New Jersey Devils,74,New York Rangers,3,2,5,5,No,Yes,Yes,1,,,0,0,2,No,0,3,6,3,116,121,72,136,122,78,-20,-1,-6
+728,727_NHL_2015_2016,03.02.2016 00:00:00,78,Pittsburgh Penguins,75,Ottawa Senators,6,5,11,11,No,No,No,1,,,0,2,0,No,3,0,2,3,121,116,75,131,155,59,-10,-39,16
+729,720_NHL_2015_2016,03.02.2016 00:00:00,56,Anaheim Ducks,79,San Jose Sharks,3,2,5,5,No,Yes,Yes,1,,,0,6,2,No,3,3,6,1,93,107,65,142,129,75,-49,-22,-10
+730,725_NHL_2015_2016,03.02.2016 00:00:00,71,Nashville Predators,80,St. Louis Blues,0,1,1,1,Yes,Yes,Yes,2,,,0,2,1,No,3,0,0,2,126,132,77,124,122,83,2,10,-6
+731,728_NHL_2015_2016,03.02.2016 00:00:00,57,Boston Bruins,82,Toronto Maple Leafs,3,4,7,6,No,No,Yes,2,1,,1,2,6,Yes,0,0,0,1,142,132,73,110,133,54,32,-1,19
+732,734_NHL_2015_2016,04.02.2016 00:00:00,70,Montreal Canadiens,58,Buffalo Sabres,2,4,6,6,No,No,Yes,2,,,0,2,4,No,0,3,3,2,135,129,72,104,125,56,31,4,16
+733,732_NHL_2015_2016,04.02.2016 00:00:00,59,Calgary Flames,60,Carolina Hurricanes,4,1,5,5,No,Yes,Yes,1,,,0,1,2,No,0,3,5,0,123,141,57,122,132,71,1,9,-14
+734,733_NHL_2015_2016,04.02.2016 00:00:00,81,Tampa Bay Lightning,65,Detroit Red Wings,3,1,4,4,Yes,Yes,Yes,1,,,0,1,0,No,3,3,4,2,126,112,77,117,118,72,9,-6,5
+735,735_NHL_2015_2016,05.02.2016 00:00:00,68,Los Angeles Kings,56,Anaheim Ducks,2,4,6,6,No,No,Yes,2,,,0,6,2,No,3,3,3,2,129,114,81,96,109,68,33,5,13
+736,745_NHL_2015_2016,05.02.2016 00:00:00,58,Buffalo Sabres,57,Boston Bruins,2,3,5,4,Yes,Yes,Yes,2,,1,1,4,2,Yes,3,1,3,4,108,127,59,145,136,74,-37,-9,-15
+737,737_NHL_2015_2016,05.02.2016 00:00:00,77,Arizona Coyotes,61,Chicago Blackhawks,4,5,9,8,No,No,No,2,1,,1,2,6,Yes,0,3,2,1,126,144,67,146,123,94,-20,21,-27
+738,736_NHL_2015_2016,05.02.2016 00:00:00,83,Vancouver Canucks,63,Columbus Blue Jackets,1,2,3,2,Yes,Yes,Yes,2,,1,1,1,2,Yes,0,0,1,5,124,137,67,129,163,56,-5,-26,11
+739,738_NHL_2015_2016,05.02.2016 00:00:00,62,Colorado Avalanche,64,Dallas Stars,3,4,7,6,No,No,Yes,2,1,,1,1,2,Yes,0,3,5,3,135,139,79,160,127,94,-25,12,-15
+740,743_NHL_2015_2016,05.02.2016 00:00:00,67,Florida Panthers,65,Detroit Red Wings,6,3,9,9,No,No,No,1,,,0,5,2,No,3,0,1,3,134,103,87,118,121,72,16,-18,15
+741,742_NHL_2015_2016,05.02.2016 00:00:00,75,Ottawa Senators,66,Edmonton Oilers,2,7,9,9,No,No,No,2,,,0,5,6,No,0,3,5,1,136,161,59,122,146,53,14,15,6
+742,746_NHL_2015_2016,05.02.2016 00:00:00,74,New York Rangers,69,Minnesota Wild,4,2,6,6,No,No,Yes,1,,,0,2,3,No,0,0,3,5,138,125,78,123,113,78,15,12,0
+743,741_NHL_2015_2016,05.02.2016 00:00:00,82,Toronto Maple Leafs,72,New Jersey Devils,3,2,5,4,Yes,Yes,Yes,1,,1,1,4,3,Yes,2,3,3,2,114,136,56,119,123,75,-5,13,-19
+744,744_NHL_2015_2016,05.02.2016 00:00:00,84,Washington Capitals,73,New York Islanders,3,2,5,5,No,Yes,Yes,1,,,0,2,5,No,0,3,5,3,154,103,102,135,117,79,19,-14,23
+745,739_NHL_2015_2016,05.02.2016 00:00:00,71,Nashville Predators,76,Philadelphia Flyers,3,6,9,9,No,No,No,2,,,0,0,1,No,0,3,4,2,126,133,77,108,128,58,18,5,19
+746,740_NHL_2015_2016,05.02.2016 00:00:00,80,St. Louis Blues,79,San Jose Sharks,1,3,4,4,Yes,Yes,Yes,2,,,0,1,0,No,3,0,2,3,125,122,86,144,132,75,-19,-10,11
+747,751_NHL_2015_2016,06.02.2016 00:00:00,56,Anaheim Ducks,77,Arizona Coyotes,5,2,7,7,No,No,No,1,,,0,4,2,No,3,1,4,5,100,111,71,130,149,68,-30,-38,3
+748,753_NHL_2015_2016,06.02.2016 00:00:00,85,Winnipeg Jets,60,Carolina Hurricanes,3,5,8,8,No,No,No,2,,,0,3,5,No,0,0,1,4,128,138,67,123,136,71,5,2,-4
+749,752_NHL_2015_2016,06.02.2016 00:00:00,59,Calgary Flames,63,Columbus Blue Jackets,1,2,3,3,Yes,Yes,Yes,2,,,0,4,1,No,3,2,2,1,127,142,60,131,164,58,-4,-22,2
+750,748_NHL_2015_2016,06.02.2016 00:00:00,70,Montreal Canadiens,66,Edmonton Oilers,5,1,6,6,No,No,Yes,1,,,0,2,4,No,0,3,7,2,137,133,72,129,148,56,8,-15,16
+751,747_NHL_2015_2016,06.02.2016 00:00:00,65,Detroit Red Wings,73,New York Islanders,5,1,6,6,No,No,Yes,1,,,0,3,6,No,0,0,2,3,121,127,72,137,120,79,-16,7,-7
+752,749_NHL_2015_2016,06.02.2016 00:00:00,76,Philadelphia Flyers,74,New York Rangers,2,3,5,4,Yes,Yes,Yes,2,,1,1,6,3,Yes,3,3,4,2,114,131,61,142,127,81,-28,4,-20
+753,754_NHL_2015_2016,06.02.2016 00:00:00,81,Tampa Bay Lightning,78,Pittsburgh Penguins,6,3,9,9,No,No,No,1,,,0,3,1,No,3,3,6,5,129,113,80,127,121,78,2,-8,2
+754,750_NHL_2015_2016,06.02.2016 00:00:00,72,New Jersey Devils,84,Washington Capitals,2,3,5,4,Yes,Yes,Yes,2,,1,1,2,3,Yes,1,3,3,2,121,126,76,157,105,105,-36,21,-29
+755,764_NHL_2015_2016,07.02.2016 00:00:00,57,Boston Bruins,58,Buffalo Sabres,2,1,3,2,Yes,Yes,Yes,1,1,,1,3,2,Yes,2,1,2,3,148,138,76,110,130,60,38,8,16
+756,759_NHL_2015_2016,07.02.2016 00:00:00,83,Vancouver Canucks,59,Calgary Flames,1,4,5,5,No,Yes,Yes,2,,,0,1,2,No,1,0,1,2,125,139,68,128,144,60,-3,-5,8
+757,755_NHL_2015_2016,07.02.2016 00:00:00,70,Montreal Canadiens,60,Carolina Hurricanes,2,1,3,2,Yes,Yes,Yes,1,,1,1,5,1,Yes,3,3,5,3,142,134,75,128,139,74,14,-5,1
+758,762_NHL_2015_2016,07.02.2016 00:00:00,64,Dallas Stars,61,Chicago Blackhawks,1,5,6,6,No,No,Yes,2,,,0,4,3,No,2,2,5,4,164,130,96,151,127,96,13,3,0
+759,756_NHL_2015_2016,07.02.2016 00:00:00,73,New York Islanders,66,Edmonton Oilers,8,1,9,9,No,No,No,1,,,0,1,5,No,0,0,1,5,138,125,79,130,153,56,8,-28,23
+760,760_NHL_2015_2016,07.02.2016 00:00:00,80,St. Louis Blues,69,Minnesota Wild,4,1,5,5,No,Yes,Yes,1,,,0,1,3,No,0,0,2,4,126,125,86,125,117,78,1,8,8
+761,757_NHL_2015_2016,07.02.2016 00:00:00,84,Washington Capitals,76,Philadelphia Flyers,3,2,5,5,No,Yes,Yes,1,,,0,3,2,No,2,1,2,3,160,107,107,116,134,62,44,-27,45
+762,763_NHL_2015_2016,07.02.2016 00:00:00,67,Florida Panthers,78,Pittsburgh Penguins,2,3,5,4,Yes,Yes,Yes,2,1,,1,6,3,Yes,3,0,3,6,140,106,90,130,127,78,10,-21,12
+763,761_NHL_2015_2016,07.02.2016 00:00:00,71,Nashville Predators,79,San Jose Sharks,6,2,8,8,No,No,No,1,,,0,3,6,No,0,3,3,1,129,139,77,147,133,78,-18,6,-1
+764,765_NHL_2015_2016,07.02.2016 00:00:00,75,Ottawa Senators,82,Toronto Maple Leafs,6,1,7,7,No,No,No,1,,,0,2,7,No,0,2,3,2,138,168,59,117,138,58,21,30,1
+765,758_NHL_2015_2016,07.02.2016 00:00:00,62,Colorado Avalanche,85,Winnipeg Jets,2,4,6,6,No,No,Yes,2,,,0,3,4,No,1,0,3,5,138,143,80,131,143,67,7,0,13
+766,768_NHL_2015_2016,09.02.2016 00:00:00,78,Pittsburgh Penguins,56,Anaheim Ducks,6,2,8,8,No,No,No,1,,,0,3,2,No,2,3,5,2,133,129,80,105,113,74,28,16,6
+767,766_NHL_2015_2016,09.02.2016 00:00:00,65,Detroit Red Wings,67,Florida Panthers,3,0,3,3,Yes,Yes,Yes,1,,,0,5,1,No,3,1,2,3,126,128,75,142,109,91,-16,19,-16
+768,769_NHL_2015_2016,09.02.2016 00:00:00,74,New York Rangers,72,New Jersey Devils,2,1,3,3,Yes,Yes,Yes,1,,,0,3,2,No,2,1,2,3,145,129,83,123,129,77,22,0,6
+769,767_NHL_2015_2016,09.02.2016 00:00:00,75,Ottawa Senators,81,Tampa Bay Lightning,5,1,6,6,No,No,Yes,1,,,0,6,1,No,3,3,6,3,144,169,62,135,116,83,9,53,-21
+770,772_NHL_2015_2016,10.02.2016 00:00:00,76,Philadelphia Flyers,56,Anaheim Ducks,1,4,5,5,No,Yes,Yes,2,,,0,2,3,No,0,0,2,6,118,137,62,107,119,74,11,18,-12
+771,778_NHL_2015_2016,10.02.2016 00:00:00,69,Minnesota Wild,64,Dallas Stars,3,4,7,6,No,No,Yes,2,1,,1,1,4,Yes,0,0,1,5,126,121,78,165,135,96,-39,-14,-18
+772,775_NHL_2015_2016,10.02.2016 00:00:00,72,New Jersey Devils,66,Edmonton Oilers,2,1,3,3,Yes,Yes,Yes,1,,,0,1,2,No,0,0,1,8,124,131,77,131,161,56,-7,-30,21
+773,771_NHL_2015_2016,10.02.2016 00:00:00,58,Buffalo Sabres,67,Florida Panthers,4,7,11,11,No,No,No,2,,,0,1,2,No,1,0,0,3,111,132,61,142,112,91,-31,20,-30
+774,770_NHL_2015_2016,10.02.2016 00:00:00,57,Boston Bruins,68,Los Angeles Kings,2,9,11,11,No,No,No,2,,,0,2,1,No,2,0,2,4,150,139,78,131,118,81,19,21,-3
+775,773_NHL_2015_2016,10.02.2016 00:00:00,63,Columbus Blue Jackets,73,New York Islanders,2,3,5,4,Yes,Yes,Yes,2,,1,1,2,1,Yes,3,3,8,1,133,165,61,146,126,82,-13,39,-21
+776,779_NHL_2015_2016,10.02.2016 00:00:00,61,Chicago Blackhawks,79,San Jose Sharks,0,2,2,2,Yes,Yes,Yes,2,,,0,5,1,No,3,0,2,6,156,128,99,149,139,78,7,-11,21
+777,774_NHL_2015_2016,10.02.2016 00:00:00,70,Montreal Canadiens,81,Tampa Bay Lightning,4,2,6,6,No,No,Yes,1,,,0,2,1,No,2,0,1,5,144,135,77,136,121,83,8,14,-6
+778,781_NHL_2015_2016,10.02.2016 00:00:00,59,Calgary Flames,82,Toronto Maple Leafs,4,3,7,7,No,No,No,1,,,0,4,1,No,3,0,1,6,132,145,63,118,144,58,14,1,5
+779,780_NHL_2015_2016,10.02.2016 00:00:00,62,Colorado Avalanche,83,Vancouver Canucks,1,3,4,4,Yes,Yes,Yes,2,,,0,2,4,No,0,0,1,4,140,147,80,126,143,68,14,4,12
+780,777_NHL_2015_2016,10.02.2016 00:00:00,71,Nashville Predators,84,Washington Capitals,3,5,8,8,No,No,No,2,,,0,6,2,No,3,3,3,2,135,141,80,163,109,110,-28,32,-30
+781,776_NHL_2015_2016,10.02.2016 00:00:00,80,St. Louis Blues,85,Winnipeg Jets,1,2,3,2,Yes,Yes,Yes,2,,1,1,4,1,Yes,3,3,4,2,130,126,89,135,145,70,-5,-19,19
+782,783_NHL_2015_2016,11.02.2016 00:00:00,78,Pittsburgh Penguins,74,New York Rangers,0,3,3,3,Yes,Yes,Yes,2,,,0,6,2,No,3,3,2,1,139,131,83,147,130,86,-8,1,-3
+783,782_NHL_2015_2016,11.02.2016 00:00:00,65,Detroit Red Wings,75,Ottawa Senators,3,1,4,4,Yes,Yes,Yes,1,,,0,3,0,No,3,3,5,1,129,128,78,149,170,65,-20,-42,13
+784,784_NHL_2015_2016,11.02.2016 00:00:00,77,Arizona Coyotes,83,Vancouver Canucks,1,2,3,3,Yes,Yes,Yes,2,,,0,2,5,No,0,3,3,1,132,154,68,129,144,71,3,10,-3
+785,787_NHL_2015_2016,12.02.2016 00:00:00,63,Columbus Blue Jackets,56,Anaheim Ducks,4,3,7,6,No,No,Yes,1,,1,1,2,3,Yes,1,3,4,1,135,168,62,111,120,77,24,48,-15
+786,789_NHL_2015_2016,12.02.2016 00:00:00,85,Winnipeg Jets,57,Boston Bruins,2,6,8,8,No,No,No,2,,,0,2,1,No,2,0,2,9,137,146,72,152,148,78,-15,-2,-6
+787,786_NHL_2015_2016,12.02.2016 00:00:00,76,Philadelphia Flyers,58,Buffalo Sabres,5,1,6,6,No,No,Yes,1,,,0,1,4,No,0,0,4,7,119,141,62,115,139,61,4,2,1
+788,793_NHL_2015_2016,12.02.2016 00:00:00,79,San Jose Sharks,59,Calgary Flames,5,6,11,10,No,No,No,2,,1,1,2,0,Yes,3,3,4,3,151,139,81,136,148,66,15,-9,15
+789,788_NHL_2015_2016,12.02.2016 00:00:00,75,Ottawa Senators,62,Colorado Avalanche,3,4,7,7,No,No,No,2,,,0,1,3,No,0,0,1,3,150,173,65,141,150,80,9,23,-15
+790,791_NHL_2015_2016,12.02.2016 00:00:00,61,Chicago Blackhawks,64,Dallas Stars,2,4,6,6,No,No,Yes,2,,,0,0,2,No,0,2,4,3,156,130,99,169,138,98,-13,-8,1
+791,785_NHL_2015_2016,12.02.2016 00:00:00,73,New York Islanders,68,Los Angeles Kings,5,2,7,7,No,No,No,1,,,0,3,2,No,2,3,9,2,149,128,84,140,120,84,9,8,0
+792,792_NHL_2015_2016,12.02.2016 00:00:00,66,Edmonton Oilers,82,Toronto Maple Leafs,5,2,7,7,No,No,No,1,,,0,1,2,No,0,0,3,4,132,163,56,121,148,58,11,15,-2
+793,790_NHL_2015_2016,12.02.2016 00:00:00,69,Minnesota Wild,84,Washington Capitals,3,4,7,7,No,No,No,2,,,0,3,4,No,1,3,5,3,129,125,79,168,112,113,-39,13,-34
+794,794_NHL_2015_2016,13.02.2016 00:00:00,69,Minnesota Wild,57,Boston Bruins,2,4,6,6,No,No,Yes,2,,,0,3,4,No,0,3,6,2,132,129,79,158,150,81,-26,-21,-2
+795,796_NHL_2015_2016,13.02.2016 00:00:00,77,Arizona Coyotes,59,Calgary Flames,4,1,5,5,No,Yes,Yes,1,,,0,1,2,No,0,2,6,5,133,156,68,142,153,68,-9,3,0
+796,798_NHL_2015_2016,13.02.2016 00:00:00,65,Detroit Red Wings,62,Colorado Avalanche,2,3,5,4,Yes,Yes,Yes,2,,1,1,3,1,Yes,3,3,4,3,132,129,81,145,153,83,-13,-24,-2
+797,800_NHL_2015_2016,13.02.2016 00:00:00,74,New York Rangers,68,Los Angeles Kings,4,5,9,8,No,No,No,2,1,,1,3,0,Yes,3,0,2,5,150,130,89,142,125,84,8,5,5
+798,802_NHL_2015_2016,13.02.2016 00:00:00,58,Buffalo Sabres,70,Montreal Canadiens,6,4,10,10,No,No,No,1,,,0,1,5,No,0,3,4,2,116,144,61,148,137,80,-32,7,-19
+799,797_NHL_2015_2016,13.02.2016 00:00:00,81,Tampa Bay Lightning,71,Nashville Predators,4,3,7,6,No,No,Yes,1,1,,1,2,4,Yes,0,0,3,5,138,125,83,138,146,80,0,-21,3
+800,795_NHL_2015_2016,13.02.2016 00:00:00,76,Philadelphia Flyers,72,New Jersey Devils,1,2,3,2,Yes,Yes,Yes,2,1,,1,5,1,Yes,3,3,2,1,124,142,65,126,132,80,-2,10,-15
+801,801_NHL_2015_2016,13.02.2016 00:00:00,60,Carolina Hurricanes,78,Pittsburgh Penguins,1,2,3,2,Yes,Yes,Yes,2,,1,1,1,2,Yes,1,0,0,3,129,141,75,139,134,83,-10,7,-8
+802,799_NHL_2015_2016,13.02.2016 00:00:00,67,Florida Panthers,80,St. Louis Blues,3,5,8,8,No,No,No,2,,,0,7,4,No,3,1,1,2,149,116,94,131,128,90,18,-12,4
+803,808_NHL_2015_2016,14.02.2016 00:00:00,61,Chicago Blackhawks,56,Anaheim Ducks,2,3,5,4,Yes,Yes,Yes,2,1,,1,2,4,Yes,0,1,3,4,158,134,99,114,124,78,44,10,21
+804,810_NHL_2015_2016,14.02.2016 00:00:00,79,San Jose Sharks,77,Arizona Coyotes,4,1,5,5,No,Yes,Yes,1,,,0,5,6,No,1,3,4,1,156,145,82,137,157,71,19,-12,11
+805,811_NHL_2015_2016,14.02.2016 00:00:00,65,Detroit Red Wings,57,Boston Bruins,6,5,11,11,No,No,No,1,,,0,2,3,No,1,3,4,2,134,132,82,162,152,84,-28,-20,-2
+806,812_NHL_2015_2016,14.02.2016 00:00:00,58,Buffalo Sabres,62,Colorado Avalanche,4,1,5,5,No,Yes,Yes,1,,,0,6,4,No,3,2,3,2,122,148,64,148,155,85,-26,-7,-21
+807,813_NHL_2015_2016,14.02.2016 00:00:00,72,New Jersey Devils,68,Los Angeles Kings,1,0,1,1,Yes,Yes,Yes,1,,,0,2,1,No,2,2,5,4,128,133,82,147,129,86,-19,4,-4
+808,804_NHL_2015_2016,14.02.2016 00:00:00,67,Florida Panthers,71,Nashville Predators,0,5,5,5,No,Yes,Yes,2,,,0,3,5,No,0,1,3,4,152,121,94,141,150,81,11,-29,13
+809,803_NHL_2015_2016,14.02.2016 00:00:00,60,Carolina Hurricanes,73,New York Islanders,6,3,9,9,No,No,No,1,,,0,1,2,No,1,3,5,2,130,143,76,154,130,87,-24,13,-11
+810,806_NHL_2015_2016,14.02.2016 00:00:00,63,Columbus Blue Jackets,75,Ottawa Senators,4,2,6,6,No,No,Yes,1,,,0,4,3,No,2,0,3,4,139,171,64,153,177,65,-14,-6,-1
+811,805_NHL_2015_2016,14.02.2016 00:00:00,83,Vancouver Canucks,82,Toronto Maple Leafs,2,5,7,7,No,No,No,2,,,0,2,1,No,3,0,2,5,131,145,74,123,153,58,8,-8,16
+812,807_NHL_2015_2016,14.02.2016 00:00:00,64,Dallas Stars,84,Washington Capitals,4,3,7,7,No,No,No,1,,,0,4,2,No,3,3,4,3,173,140,101,172,115,116,1,25,-15
+813,809_NHL_2015_2016,14.02.2016 00:00:00,66,Edmonton Oilers,85,Winnipeg Jets,1,2,3,2,Yes,Yes,Yes,2,,1,1,5,2,Yes,3,0,2,6,137,165,59,139,152,72,-2,13,-13
+814,821_NHL_2015_2016,15.02.2016 00:00:00,59,Calgary Flames,56,Anaheim Ducks,4,6,10,10,No,No,No,2,,,0,1,4,No,0,2,3,2,143,157,68,117,126,80,26,31,-12
+815,822_NHL_2015_2016,15.02.2016 00:00:00,73,New York Islanders,65,Detroit Red Wings,4,1,5,5,No,Yes,Yes,1,,,0,3,6,No,0,3,6,5,157,136,87,140,137,85,17,-1,2
+816,814_NHL_2015_2016,15.02.2016 00:00:00,74,New York Rangers,76,Philadelphia Flyers,3,1,4,4,Yes,Yes,Yes,1,,,0,4,5,No,1,1,1,2,154,135,90,125,144,66,29,-9,24
+817,815_NHL_2015_2016,15.02.2016 00:00:00,81,Tampa Bay Lightning,80,St. Louis Blues,1,2,3,3,Yes,Yes,Yes,2,,,0,4,3,No,2,3,5,3,142,128,85,136,131,93,6,-3,-8
+818,819_NHL_2015_2016,16.02.2016 00:00:00,71,Nashville Predators,64,Dallas Stars,2,3,5,4,Yes,Yes,Yes,2,1,,1,5,0,Yes,3,3,4,3,146,150,84,177,143,104,-31,7,-20
+819,816_NHL_2015_2016,16.02.2016 00:00:00,83,Vancouver Canucks,69,Minnesota Wild,2,5,7,7,No,No,No,2,,,0,2,5,No,0,0,2,4,133,150,74,134,133,79,-1,17,-5
+820,817_NHL_2015_2016,16.02.2016 00:00:00,77,Arizona Coyotes,70,Montreal Canadiens,6,2,8,8,No,No,No,1,,,0,1,4,No,0,0,4,6,138,161,71,152,143,80,-14,18,-9
+821,820_NHL_2015_2016,16.02.2016 00:00:00,67,Florida Panthers,78,Pittsburgh Penguins,2,1,3,2,Yes,Yes,Yes,1,,1,1,0,5,Yes,0,2,2,1,152,126,94,141,135,85,11,-9,9
+822,818_NHL_2015_2016,16.02.2016 00:00:00,61,Chicago Blackhawks,82,Toronto Maple Leafs,7,2,9,9,No,No,No,1,,,0,2,3,No,1,3,5,2,160,137,100,128,155,61,32,-18,39
+823,823_NHL_2015_2016,17.02.2016 00:00:00,66,Edmonton Oilers,56,Anaheim Ducks,3,5,8,8,No,No,No,2,,,0,1,2,No,1,3,6,4,138,167,60,123,130,83,15,37,-23
+824,828_NHL_2015_2016,17.02.2016 00:00:00,63,Columbus Blue Jackets,57,Boston Bruins,1,2,3,2,Yes,Yes,Yes,2,1,,1,4,2,Yes,3,0,5,6,143,173,67,167,158,84,-24,15,-17
+825,825_NHL_2015_2016,17.02.2016 00:00:00,75,Ottawa Senators,58,Buffalo Sabres,2,1,3,2,Yes,Yes,Yes,1,,1,1,2,4,Yes,0,3,4,1,155,181,65,126,149,67,29,32,-2
+826,824_NHL_2015_2016,17.02.2016 00:00:00,80,St. Louis Blues,64,Dallas Stars,2,1,3,2,Yes,Yes,Yes,1,1,,1,2,1,Yes,3,2,3,2,138,132,96,180,145,106,-42,-13,-10
+827,829_NHL_2015_2016,17.02.2016 00:00:00,84,Washington Capitals,68,Los Angeles Kings,3,1,4,4,Yes,Yes,Yes,1,,,0,3,4,No,0,0,0,1,175,119,116,147,130,86,28,-11,30
+828,827_NHL_2015_2016,17.02.2016 00:00:00,72,New Jersey Devils,76,Philadelphia Flyers,3,6,9,9,No,No,No,2,,,0,1,0,No,3,0,1,3,129,133,85,126,147,66,3,-14,19
+829,826_NHL_2015_2016,17.02.2016 00:00:00,81,Tampa Bay Lightning,79,San Jose Sharks,2,4,6,6,No,No,Yes,2,,,0,1,2,No,0,3,4,1,143,130,85,160,146,85,-17,-16,0
+830,830_NHL_2015_2016,17.02.2016 00:00:00,60,Carolina Hurricanes,85,Winnipeg Jets,2,1,3,3,Yes,Yes,Yes,1,,,0,6,3,No,3,2,2,1,136,146,79,141,153,74,-5,-7,5
+831,833_NHL_2015_2016,18.02.2016 00:00:00,74,New York Rangers,61,Chicago Blackhawks,3,5,8,8,No,No,No,2,,,0,3,1,No,3,3,7,2,157,136,93,167,139,103,-10,-3,-10
+832,831_NHL_2015_2016,18.02.2016 00:00:00,59,Calgary Flames,69,Minnesota Wild,3,5,8,8,No,No,No,2,,,0,4,6,No,0,3,5,2,147,163,68,139,135,82,8,28,-14
+833,832_NHL_2015_2016,18.02.2016 00:00:00,62,Colorado Avalanche,70,Montreal Canadiens,3,2,5,5,No,Yes,Yes,1,,,0,1,4,No,0,0,2,6,149,159,85,154,149,80,-5,10,5
+834,834_NHL_2015_2016,19.02.2016 00:00:00,83,Vancouver Canucks,56,Anaheim Ducks,2,5,7,7,No,No,No,2,,,0,2,5,No,0,3,5,3,135,155,74,128,133,86,7,22,-12
+835,838_NHL_2015_2016,19.02.2016 00:00:00,71,Nashville Predators,57,Boston Bruins,2,0,2,2,Yes,Yes,Yes,1,,,0,2,3,No,1,2,2,1,148,153,85,169,159,86,-21,-6,-1
+836,842_NHL_2015_2016,19.02.2016 00:00:00,75,Ottawa Senators,60,Carolina Hurricanes,4,2,6,6,No,No,Yes,1,,,0,2,1,No,2,3,2,1,157,182,67,138,147,82,19,35,-15
+837,835_NHL_2015_2016,19.02.2016 00:00:00,77,Arizona Coyotes,64,Dallas Stars,6,3,9,9,No,No,No,1,,,0,6,2,No,3,1,1,2,144,163,74,181,147,107,-37,16,-33
+838,844_NHL_2015_2016,19.02.2016 00:00:00,78,Pittsburgh Penguins,65,Detroit Red Wings,6,3,9,9,No,No,No,1,,,0,1,2,No,1,0,1,4,142,137,86,141,141,85,1,-4,1
+839,837_NHL_2015_2016,19.02.2016 00:00:00,80,St. Louis Blues,68,Los Angeles Kings,2,1,3,2,Yes,Yes,Yes,1,1,,1,2,1,Yes,2,0,1,3,140,133,98,148,133,86,-8,0,12
+840,836_NHL_2015_2016,19.02.2016 00:00:00,66,Edmonton Oilers,69,Minnesota Wild,2,5,7,7,No,No,No,2,,,0,3,5,No,0,3,5,3,141,172,60,144,138,85,-3,34,-25
+841,841_NHL_2015_2016,19.02.2016 00:00:00,82,Toronto Maple Leafs,74,New York Rangers,2,4,6,6,No,No,Yes,2,,,0,2,7,No,0,0,3,5,130,162,61,160,141,93,-30,21,-32
+842,840_NHL_2015_2016,19.02.2016 00:00:00,67,Florida Panthers,79,San Jose Sharks,1,2,3,2,Yes,Yes,Yes,2,,1,1,2,1,Yes,2,3,4,2,154,127,96,164,148,88,-10,-21,8
+843,843_NHL_2015_2016,19.02.2016 00:00:00,73,New York Islanders,84,Washington Capitals,2,3,5,4,Yes,Yes,Yes,2,1,,1,4,1,Yes,3,3,3,1,161,137,90,178,120,119,-17,17,-29
+844,839_NHL_2015_2016,19.02.2016 00:00:00,81,Tampa Bay Lightning,85,Winnipeg Jets,6,5,11,10,No,No,No,1,,1,1,2,4,Yes,0,0,1,2,145,134,85,142,155,74,3,-21,11
+845,848_NHL_2015_2016,20.02.2016 00:00:00,63,Columbus Blue Jackets,58,Buffalo Sabres,0,4,4,4,Yes,Yes,Yes,2,,,0,1,2,No,1,1,1,2,144,175,68,127,151,68,17,24,0
+846,850_NHL_2015_2016,20.02.2016 00:00:00,72,New Jersey Devils,73,New York Islanders,0,1,1,1,Yes,Yes,Yes,2,,,0,3,6,No,0,1,2,3,132,139,85,163,140,91,-31,-1,-6
+847,847_NHL_2015_2016,20.02.2016 00:00:00,70,Montreal Canadiens,76,Philadelphia Flyers,3,2,5,4,Yes,Yes,Yes,1,,1,1,2,3,Yes,0,3,6,3,156,152,80,132,150,69,24,2,11
+848,849_NHL_2015_2016,20.02.2016 00:00:00,60,Carolina Hurricanes,79,San Jose Sharks,5,2,7,7,No,No,No,1,,,0,2,4,No,0,2,2,1,140,151,82,166,149,90,-26,2,-8
+849,845_NHL_2015_2016,20.02.2016 00:00:00,78,Pittsburgh Penguins,81,Tampa Bay Lightning,2,4,6,6,No,No,Yes,2,,,0,6,3,No,3,2,6,5,148,140,89,151,139,87,-3,1,2
+850,846_NHL_2015_2016,20.02.2016 00:00:00,59,Calgary Flames,83,Vancouver Canucks,5,2,7,7,No,No,No,1,,,0,3,5,No,0,0,2,5,150,168,68,137,160,74,13,8,-6
+851,855_NHL_2015_2016,21.02.2016 00:00:00,64,Dallas Stars,57,Boston Bruins,3,7,10,10,No,No,No,2,,,0,3,6,No,0,0,0,2,184,153,107,169,161,86,15,-8,21
+852,851_NHL_2015_2016,21.02.2016 00:00:00,69,Minnesota Wild,61,Chicago Blackhawks,6,1,7,7,No,No,No,1,,,0,5,2,No,3,3,5,3,149,140,88,172,142,106,-23,-2,-18
+853,853_NHL_2015_2016,21.02.2016 00:00:00,66,Edmonton Oilers,62,Colorado Avalanche,2,3,5,5,No,Yes,Yes,2,,,0,2,5,No,0,3,3,2,143,177,60,152,161,88,-9,16,-28
+854,858_NHL_2015_2016,21.02.2016 00:00:00,75,Ottawa Senators,65,Detroit Red Wings,3,2,5,4,Yes,Yes,Yes,1,,1,1,4,2,Yes,3,0,3,6,161,184,70,144,147,85,17,37,-15
+855,856_NHL_2015_2016,21.02.2016 00:00:00,71,Nashville Predators,68,Los Angeles Kings,1,2,3,2,Yes,Yes,Yes,2,1,,1,2,0,Yes,3,1,1,2,150,153,88,149,135,87,1,18,1
+856,860_NHL_2015_2016,21.02.2016 00:00:00,84,Washington Capitals,72,New Jersey Devils,4,3,7,7,No,No,No,1,,,0,3,2,No,2,0,0,1,181,122,121,132,140,85,49,-18,36
+857,857_NHL_2015_2016,21.02.2016 00:00:00,82,Toronto Maple Leafs,76,Philadelphia Flyers,4,5,9,8,No,No,No,2,1,,1,2,4,Yes,0,1,2,3,132,166,61,134,153,70,-2,13,-9
+858,852_NHL_2015_2016,21.02.2016 00:00:00,58,Buffalo Sabres,78,Pittsburgh Penguins,3,4,7,7,No,No,No,2,,,0,4,0,No,3,0,2,4,131,151,71,150,144,89,-19,7,-18
+859,854_NHL_2015_2016,21.02.2016 00:00:00,77,Arizona Coyotes,80,St. Louis Blues,4,6,10,10,No,No,No,2,,,0,6,3,No,3,2,2,1,150,166,77,142,134,100,8,32,-23
+860,859_NHL_2015_2016,21.02.2016 00:00:00,67,Florida Panthers,85,Winnipeg Jets,3,1,4,4,Yes,Yes,Yes,1,,,0,1,2,No,1,1,5,6,155,129,97,147,161,75,8,-32,22
+861,864_NHL_2015_2016,22.02.2016 00:00:00,56,Anaheim Ducks,59,Calgary Flames,5,2,7,7,No,No,No,1,,,0,5,2,No,3,3,5,2,133,135,89,155,170,71,-22,-35,18
+862,861_NHL_2015_2016,22.02.2016 00:00:00,83,Vancouver Canucks,62,Colorado Avalanche,5,1,6,6,No,No,Yes,1,,,0,2,5,No,0,3,3,2,139,165,74,155,163,91,-16,2,-17
+863,863_NHL_2015_2016,22.02.2016 00:00:00,74,New York Rangers,65,Detroit Red Wings,1,0,1,0,Yes,Yes,Yes,1,1,,1,4,2,Yes,3,1,2,3,164,143,96,146,150,86,18,-7,10
+864,862_NHL_2015_2016,22.02.2016 00:00:00,60,Carolina Hurricanes,81,Tampa Bay Lightning,2,4,6,6,No,No,Yes,2,,,0,5,2,No,3,3,4,2,145,153,85,155,141,90,-10,12,-5
+865,868_NHL_2015_2016,23.02.2016 00:00:00,84,Washington Capitals,77,Arizona Coyotes,3,2,5,5,No,Yes,Yes,1,,,0,4,3,No,3,0,4,6,185,125,124,154,172,77,31,-47,47
+866,867_NHL_2015_2016,23.02.2016 00:00:00,57,Boston Bruins,63,Columbus Blue Jackets,4,6,10,10,No,No,No,2,,,0,7,3,No,3,0,0,4,176,164,89,144,179,68,32,-15,21
+867,866_NHL_2015_2016,23.02.2016 00:00:00,70,Montreal Canadiens,71,Nashville Predators,1,2,3,2,Yes,Yes,Yes,2,,1,1,3,2,Yes,2,1,1,2,159,154,82,151,155,89,8,-1,-7
+868,865_NHL_2015_2016,23.02.2016 00:00:00,80,St. Louis Blues,79,San Jose Sharks,3,6,9,9,No,No,No,2,,,0,6,4,No,3,0,2,5,148,138,103,168,154,90,-20,-16,13
+869,873_NHL_2015_2016,24.02.2016 00:00:00,81,Tampa Bay Lightning,77,Arizona Coyotes,2,1,3,3,Yes,Yes,Yes,1,,,0,4,2,No,3,0,2,3,159,143,93,156,175,77,3,-32,16
+870,869_NHL_2015_2016,24.02.2016 00:00:00,68,Los Angeles Kings,59,Calgary Flames,2,1,3,3,Yes,Yes,Yes,1,,,0,2,1,No,2,0,2,5,151,136,89,157,175,71,-6,-39,18
+871,874_NHL_2015_2016,24.02.2016 00:00:00,65,Detroit Red Wings,63,Columbus Blue Jackets,2,1,3,2,Yes,Yes,Yes,1,,1,1,0,1,Yes,1,3,6,4,146,151,87,150,183,71,-4,-32,16
+872,872_NHL_2015_2016,24.02.2016 00:00:00,85,Winnipeg Jets,64,Dallas Stars,3,5,8,8,No,No,No,2,,,0,1,3,No,0,0,3,7,148,164,75,187,160,107,-39,4,-32
+873,875_NHL_2015_2016,24.02.2016 00:00:00,82,Toronto Maple Leafs,71,Nashville Predators,2,3,5,5,No,Yes,Yes,2,,,0,4,5,No,1,2,2,1,136,171,62,153,156,91,-17,15,-29
+874,871_NHL_2015_2016,24.02.2016 00:00:00,69,Minnesota Wild,73,New York Islanders,1,4,5,5,No,Yes,Yes,2,,,0,6,1,No,3,3,1,0,155,141,91,164,140,94,-9,1,-3
+875,876_NHL_2015_2016,24.02.2016 00:00:00,72,New Jersey Devils,74,New York Rangers,5,2,7,7,No,No,No,1,,,0,3,4,No,0,2,1,0,135,144,85,165,143,98,-30,1,-13
+876,870_NHL_2015_2016,24.02.2016 00:00:00,66,Edmonton Oilers,75,Ottawa Senators,1,4,5,5,No,Yes,Yes,2,,,0,2,3,No,0,2,3,2,145,180,60,164,186,72,-19,-6,-12
+877,877_NHL_2015_2016,24.02.2016 00:00:00,60,Carolina Hurricanes,76,Philadelphia Flyers,3,1,4,4,Yes,Yes,Yes,1,,,0,2,4,No,0,2,5,4,147,157,85,139,157,72,8,0,13
+878,878_NHL_2015_2016,25.02.2016 00:00:00,56,Anaheim Ducks,58,Buffalo Sabres,1,0,1,1,Yes,Yes,Yes,1,,,0,5,2,No,3,0,3,4,138,137,92,134,155,71,4,-18,21
+879,881_NHL_2015_2016,25.02.2016 00:00:00,84,Washington Capitals,70,Montreal Canadiens,3,4,7,7,No,No,No,2,,,0,3,2,No,3,1,1,2,188,127,127,160,156,83,28,-29,44
+880,880_NHL_2015_2016,25.02.2016 00:00:00,57,Boston Bruins,78,Pittsburgh Penguins,5,1,6,6,No,No,Yes,1,,,0,4,6,No,0,3,4,3,180,170,89,154,147,92,26,23,-3
+881,879_NHL_2015_2016,25.02.2016 00:00:00,62,Colorado Avalanche,79,San Jose Sharks,4,3,7,6,No,No,Yes,1,,1,1,1,5,Yes,0,3,6,3,156,168,91,174,157,93,-18,11,-2
+882,889_NHL_2015_2016,26.02.2016 00:00:00,67,Florida Panthers,77,Arizona Coyotes,3,2,5,5,No,Yes,Yes,1,,,0,3,1,No,3,0,1,2,158,130,100,157,177,77,1,-47,23
+883,888_NHL_2015_2016,26.02.2016 00:00:00,82,Toronto Maple Leafs,60,Carolina Hurricanes,3,1,4,4,Yes,Yes,Yes,1,,,0,2,3,No,0,3,3,1,138,174,62,150,158,88,-12,16,-26
+884,882_NHL_2015_2016,26.02.2016 00:00:00,68,Los Angeles Kings,66,Edmonton Oilers,2,1,3,3,Yes,Yes,Yes,1,,,0,2,1,No,3,0,1,4,153,137,92,146,184,60,7,-47,32
+885,890_NHL_2015_2016,26.02.2016 00:00:00,76,Philadelphia Flyers,69,Minnesota Wild,3,2,5,5,No,Yes,Yes,1,,,0,1,3,No,0,0,1,4,140,160,72,156,145,91,-16,15,-19
+886,887_NHL_2015_2016,26.02.2016 00:00:00,61,Chicago Blackhawks,71,Nashville Predators,1,3,4,4,Yes,Yes,Yes,2,,,0,1,6,No,0,3,3,2,173,148,106,156,158,94,17,-10,12
+887,891_NHL_2015_2016,26.02.2016 00:00:00,63,Columbus Blue Jackets,72,New Jersey Devils,6,1,7,7,No,No,No,1,,,0,1,2,No,1,3,5,2,151,185,72,140,146,88,11,39,-16
+888,884_NHL_2015_2016,26.02.2016 00:00:00,59,Calgary Flames,73,New York Islanders,1,2,3,2,Yes,Yes,Yes,2,1,,1,1,2,Yes,0,3,4,1,158,177,71,168,141,97,-10,36,-26
+889,886_NHL_2015_2016,26.02.2016 00:00:00,80,St. Louis Blues,74,New York Rangers,1,2,3,3,Yes,Yes,Yes,2,,,0,3,6,No,0,0,2,5,151,144,103,167,148,98,-16,-4,5
+890,883_NHL_2015_2016,26.02.2016 00:00:00,83,Vancouver Canucks,75,Ottawa Senators,5,3,8,8,No,No,No,1,,,0,5,1,No,3,3,4,1,144,166,77,168,187,75,-24,-21,2
+891,885_NHL_2015_2016,26.02.2016 00:00:00,64,Dallas Stars,85,Winnipeg Jets,3,6,9,9,No,No,No,2,,,0,5,3,No,3,0,3,5,192,163,110,151,169,75,41,-6,35
+892,896_NHL_2015_2016,27.02.2016 00:00:00,76,Philadelphia Flyers,77,Arizona Coyotes,4,2,6,6,No,No,Yes,1,,,0,3,2,No,3,0,2,3,143,162,75,159,180,77,-16,-18,-2
+893,901_NHL_2015_2016,27.02.2016 00:00:00,60,Carolina Hurricanes,57,Boston Bruins,1,4,5,5,No,Yes,Yes,2,,,0,1,3,No,0,3,5,1,151,161,88,185,171,92,-34,-10,-4
+894,897_NHL_2015_2016,27.02.2016 00:00:00,79,San Jose Sharks,58,Buffalo Sabres,1,3,4,4,Yes,Yes,Yes,2,,,0,3,4,No,1,0,0,1,177,161,94,134,156,71,43,5,23
+895,898_NHL_2015_2016,27.02.2016 00:00:00,56,Anaheim Ducks,66,Edmonton Oilers,2,1,3,2,Yes,Yes,Yes,1,1,,1,1,0,Yes,3,0,1,2,139,137,95,147,186,60,-8,-49,35
+896,893_NHL_2015_2016,27.02.2016 00:00:00,63,Columbus Blue Jackets,67,Florida Panthers,4,3,7,6,No,No,Yes,1,,1,1,6,1,Yes,3,3,3,2,157,186,75,161,132,103,-4,54,-28
+897,900_NHL_2015_2016,27.02.2016 00:00:00,84,Washington Capitals,69,Minnesota Wild,3,2,5,5,No,Yes,Yes,1,,,0,3,4,No,0,0,2,3,191,131,127,158,148,91,33,-17,36
+898,892_NHL_2015_2016,27.02.2016 00:00:00,64,Dallas Stars,74,New York Rangers,2,3,5,5,No,Yes,Yes,2,,,0,3,6,No,0,3,2,1,195,169,110,169,149,101,26,20,9
+899,894_NHL_2015_2016,27.02.2016 00:00:00,71,Nashville Predators,80,St. Louis Blues,5,0,5,5,No,Yes,Yes,1,,,0,3,1,No,3,0,1,2,159,159,97,152,146,103,7,13,-6
+900,899_NHL_2015_2016,27.02.2016 00:00:00,72,New Jersey Devils,81,Tampa Bay Lightning,0,4,4,4,Yes,Yes,Yes,2,,,0,1,6,No,0,3,2,1,141,152,88,161,144,96,-20,8,-8
+901,895_NHL_2015_2016,27.02.2016 00:00:00,78,Pittsburgh Penguins,85,Winnipeg Jets,4,1,5,5,No,Yes,Yes,1,,,0,1,5,No,0,3,6,3,155,152,92,157,172,78,-2,-20,14
+902,905_NHL_2015_2016,28.02.2016 00:00:00,68,Los Angeles Kings,58,Buffalo Sabres,2,0,2,2,Yes,Yes,Yes,1,,,0,2,1,No,3,3,3,1,155,138,95,137,157,74,18,-19,21
+903,907_NHL_2015_2016,28.02.2016 00:00:00,62,Colorado Avalanche,65,Detroit Red Wings,3,5,8,8,No,No,No,2,,,0,4,3,No,2,2,2,1,160,171,93,148,152,89,12,19,4
+904,902_NHL_2015_2016,28.02.2016 00:00:00,69,Minnesota Wild,67,Florida Panthers,3,1,4,4,Yes,Yes,Yes,1,,,0,2,3,No,0,1,3,4,160,151,91,164,136,104,-4,15,-13
+905,906_NHL_2015_2016,28.02.2016 00:00:00,59,Calgary Flames,75,Ottawa Senators,4,6,10,10,No,No,No,2,,,0,1,2,No,1,0,3,5,159,179,72,171,192,75,-12,-13,-3
+906,903_NHL_2015_2016,28.02.2016 00:00:00,60,Carolina Hurricanes,80,St. Louis Blues,2,5,7,7,No,No,No,2,,,0,1,4,No,0,0,0,5,152,165,88,152,151,103,0,14,-15
+907,908_NHL_2015_2016,28.02.2016 00:00:00,70,Montreal Canadiens,82,Toronto Maple Leafs,4,1,5,5,No,Yes,Yes,1,,,0,4,3,No,3,3,3,1,164,159,86,141,175,65,23,-16,21
+908,904_NHL_2015_2016,28.02.2016 00:00:00,61,Chicago Blackhawks,84,Washington Capitals,3,2,5,5,No,Yes,Yes,1,,,0,1,3,No,0,3,3,2,174,151,106,194,133,130,-20,18,-24
+909,910_NHL_2015_2016,29.02.2016 00:00:00,56,Anaheim Ducks,68,Los Angeles Kings,4,2,6,6,No,No,Yes,1,,,0,2,1,No,2,3,2,0,141,138,97,157,138,98,-16,0,-1
+910,909_NHL_2015_2016,29.02.2016 00:00:00,66,Edmonton Oilers,73,New York Islanders,3,1,4,4,Yes,Yes,Yes,1,,,0,1,2,No,1,2,2,1,148,188,61,170,142,99,-22,46,-38
+911,911_NHL_2015_2016,29.02.2016 00:00:00,83,Vancouver Canucks,79,San Jose Sharks,1,4,5,5,No,Yes,Yes,2,,,0,5,3,No,3,0,1,3,149,169,80,178,164,94,-29,5,-14
+912,912_NHL_2015_2016,29.02.2016 00:00:00,57,Boston Bruins,81,Tampa Bay Lightning,1,4,5,5,No,Yes,Yes,2,,,0,4,1,No,3,3,4,0,189,172,95,165,144,99,24,28,-4
+913,917_NHL_2015_2016,01.03.2016 00:00:00,78,Pittsburgh Penguins,77,Arizona Coyotes,6,0,6,6,No,No,Yes,1,,,0,4,1,No,3,0,2,4,159,153,95,161,184,77,-2,-31,18
+914,916_NHL_2015_2016,01.03.2016 00:00:00,76,Philadelphia Flyers,59,Calgary Flames,5,3,8,8,No,No,No,1,,,0,4,2,No,3,0,4,6,147,164,78,163,185,72,-16,-21,6
+915,918_NHL_2015_2016,01.03.2016 00:00:00,74,New York Rangers,63,Columbus Blue Jackets,2,1,3,3,Yes,Yes,Yes,1,,,0,3,2,No,3,2,4,3,172,151,104,161,189,77,11,-38,27
+916,914_NHL_2015_2016,01.03.2016 00:00:00,64,Dallas Stars,65,Detroit Red Wings,2,3,5,4,Yes,Yes,Yes,2,1,,1,2,3,Yes,0,3,5,3,197,172,110,153,155,92,44,17,18
+917,913_NHL_2015_2016,01.03.2016 00:00:00,79,San Jose Sharks,70,Montreal Canadiens,6,2,8,8,No,No,No,1,,,0,4,1,No,3,3,4,1,182,165,97,168,160,89,14,5,8
+918,915_NHL_2015_2016,01.03.2016 00:00:00,82,Toronto Maple Leafs,81,Tampa Bay Lightning,1,2,3,3,Yes,Yes,Yes,2,,,0,1,4,No,0,3,4,1,142,179,65,169,145,102,-27,34,-37
+919,928_NHL_2015_2016,02.03.2016 00:00:00,57,Boston Bruins,59,Calgary Flames,2,1,3,3,Yes,Yes,Yes,1,,,0,1,4,No,0,0,3,5,190,176,95,166,190,72,24,-14,23
+920,927_NHL_2015_2016,02.03.2016 00:00:00,72,New Jersey Devils,60,Carolina Hurricanes,1,3,4,4,Yes,Yes,Yes,2,,,0,0,4,No,0,0,2,5,141,156,88,154,170,88,-13,-14,0
+921,921_NHL_2015_2016,02.03.2016 00:00:00,69,Minnesota Wild,62,Colorado Avalanche,6,3,9,9,No,No,No,1,,,0,3,1,No,3,0,3,5,163,152,94,163,176,93,0,-24,1
+922,920_NHL_2015_2016,02.03.2016 00:00:00,71,Nashville Predators,64,Dallas Stars,5,3,8,8,No,No,No,1,,,0,5,0,No,3,1,2,3,164,159,100,199,175,111,-35,-16,-11
+923,925_NHL_2015_2016,02.03.2016 00:00:00,58,Buffalo Sabres,66,Edmonton Oilers,1,2,3,2,Yes,Yes,Yes,2,1,,1,0,2,Yes,0,3,3,1,137,159,74,151,189,64,-14,-30,10
+924,922_NHL_2015_2016,02.03.2016 00:00:00,85,Winnipeg Jets,67,Florida Panthers,2,3,5,5,No,Yes,Yes,2,,,0,1,4,No,0,0,1,3,158,176,78,165,139,104,-7,37,-26
+925,919_NHL_2015_2016,02.03.2016 00:00:00,83,Vancouver Canucks,73,New York Islanders,2,3,5,5,No,Yes,Yes,2,,,0,1,4,No,0,0,1,3,150,173,80,171,145,99,-21,28,-19
+926,923_NHL_2015_2016,02.03.2016 00:00:00,84,Washington Capitals,78,Pittsburgh Penguins,3,2,5,5,No,Yes,Yes,1,,,0,3,2,No,3,0,2,3,199,138,133,167,156,98,32,-18,35
+927,926_NHL_2015_2016,02.03.2016 00:00:00,84,Washington Capitals,78,Pittsburgh Penguins,3,2,5,5,No,Yes,Yes,1,,,0,2,3,No,0,3,6,0,199,138,133,167,156,98,32,-18,35
+928,924_NHL_2015_2016,02.03.2016 00:00:00,75,Ottawa Senators,80,St. Louis Blues,3,4,7,6,No,No,Yes,2,,1,1,6,4,Yes,3,3,5,2,177,196,78,157,153,106,20,43,-28
+929,930_NHL_2015_2016,03.03.2016 00:00:00,65,Detroit Red Wings,61,Chicago Blackhawks,2,5,7,7,No,No,No,2,,,0,3,2,No,2,3,3,2,156,157,94,177,153,109,-21,4,-15
+930,929_NHL_2015_2016,03.03.2016 00:00:00,56,Anaheim Ducks,70,Montreal Canadiens,3,2,5,4,Yes,Yes,Yes,1,,1,1,4,2,Yes,3,0,2,6,145,140,100,170,166,89,-25,-26,11
+931,931_NHL_2015_2016,03.03.2016 00:00:00,84,Washington Capitals,82,Toronto Maple Leafs,3,2,5,5,No,Yes,Yes,1,,,0,3,2,No,3,0,1,2,202,140,136,143,181,65,59,-41,71
+932,934_NHL_2015_2016,04.03.2016 00:00:00,77,Arizona Coyotes,56,Anaheim Ducks,1,5,6,6,No,No,Yes,2,,,0,0,6,No,0,2,3,2,161,190,77,148,142,102,13,48,-25
+933,941_NHL_2015_2016,04.03.2016 00:00:00,58,Buffalo Sabres,59,Calgary Flames,6,3,9,9,No,No,No,1,,,0,1,2,No,1,0,1,2,138,161,75,167,192,72,-29,-31,3
+934,942_NHL_2015_2016,04.03.2016 00:00:00,57,Boston Bruins,61,Chicago Blackhawks,4,2,6,6,No,No,Yes,1,,,0,2,1,No,3,3,5,2,192,177,98,182,155,112,10,22,-14
+935,943_NHL_2015_2016,04.03.2016 00:00:00,76,Philadelphia Flyers,66,Edmonton Oilers,0,4,4,4,Yes,Yes,Yes,2,,,0,5,3,No,3,2,2,1,152,167,81,153,190,66,-1,-23,15
+936,935_NHL_2015_2016,04.03.2016 00:00:00,62,Colorado Avalanche,67,Florida Panthers,3,2,5,5,No,Yes,Yes,1,,,0,3,6,No,0,3,3,2,166,182,93,168,141,107,-2,41,-14
+937,939_NHL_2015_2016,04.03.2016 00:00:00,82,Toronto Maple Leafs,69,Minnesota Wild,1,2,3,3,Yes,Yes,Yes,2,,,0,2,3,No,0,3,6,3,145,184,65,169,155,97,-24,29,-32
+938,932_NHL_2015_2016,04.03.2016 00:00:00,68,Los Angeles Kings,70,Montreal Canadiens,3,2,5,5,No,Yes,Yes,1,,,0,2,4,No,0,1,2,3,159,142,98,172,169,90,-13,-27,8
+939,936_NHL_2015_2016,04.03.2016 00:00:00,71,Nashville Predators,72,New Jersey Devils,4,5,9,8,No,No,No,2,1,,1,5,3,Yes,3,0,1,3,169,162,103,142,159,88,27,3,15
+940,937_NHL_2015_2016,04.03.2016 00:00:00,85,Winnipeg Jets,73,New York Islanders,3,4,7,6,No,No,Yes,2,1,,1,2,3,Yes,0,3,3,2,160,179,78,174,147,102,-14,32,-24
+941,940_NHL_2015_2016,04.03.2016 00:00:00,78,Pittsburgh Penguins,74,New York Rangers,4,1,5,5,No,Yes,Yes,1,,,0,2,3,No,0,3,2,1,169,159,98,174,152,107,-5,7,-9
+942,933_NHL_2015_2016,04.03.2016 00:00:00,83,Vancouver Canucks,79,San Jose Sharks,2,3,5,5,No,Yes,Yes,2,,,0,2,3,No,0,3,6,2,152,176,80,188,167,100,-36,9,-20
+943,938_NHL_2015_2016,04.03.2016 00:00:00,75,Ottawa Senators,81,Tampa Bay Lightning,1,4,5,5,No,Yes,Yes,2,,,0,3,4,No,1,3,2,1,180,200,79,171,146,105,9,54,-26
+944,944_NHL_2015_2016,05.03.2016 00:00:00,68,Los Angeles Kings,56,Anaheim Ducks,2,3,5,5,No,Yes,Yes,2,,,0,3,2,No,3,3,5,1,162,144,101,153,143,105,9,1,-4
+945,945_NHL_2015_2016,05.03.2016 00:00:00,78,Pittsburgh Penguins,59,Calgary Flames,2,4,6,6,No,No,Yes,2,,,0,4,1,No,3,0,3,6,173,160,101,170,198,72,3,-38,29
+946,949_NHL_2015_2016,05.03.2016 00:00:00,63,Columbus Blue Jackets,66,Edmonton Oilers,6,3,9,9,No,No,No,1,,,0,1,2,No,0,3,4,0,162,191,77,157,190,69,5,1,8
+947,947_NHL_2015_2016,05.03.2016 00:00:00,58,Buffalo Sabres,69,Minnesota Wild,2,3,5,4,Yes,Yes,Yes,2,,1,1,6,3,Yes,3,3,2,1,144,164,78,171,156,100,-27,8,-22
+948,946_NHL_2015_2016,05.03.2016 00:00:00,62,Colorado Avalanche,71,Nashville Predators,2,5,7,7,No,No,No,2,,,0,3,2,No,3,1,4,5,169,184,96,173,167,104,-4,17,-8
+949,948_NHL_2015_2016,05.03.2016 00:00:00,64,Dallas Stars,72,New Jersey Devils,4,2,6,6,No,No,Yes,1,,,0,3,5,No,0,2,5,4,202,180,111,147,163,90,55,17,21
+950,950_NHL_2015_2016,05.03.2016 00:00:00,84,Washington Capitals,74,New York Rangers,2,3,5,5,No,Yes,Yes,2,,,0,3,2,No,3,0,1,4,205,142,139,175,156,107,30,-14,32
+951,959_NHL_2015_2016,06.03.2016 00:00:00,81,Tampa Bay Lightning,60,Carolina Hurricanes,4,3,7,6,No,No,Yes,1,1,,1,4,1,Yes,3,3,3,1,175,147,108,157,171,91,18,-24,17
+952,961_NHL_2015_2016,06.03.2016 00:00:00,76,Philadelphia Flyers,63,Columbus Blue Jackets,6,0,6,6,No,No,Yes,1,,,0,0,4,No,0,3,6,3,152,171,81,168,194,80,-16,-23,1
+953,951_NHL_2015_2016,06.03.2016 00:00:00,75,Ottawa Senators,64,Dallas Stars,1,2,3,3,Yes,Yes,Yes,2,,,0,1,4,No,0,3,4,2,182,206,79,206,182,114,-24,24,-35
+954,954_NHL_2015_2016,06.03.2016 00:00:00,61,Chicago Blackhawks,65,Detroit Red Wings,4,1,5,5,No,Yes,Yes,1,,,0,2,4,No,0,0,2,5,184,159,112,158,162,94,26,-3,18
+955,956_NHL_2015_2016,06.03.2016 00:00:00,77,Arizona Coyotes,67,Florida Panthers,5,1,6,6,No,No,Yes,1,,,0,1,5,No,0,0,2,3,162,195,77,170,144,107,-8,51,-30
+956,960_NHL_2015_2016,06.03.2016 00:00:00,85,Winnipeg Jets,70,Montreal Canadiens,4,2,6,6,No,No,Yes,1,,,0,3,4,No,1,0,2,3,163,183,79,174,172,90,-11,11,-11
+957,952_NHL_2015_2016,06.03.2016 00:00:00,74,New York Rangers,73,New York Islanders,4,6,10,10,No,No,No,2,,,0,3,2,No,3,2,4,3,178,158,110,178,150,104,0,8,6
+958,958_NHL_2015_2016,06.03.2016 00:00:00,82,Toronto Maple Leafs,75,Ottawa Senators,2,3,5,5,No,Yes,Yes,2,,,0,1,2,No,0,0,1,2,146,186,65,182,206,79,-36,-20,-14
+959,953_NHL_2015_2016,06.03.2016 00:00:00,72,New Jersey Devils,78,Pittsburgh Penguins,1,6,7,7,No,No,No,2,,,0,2,4,No,0,0,2,4,149,167,90,175,164,101,-26,3,-11
+960,955_NHL_2015_2016,06.03.2016 00:00:00,79,San Jose Sharks,83,Vancouver Canucks,2,4,6,6,No,No,Yes,2,,,0,3,2,No,3,0,2,3,191,169,103,154,179,80,37,-10,23
+961,957_NHL_2015_2016,06.03.2016 00:00:00,57,Boston Bruins,84,Washington Capitals,1,2,3,2,Yes,Yes,Yes,2,1,,1,4,2,Yes,3,0,2,3,196,179,101,207,145,139,-11,34,-38
+962,963_NHL_2015_2016,07.03.2016 00:00:00,85,Winnipeg Jets,66,Edmonton Oilers,1,2,3,3,Yes,Yes,Yes,2,,,0,4,2,No,3,0,3,6,167,185,82,160,196,69,7,-11,13
+963,962_NHL_2015_2016,07.03.2016 00:00:00,69,Minnesota Wild,80,St. Louis Blues,2,4,6,6,No,No,Yes,2,,,0,3,2,No,2,2,4,3,174,158,102,161,156,108,13,2,-6
+964,966_NHL_2015_2016,08.03.2016 00:00:00,62,Colorado Avalanche,77,Arizona Coyotes,3,1,4,4,Yes,Yes,Yes,1,,,0,2,5,No,0,3,5,1,171,189,96,167,196,80,4,-7,16
+965,969_NHL_2015_2016,08.03.2016 00:00:00,67,Florida Panthers,57,Boston Bruins,4,5,9,8,No,No,No,2,1,,1,1,5,Yes,0,1,1,2,171,149,107,197,181,102,-26,-32,5
+966,968_NHL_2015_2016,08.03.2016 00:00:00,82,Toronto Maple Leafs,58,Buffalo Sabres,3,4,7,6,No,No,Yes,2,,1,1,2,3,Yes,0,1,2,3,148,189,65,146,167,79,2,22,-14
+967,967_NHL_2015_2016,08.03.2016 00:00:00,59,Calgary Flames,79,San Jose Sharks,1,2,3,2,Yes,Yes,Yes,2,1,,1,4,2,Yes,3,0,2,4,174,200,75,193,173,103,-19,27,-28
+968,970_NHL_2015_2016,08.03.2016 00:00:00,76,Philadelphia Flyers,81,Tampa Bay Lightning,4,2,6,6,No,No,Yes,1,,,0,6,0,No,3,2,4,3,158,171,84,179,150,110,-21,21,-26
+969,964_NHL_2015_2016,08.03.2016 00:00:00,68,Los Angeles Kings,83,Vancouver Canucks,5,1,6,6,No,No,Yes,1,,,0,2,3,No,0,3,4,2,164,147,101,158,181,83,6,-34,18
+970,965_NHL_2015_2016,08.03.2016 00:00:00,56,Anaheim Ducks,84,Washington Capitals,1,2,3,2,Yes,Yes,Yes,2,,1,1,3,2,Yes,3,2,2,1,156,145,108,209,146,141,-53,-1,-33
+971,975_NHL_2015_2016,09.03.2016 00:00:00,81,Tampa Bay Lightning,57,Boston Bruins,0,1,1,0,Yes,Yes,Yes,2,1,,1,2,4,Yes,0,2,5,4,181,154,110,202,185,104,-21,-31,6
+972,973_NHL_2015_2016,09.03.2016 00:00:00,70,Montreal Canadiens,64,Dallas Stars,4,3,7,6,No,No,Yes,1,1,,1,2,4,Yes,0,3,2,1,176,176,90,208,183,117,-32,-7,-27
+973,977_NHL_2015_2016,09.03.2016 00:00:00,63,Columbus Blue Jackets,65,Detroit Red Wings,5,3,8,8,No,No,No,1,,,0,0,6,No,0,0,1,4,168,200,80,159,166,94,9,34,-14
+974,972_NHL_2015_2016,09.03.2016 00:00:00,85,Winnipeg Jets,71,Nashville Predators,2,4,6,6,No,No,Yes,2,,,0,1,2,No,0,3,5,2,168,187,82,178,169,107,-10,18,-25
+975,978_NHL_2015_2016,09.03.2016 00:00:00,58,Buffalo Sabres,74,New York Rangers,2,4,6,6,No,No,Yes,2,,,0,4,3,No,2,0,4,6,150,170,81,182,164,110,-32,6,-29
+976,976_NHL_2015_2016,09.03.2016 00:00:00,60,Carolina Hurricanes,75,Ottawa Senators,4,3,7,6,No,No,Yes,1,,1,1,3,4,Yes,1,3,3,2,160,175,92,185,208,82,-25,-33,10
+977,974_NHL_2015_2016,09.03.2016 00:00:00,73,New York Islanders,78,Pittsburgh Penguins,2,1,3,3,Yes,Yes,Yes,1,,,0,6,4,No,3,3,6,1,184,154,107,181,165,104,3,-11,3
+978,971_NHL_2015_2016,09.03.2016 00:00:00,66,Edmonton Oilers,79,San Jose Sharks,0,3,3,3,Yes,Yes,Yes,2,,,0,2,1,No,3,2,2,1,162,197,72,195,174,105,-33,23,-33
+979,981_NHL_2015_2016,10.03.2016 00:00:00,62,Colorado Avalanche,56,Anaheim Ducks,3,0,3,3,Yes,Yes,Yes,1,,,0,3,1,No,3,1,1,2,174,190,99,157,147,109,17,43,-10
+980,980_NHL_2015_2016,10.03.2016 00:00:00,83,Vancouver Canucks,77,Arizona Coyotes,3,2,5,4,Yes,Yes,Yes,1,1,,1,1,5,Yes,0,0,1,3,159,186,83,168,199,80,-9,-13,3
+981,983_NHL_2015_2016,10.03.2016 00:00:00,80,St. Louis Blues,61,Chicago Blackhawks,3,2,5,4,Yes,Yes,Yes,1,,1,1,4,2,Yes,3,3,4,1,165,158,111,188,160,115,-23,-2,-4
+982,982_NHL_2015_2016,10.03.2016 00:00:00,59,Calgary Flames,71,Nashville Predators,3,2,5,4,Yes,Yes,Yes,1,1,,1,1,2,Yes,1,3,4,2,175,202,76,182,171,110,-7,31,-34
+983,984_NHL_2015_2016,10.03.2016 00:00:00,82,Toronto Maple Leafs,73,New York Islanders,4,3,7,6,No,No,Yes,1,,1,1,3,4,Yes,1,3,2,1,151,193,66,186,155,110,-35,38,-44
+984,979_NHL_2015_2016,10.03.2016 00:00:00,68,Los Angeles Kings,84,Washington Capitals,4,3,7,6,No,No,Yes,1,1,,1,5,1,Yes,3,2,2,1,169,148,104,211,147,143,-42,1,-39
+985,987_NHL_2015_2016,11.03.2016 00:00:00,70,Montreal Canadiens,58,Buffalo Sabres,3,2,5,5,No,Yes,Yes,1,,,0,4,3,No,2,0,2,4,180,179,92,152,174,81,28,5,11
+986,990_NHL_2015_2016,11.03.2016 00:00:00,57,Boston Bruins,60,Carolina Hurricanes,2,3,5,4,Yes,Yes,Yes,2,1,,1,1,0,Yes,2,2,4,3,203,185,106,164,178,94,39,7,12
+987,986_NHL_2015_2016,11.03.2016 00:00:00,69,Minnesota Wild,66,Edmonton Oilers,1,2,3,3,Yes,Yes,Yes,2,,,0,2,4,No,0,0,0,3,176,162,102,162,200,72,14,-38,30
+988,985_NHL_2015_2016,11.03.2016 00:00:00,79,San Jose Sharks,72,New Jersey Devils,0,3,3,3,Yes,Yes,Yes,2,,,0,3,0,No,3,0,1,6,198,174,108,150,173,90,48,1,18
+989,988_NHL_2015_2016,11.03.2016 00:00:00,67,Florida Panthers,75,Ottawa Senators,6,2,8,8,No,No,No,1,,,0,4,5,No,1,1,3,4,175,154,108,188,212,83,-13,-58,25
+990,989_NHL_2015_2016,11.03.2016 00:00:00,65,Detroit Red Wings,85,Winnipeg Jets,3,2,5,5,No,Yes,Yes,1,,,0,3,5,No,0,0,2,4,162,171,94,170,191,82,-8,-20,12
+991,1008_NHL_2015_2016,12.03.2016 00:00:00,80,St. Louis Blues,56,Anaheim Ducks,5,2,7,7,No,No,No,1,,,0,3,2,No,2,0,0,3,168,160,113,157,150,109,11,10,4
+992,1006_NHL_2015_2016,12.03.2016 00:00:00,59,Calgary Flames,77,Arizona Coyotes,1,4,5,5,No,Yes,Yes,2,,,0,3,2,No,2,1,2,3,178,204,78,170,202,81,8,2,-3
+993,1004_NHL_2015_2016,12.03.2016 00:00:00,58,Buffalo Sabres,60,Carolina Hurricanes,3,2,5,4,Yes,Yes,Yes,1,1,,1,2,3,Yes,0,2,3,2,154,177,81,167,180,96,-13,-3,-15
+994,1007_NHL_2015_2016,12.03.2016 00:00:00,64,Dallas Stars,61,Chicago Blackhawks,5,2,7,7,No,No,No,1,,,0,3,4,No,1,1,2,3,211,187,118,190,163,116,21,24,2
+995,1005_NHL_2015_2016,12.03.2016 00:00:00,57,Boston Bruins,73,New York Islanders,3,1,4,4,Yes,Yes,Yes,1,,,0,2,3,No,1,1,3,4,205,188,107,189,159,111,16,29,-4
+996,1003_NHL_2015_2016,12.03.2016 00:00:00,65,Detroit Red Wings,74,New York Rangers,3,2,5,4,Yes,Yes,Yes,1,1,,1,3,2,Yes,3,3,4,2,165,173,97,186,166,113,-21,7,-16
+997,1009_NHL_2015_2016,12.03.2016 00:00:00,81,Tampa Bay Lightning,76,Philadelphia Flyers,1,3,4,4,Yes,Yes,Yes,2,,,0,0,1,No,1,3,4,2,181,155,111,162,173,87,19,-18,24
+998,1010_NHL_2015_2016,12.03.2016 00:00:00,63,Columbus Blue Jackets,78,Pittsburgh Penguins,2,3,5,5,No,Yes,Yes,2,,,0,5,3,No,3,0,1,2,173,203,83,182,167,104,-9,36,-21
+999,996_NHL_2015_2016,13.03.2016 00:00:00,66,Edmonton Oilers,77,Arizona Coyotes,0,4,4,4,Yes,Yes,Yes,2,,,0,2,1,No,3,3,4,1,164,201,75,174,203,84,-10,-2,-9
+1000,1000_NHL_2015_2016,13.03.2016 00:00:00,85,Winnipeg Jets,62,Colorado Avalanche,3,2,5,5,No,Yes,Yes,1,,,0,2,3,No,0,3,3,0,172,194,82,177,190,102,-5,4,-20
+1001,1001_NHL_2015_2016,13.03.2016 00:00:00,70,Montreal Canadiens,69,Minnesota Wild,1,4,5,5,No,Yes,Yes,2,,,0,3,2,No,3,0,1,2,183,181,95,177,164,102,6,17,-7
+1002,997_NHL_2015_2016,13.03.2016 00:00:00,83,Vancouver Canucks,71,Nashville Predators,4,2,6,6,No,No,Yes,1,,,0,3,2,No,2,1,2,3,162,188,85,184,174,111,-22,14,-26
+1003,994_NHL_2015_2016,13.03.2016 00:00:00,68,Los Angeles Kings,72,New Jersey Devils,1,2,3,2,Yes,Yes,Yes,2,1,,1,4,3,Yes,2,3,3,0,173,151,106,153,173,93,20,-22,13
+1004,999_NHL_2015_2016,13.03.2016 00:00:00,67,Florida Panthers,76,Philadelphia Flyers,5,4,9,8,No,No,No,1,,1,1,6,2,Yes,3,3,3,1,181,156,111,165,174,90,16,-18,21
+1005,993_NHL_2015_2016,13.03.2016 00:00:00,74,New York Rangers,78,Pittsburgh Penguins,3,5,8,8,No,No,No,2,,,0,2,3,No,1,3,3,2,188,169,114,185,169,107,3,0,7
+1006,998_NHL_2015_2016,13.03.2016 00:00:00,64,Dallas Stars,80,St. Louis Blues,4,5,9,8,No,No,No,2,1,,1,5,2,Yes,3,3,5,2,216,189,121,173,162,116,43,27,5
+1007,992_NHL_2015_2016,13.03.2016 00:00:00,63,Columbus Blue Jackets,81,Tampa Bay Lightning,0,4,4,4,Yes,Yes,Yes,2,,,0,2,3,No,0,0,1,3,175,206,83,182,158,111,-7,48,-28
+1008,1002_NHL_2015_2016,13.03.2016 00:00:00,75,Ottawa Senators,82,Toronto Maple Leafs,4,0,4,4,Yes,Yes,Yes,1,,,0,2,6,No,0,2,4,3,190,218,83,155,196,68,35,22,15
+1009,995_NHL_2015_2016,13.03.2016 00:00:00,79,San Jose Sharks,84,Washington Capitals,5,2,7,7,No,No,No,1,,,0,0,3,No,0,1,3,4,198,177,108,214,151,144,-16,26,-36
+1010,991_NHL_2015_2016,14.03.2016 00:00:00,65,Detroit Red Wings,82,Toronto Maple Leafs,0,1,1,1,Yes,Yes,Yes,2,,,0,3,2,No,2,0,0,4,168,175,99,155,200,68,13,-25,31
+1011,1016_NHL_2015_2016,15.03.2016 00:00:00,73,New York Islanders,67,Florida Panthers,3,2,5,5,No,Yes,Yes,1,,,0,1,3,No,0,2,5,4,190,162,111,186,160,113,4,2,-2
+1012,1015_NHL_2015_2016,15.03.2016 00:00:00,61,Chicago Blackhawks,68,Los Angeles Kings,0,5,5,5,No,Yes,Yes,2,,,0,2,5,No,0,1,1,2,192,168,116,174,153,107,18,15,9
+1013,1014_NHL_2015_2016,15.03.2016 00:00:00,66,Edmonton Oilers,71,Nashville Predators,2,3,5,5,No,Yes,Yes,2,,,0,0,4,No,0,0,2,4,164,205,75,186,178,111,-22,27,-36
+1014,1011_NHL_2015_2016,15.03.2016 00:00:00,56,Anaheim Ducks,72,New Jersey Devils,7,1,8,8,No,No,No,1,,,0,2,5,No,0,2,2,1,159,155,109,155,174,95,4,-19,14
+1015,1013_NHL_2015_2016,15.03.2016 00:00:00,59,Calgary Flames,80,St. Louis Blues,7,4,11,11,No,No,No,1,,,0,1,4,No,0,2,5,4,179,208,78,178,166,118,1,42,-40
+1016,1012_NHL_2015_2016,15.03.2016 00:00:00,83,Vancouver Canucks,85,Winnipeg Jets,2,5,7,7,No,No,No,2,,,0,4,2,No,3,3,3,2,166,190,88,175,196,85,-9,-6,3
+1017,1017_NHL_2015_2016,16.03.2016 00:00:00,79,San Jose Sharks,57,Boston Bruins,3,2,5,5,No,Yes,Yes,1,,,0,5,2,No,3,3,3,1,203,179,111,208,189,110,-5,-10,1
+1018,1024_NHL_2015_2016,16.03.2016 00:00:00,84,Washington Capitals,60,Carolina Hurricanes,2,1,3,2,Yes,Yes,Yes,1,1,,1,2,5,Yes,0,1,2,3,216,156,144,169,183,97,47,-27,47
+1019,1019_NHL_2015_2016,16.03.2016 00:00:00,76,Philadelphia Flyers,65,Detroit Red Wings,4,3,7,7,No,No,No,1,,,0,4,5,No,1,0,0,1,169,179,91,168,176,99,1,3,-8
+1020,1021_NHL_2015_2016,16.03.2016 00:00:00,70,Montreal Canadiens,67,Florida Panthers,1,4,5,5,No,Yes,Yes,2,,,0,1,4,No,0,0,2,3,184,185,95,188,163,113,-4,22,-18
+1021,1018_NHL_2015_2016,16.03.2016 00:00:00,64,Dallas Stars,68,Los Angeles Kings,2,5,7,7,No,No,No,2,,,0,4,5,No,1,3,5,0,220,194,122,179,153,110,41,41,12
+1022,1020_NHL_2015_2016,16.03.2016 00:00:00,75,Ottawa Senators,69,Minnesota Wild,3,2,5,4,Yes,Yes,Yes,1,1,,1,4,0,Yes,3,3,4,1,194,218,86,181,165,105,13,53,-19
+1023,1023_NHL_2015_2016,16.03.2016 00:00:00,78,Pittsburgh Penguins,73,New York Islanders,2,1,3,2,Yes,Yes,Yes,1,,1,1,5,3,Yes,3,3,3,2,190,172,110,193,164,114,-3,8,-4
+1024,1022_NHL_2015_2016,16.03.2016 00:00:00,82,Toronto Maple Leafs,81,Tampa Bay Lightning,4,1,5,5,No,Yes,Yes,1,,,0,1,0,No,3,3,4,0,156,200,71,186,158,114,-30,42,-43
+1025,1027_NHL_2015_2016,17.03.2016 00:00:00,83,Vancouver Canucks,62,Colorado Avalanche,1,3,4,4,Yes,Yes,Yes,2,,,0,2,5,No,0,0,2,3,168,195,88,179,193,102,-11,2,-14
+1026,1030_NHL_2015_2016,17.03.2016 00:00:00,58,Buffalo Sabres,70,Montreal Canadiens,2,3,5,4,Yes,Yes,Yes,2,1,,1,3,2,Yes,2,0,1,4,157,179,83,185,189,95,-28,-10,-12
+1027,1025_NHL_2015_2016,17.03.2016 00:00:00,56,Anaheim Ducks,74,New York Rangers,1,2,3,3,Yes,Yes,Yes,2,,,0,7,1,No,3,0,3,5,166,156,112,191,174,114,-25,-18,-2
+1028,1029_NHL_2015_2016,17.03.2016 00:00:00,61,Chicago Blackhawks,76,Philadelphia Flyers,2,3,5,5,No,Yes,Yes,2,,,0,0,5,No,0,3,4,3,192,173,116,173,182,94,19,-9,22
+1029,1028_NHL_2015_2016,17.03.2016 00:00:00,66,Edmonton Oilers,80,St. Louis Blues,6,4,10,10,No,No,No,1,,,0,2,3,No,0,0,4,7,166,208,75,182,173,118,-16,35,-43
+1030,1026_NHL_2015_2016,17.03.2016 00:00:00,59,Calgary Flames,85,Winnipeg Jets,4,1,5,5,No,Yes,Yes,1,,,0,7,4,No,3,3,5,2,186,212,81,180,198,88,6,14,-7
+1031,1036_NHL_2015_2016,18.03.2016 00:00:00,78,Pittsburgh Penguins,60,Carolina Hurricanes,4,2,6,6,No,No,Yes,1,,,0,2,1,No,2,1,1,2,192,173,112,170,185,98,22,-12,14
+1032,1038_NHL_2015_2016,18.03.2016 00:00:00,63,Columbus Blue Jackets,65,Detroit Red Wings,1,3,4,4,Yes,Yes,Yes,2,,,0,0,4,No,0,0,3,4,175,210,83,171,180,99,4,30,-16
+1033,1035_NHL_2015_2016,18.03.2016 00:00:00,82,Toronto Maple Leafs,67,Florida Panthers,1,4,5,5,No,Yes,Yes,2,,,0,4,1,No,3,3,4,1,160,201,74,192,164,116,-32,37,-42
+1034,1037_NHL_2015_2016,18.03.2016 00:00:00,72,New Jersey Devils,69,Minnesota Wild,7,4,11,11,No,No,No,1,,,0,1,7,No,0,1,2,3,156,181,95,183,168,106,-27,13,-11
+1035,1034_NHL_2015_2016,18.03.2016 00:00:00,71,Nashville Predators,73,New York Islanders,4,2,6,6,No,No,Yes,1,,,0,3,2,No,3,1,1,2,189,180,114,194,166,115,-5,14,-1
+1036,1031_NHL_2015_2016,18.03.2016 00:00:00,68,Los Angeles Kings,74,New York Rangers,4,3,7,6,No,No,Yes,1,1,,1,5,2,Yes,3,3,2,1,184,155,113,193,175,117,-9,-20,-4
+1037,1032_NHL_2015_2016,18.03.2016 00:00:00,77,Arizona Coyotes,79,San Jose Sharks,3,1,4,4,Yes,Yes,Yes,1,,,0,4,0,No,3,3,3,2,178,203,87,206,181,114,-28,22,-27
+1038,1033_NHL_2015_2016,18.03.2016 00:00:00,64,Dallas Stars,81,Tampa Bay Lightning,4,3,7,7,No,No,No,1,,,0,2,5,No,0,0,1,4,222,199,122,187,162,114,35,37,8
+1039,1042_NHL_2015_2016,19.03.2016 00:00:00,56,Anaheim Ducks,57,Boston Bruins,4,0,4,4,Yes,Yes,Yes,1,,,0,1,2,No,0,0,2,3,167,158,112,210,192,110,-43,-34,2
+1040,1040_NHL_2015_2016,19.03.2016 00:00:00,69,Minnesota Wild,60,Carolina Hurricanes,3,2,5,4,Yes,Yes,Yes,1,,1,1,4,7,Yes,0,0,2,4,187,175,106,172,189,98,15,-14,8
+1041,1046_NHL_2015_2016,19.03.2016 00:00:00,85,Winnipeg Jets,61,Chicago Blackhawks,0,4,4,4,Yes,Yes,Yes,2,,,0,1,4,No,0,0,2,3,181,202,88,194,176,116,-13,26,-28
+1042,1043_NHL_2015_2016,19.03.2016 00:00:00,59,Calgary Flames,62,Colorado Avalanche,3,4,7,6,No,No,Yes,2,,1,1,4,1,Yes,3,3,3,1,190,213,84,182,194,105,8,19,-21
+1043,1044_NHL_2015_2016,19.03.2016 00:00:00,84,Washington Capitals,71,Nashville Predators,4,1,5,5,No,Yes,Yes,1,,,0,2,1,No,2,3,4,2,218,157,146,193,182,117,25,-25,29
+1044,1039_NHL_2015_2016,19.03.2016 00:00:00,79,San Jose Sharks,74,New York Rangers,4,1,5,5,No,Yes,Yes,1,,,0,1,3,No,0,1,3,4,207,184,114,196,179,118,11,5,-4
+1045,1045_NHL_2015_2016,19.03.2016 00:00:00,58,Buffalo Sabres,75,Ottawa Senators,3,1,4,4,Yes,Yes,Yes,1,,,0,2,3,No,1,2,3,2,159,182,84,197,220,88,-38,-38,-4
+1046,1041_NHL_2015_2016,19.03.2016 00:00:00,76,Philadelphia Flyers,78,Pittsburgh Penguins,1,4,5,5,No,Yes,Yes,2,,,0,3,2,No,3,3,4,2,176,184,97,196,175,115,-20,9,-18
+1047,1047_NHL_2015_2016,19.03.2016 00:00:00,66,Edmonton Oilers,83,Vancouver Canucks,2,0,2,2,Yes,Yes,Yes,1,,,0,6,4,No,3,0,1,3,172,212,78,169,198,88,3,14,-10
+1048,1050_NHL_2015_2016,20.03.2016 00:00:00,85,Winnipeg Jets,56,Anaheim Ducks,2,3,5,4,Yes,Yes,Yes,2,1,,1,0,4,Yes,0,3,4,0,181,206,88,171,158,115,10,48,-27
+1049,1051_NHL_2015_2016,20.03.2016 00:00:00,68,Los Angeles Kings,57,Boston Bruins,2,1,3,3,Yes,Yes,Yes,1,,,0,4,3,No,2,0,0,4,188,158,115,210,196,110,-22,-38,5
+1050,1058_NHL_2015_2016,20.03.2016 00:00:00,82,Toronto Maple Leafs,58,Buffalo Sabres,4,1,5,5,No,Yes,Yes,1,,,0,1,4,No,0,3,3,1,161,205,74,162,183,87,-1,22,-13
+1051,1049_NHL_2015_2016,20.03.2016 00:00:00,72,New Jersey Devils,63,Columbus Blue Jackets,2,1,3,3,Yes,Yes,Yes,1,,,0,3,6,No,0,3,6,3,166,191,98,182,216,86,-16,-25,12
+1052,1055_NHL_2015_2016,20.03.2016 00:00:00,67,Florida Panthers,65,Detroit Red Wings,3,5,8,8,No,No,No,2,,,0,4,1,No,3,3,3,1,196,165,119,174,181,102,22,-16,17
+1053,1057_NHL_2015_2016,20.03.2016 00:00:00,75,Ottawa Senators,70,Montreal Canadiens,5,0,5,5,No,Yes,Yes,1,,,0,1,3,No,0,2,3,2,198,223,88,188,191,97,10,32,-9
+1054,1056_NHL_2015_2016,20.03.2016 00:00:00,63,Columbus Blue Jackets,72,New Jersey Devils,6,3,9,9,No,No,No,1,,,0,1,3,No,0,3,7,4,182,216,86,166,191,98,16,25,-12
+1055,1054_NHL_2015_2016,20.03.2016 00:00:00,64,Dallas Stars,73,New York Islanders,3,0,3,3,Yes,Yes,Yes,1,,,0,4,3,No,3,0,2,4,226,202,125,196,170,115,30,32,10
+1056,1053_NHL_2015_2016,20.03.2016 00:00:00,83,Vancouver Canucks,80,St. Louis Blues,0,3,3,3,Yes,Yes,Yes,2,,,0,0,2,No,0,0,4,6,169,200,88,186,179,118,-17,21,-30
+1057,1052_NHL_2015_2016,20.03.2016 00:00:00,77,Arizona Coyotes,81,Tampa Bay Lightning,0,2,2,2,Yes,Yes,Yes,2,,,0,3,1,No,3,0,3,4,181,204,90,190,166,114,-9,38,-24
+1058,1048_NHL_2015_2016,20.03.2016 00:00:00,78,Pittsburgh Penguins,84,Washington Capitals,6,2,8,8,No,No,No,1,,,0,4,1,No,3,3,4,1,200,176,118,222,158,149,-22,18,-31
+1059,1059_NHL_2015_2016,21.03.2016 00:00:00,79,San Jose Sharks,77,Arizona Coyotes,3,0,3,3,Yes,Yes,Yes,1,,,0,4,1,No,3,0,0,2,211,185,117,181,206,90,30,-21,27
+1060,1062_NHL_2015_2016,21.03.2016 00:00:00,70,Montreal Canadiens,59,Calgary Flames,1,4,5,5,No,Yes,Yes,2,,,0,0,5,No,0,1,3,4,188,196,97,193,217,85,-5,-21,12
+1061,1060_NHL_2015_2016,21.03.2016 00:00:00,66,Edmonton Oilers,62,Colorado Avalanche,2,3,5,5,No,Yes,Yes,2,,,0,2,0,No,3,2,4,3,174,212,81,186,197,107,-12,15,-26
+1062,1061_NHL_2015_2016,21.03.2016 00:00:00,61,Chicago Blackhawks,69,Minnesota Wild,2,3,5,4,Yes,Yes,Yes,2,,1,1,4,0,Yes,3,2,3,2,198,176,119,190,177,108,8,-1,11
+1063,1064_NHL_2015_2016,22.03.2016 00:00:00,82,Toronto Maple Leafs,59,Calgary Flames,5,2,7,7,No,No,No,1,,,0,4,1,No,3,3,4,1,165,206,77,197,218,88,-32,-12,-11
+1064,1066_NHL_2015_2016,22.03.2016 00:00:00,74,New York Rangers,67,Florida Panthers,4,2,6,6,No,No,Yes,1,,,0,1,4,No,0,0,3,5,197,183,118,199,170,119,-2,13,-1
+1065,1063_NHL_2015_2016,22.03.2016 00:00:00,71,Nashville Predators,68,Los Angeles Kings,5,2,7,7,No,No,No,1,,,0,1,4,No,0,3,2,1,194,186,117,190,159,118,4,27,-1
+1066,1065_NHL_2015_2016,22.03.2016 00:00:00,73,New York Islanders,76,Philadelphia Flyers,1,4,5,5,No,Yes,Yes,2,,,0,0,3,No,0,0,1,4,196,173,115,177,188,97,19,-15,18
+1067,1068_NHL_2015_2016,23.03.2016 00:00:00,70,Montreal Canadiens,56,Anaheim Ducks,4,3,7,7,No,No,No,1,,,0,1,4,No,0,2,3,2,189,200,97,174,160,117,15,40,-20
+1068,1067_NHL_2015_2016,23.03.2016 00:00:00,60,Carolina Hurricanes,58,Buffalo Sabres,2,3,5,5,No,Yes,Yes,2,,,0,2,3,No,1,0,1,4,174,192,99,163,187,87,11,5,12
+1069,1073_NHL_2015_2016,23.03.2016 00:00:00,61,Chicago Blackhawks,64,Dallas Stars,2,6,8,8,No,No,No,2,,,0,2,3,No,1,3,3,0,200,179,120,229,202,128,-29,-23,-8
+1070,1071_NHL_2015_2016,23.03.2016 00:00:00,81,Tampa Bay Lightning,65,Detroit Red Wings,6,2,8,8,No,No,No,1,,,0,2,0,No,3,3,5,3,192,166,117,179,184,105,13,-18,12
+1071,1075_NHL_2015_2016,23.03.2016 00:00:00,77,Arizona Coyotes,66,Edmonton Oilers,4,2,6,6,No,No,Yes,1,,,0,0,3,No,0,0,2,3,181,209,90,176,215,81,5,-6,9
+1072,1074_NHL_2015_2016,23.03.2016 00:00:00,69,Minnesota Wild,68,Los Angeles Kings,2,1,3,3,Yes,Yes,Yes,1,,,0,3,2,No,2,0,2,5,193,179,110,192,164,118,1,15,-8
+1073,1069_NHL_2015_2016,23.03.2016 00:00:00,63,Columbus Blue Jackets,76,Philadelphia Flyers,3,2,5,4,Yes,Yes,Yes,1,,1,1,1,2,Yes,0,3,4,1,183,218,86,181,189,100,2,29,-14
+1074,1076_NHL_2015_2016,23.03.2016 00:00:00,79,San Jose Sharks,80,St. Louis Blues,0,1,1,1,Yes,Yes,Yes,2,,,0,3,0,No,3,3,3,0,214,185,120,189,179,121,25,6,-1
+1075,1072_NHL_2015_2016,23.03.2016 00:00:00,85,Winnipeg Jets,83,Vancouver Canucks,2,0,2,2,Yes,Yes,Yes,1,,,0,2,3,No,1,0,0,3,183,209,89,169,203,88,14,6,1
+1076,1070_NHL_2015_2016,23.03.2016 00:00:00,75,Ottawa Senators,84,Washington Capitals,2,4,6,6,No,No,Yes,2,,,0,5,0,No,3,0,2,6,203,223,91,224,164,149,-21,59,-58
+1077,1078_NHL_2015_2016,24.03.2016 00:00:00,74,New York Rangers,57,Boston Bruins,5,2,7,7,No,No,No,1,,,0,4,2,No,3,0,1,2,201,185,121,211,198,110,-10,-13,11
+1078,1077_NHL_2015_2016,24.03.2016 00:00:00,73,New York Islanders,75,Ottawa Senators,3,1,4,4,Yes,Yes,Yes,1,,,0,1,4,No,0,0,2,4,197,177,115,205,227,91,-8,-50,24
+1079,1082_NHL_2015_2016,25.03.2016 00:00:00,82,Toronto Maple Leafs,56,Anaheim Ducks,6,5,11,10,No,No,No,1,1,,1,5,2,Yes,3,0,3,4,170,208,80,177,164,117,-7,44,-37
+1080,1086_NHL_2015_2016,25.03.2016 00:00:00,69,Minnesota Wild,59,Calgary Flames,6,2,8,8,No,No,No,1,,,0,2,1,No,3,0,2,5,195,180,113,199,223,88,-4,-43,25
+1081,1080_NHL_2015_2016,25.03.2016 00:00:00,63,Columbus Blue Jackets,60,Carolina Hurricanes,2,3,5,5,No,Yes,Yes,2,,,0,3,2,No,2,0,2,3,186,220,88,176,195,99,10,25,-11
+1082,1088_NHL_2015_2016,25.03.2016 00:00:00,77,Arizona Coyotes,64,Dallas Stars,3,1,4,4,Yes,Yes,Yes,1,,,0,4,2,No,3,3,6,2,185,211,93,235,204,131,-50,7,-38
+1083,1089_NHL_2015_2016,25.03.2016 00:00:00,79,San Jose Sharks,66,Edmonton Oilers,3,6,9,9,No,No,No,2,,,0,0,1,No,0,0,2,4,214,186,120,178,219,81,36,-33,39
+1084,1081_NHL_2015_2016,25.03.2016 00:00:00,57,Boston Bruins,67,Florida Panthers,1,4,5,5,No,Yes,Yes,2,,,0,2,5,No,0,0,2,4,213,203,110,201,174,119,12,29,-9
+1085,1084_NHL_2015_2016,25.03.2016 00:00:00,85,Winnipeg Jets,68,Los Angeles Kings,4,1,5,5,No,Yes,Yes,1,,,0,2,0,No,3,0,1,2,185,209,92,193,166,118,-8,43,-26
+1086,1083_NHL_2015_2016,25.03.2016 00:00:00,65,Detroit Red Wings,70,Montreal Canadiens,4,3,7,7,No,No,No,1,,,0,2,6,No,0,3,4,3,181,190,105,193,203,100,-12,-13,5
+1087,1079_NHL_2015_2016,25.03.2016 00:00:00,78,Pittsburgh Penguins,72,New Jersey Devils,0,3,3,3,Yes,Yes,Yes,2,,,0,6,2,No,3,3,2,1,206,178,121,168,192,101,38,-14,20
+1088,1087_NHL_2015_2016,25.03.2016 00:00:00,62,Colorado Avalanche,76,Philadelphia Flyers,2,4,6,6,No,No,Yes,2,,,0,3,2,No,3,1,2,3,189,199,110,183,192,101,6,7,9
+1089,1085_NHL_2015_2016,25.03.2016 00:00:00,71,Nashville Predators,83,Vancouver Canucks,3,2,5,4,Yes,Yes,Yes,1,,1,1,5,2,Yes,3,0,0,2,199,188,120,169,205,88,30,-17,32
+1090,1096_NHL_2015_2016,26.03.2016 00:00:00,79,San Jose Sharks,64,Dallas Stars,2,4,6,6,No,No,Yes,2,,,0,3,6,No,0,0,1,3,217,192,120,236,207,131,-19,-15,-11
+1091,1095_NHL_2015_2016,26.03.2016 00:00:00,62,Colorado Avalanche,69,Minnesota Wild,0,4,4,4,Yes,Yes,Yes,2,,,0,2,4,No,0,3,6,2,191,203,110,201,182,116,-10,21,-6
+1092,1091_NHL_2015_2016,26.03.2016 00:00:00,81,Tampa Bay Lightning,73,New York Islanders,7,4,11,11,No,No,No,1,,,0,6,2,No,3,3,3,1,198,168,120,200,178,118,-2,-10,2
+1093,1094_NHL_2015_2016,26.03.2016 00:00:00,65,Detroit Red Wings,78,Pittsburgh Penguins,2,7,9,9,No,No,No,2,,,0,4,3,No,3,0,0,3,185,193,108,206,181,121,-21,12,-13
+1094,1092_NHL_2015_2016,26.03.2016 00:00:00,80,St. Louis Blues,83,Vancouver Canucks,4,0,4,4,Yes,Yes,Yes,1,,,0,1,0,No,3,1,2,3,190,179,124,171,208,89,19,-29,35
+1095,1090_NHL_2015_2016,26.03.2016 00:00:00,72,New Jersey Devils,84,Washington Capitals,0,1,1,0,Yes,Yes,Yes,2,1,,1,3,0,Yes,3,3,4,2,171,192,104,228,166,152,-57,26,-48
+1096,1093_NHL_2015_2016,26.03.2016 00:00:00,58,Buffalo Sabres,85,Winnipeg Jets,3,2,5,5,No,Yes,Yes,1,,,0,3,2,No,3,3,4,1,166,189,90,189,210,95,-23,-21,-5
+1097,1101_NHL_2015_2016,27.03.2016 00:00:00,75,Ottawa Senators,56,Anaheim Ducks,3,4,7,6,No,No,Yes,2,1,,1,1,3,Yes,0,1,5,6,206,230,91,182,170,118,24,60,-27
+1098,1102_NHL_2015_2016,27.03.2016 00:00:00,82,Toronto Maple Leafs,57,Boston Bruins,1,3,4,4,Yes,Yes,Yes,2,,,0,6,5,No,2,0,1,4,176,213,82,214,207,110,-38,6,-28
+1099,1104_NHL_2015_2016,27.03.2016 00:00:00,59,Calgary Flames,61,Chicago Blackhawks,1,4,5,5,No,Yes,Yes,2,,,0,2,6,No,0,0,2,6,201,229,88,202,185,120,-1,44,-32
+1100,1103_NHL_2015_2016,27.03.2016 00:00:00,71,Nashville Predators,63,Columbus Blue Jackets,5,1,6,6,No,No,Yes,1,,,0,3,2,No,2,0,2,3,202,190,122,188,223,88,14,-33,34
+1101,1105_NHL_2015_2016,27.03.2016 00:00:00,68,Los Angeles Kings,66,Edmonton Oilers,6,4,10,10,No,No,No,1,,,0,1,4,No,0,3,6,3,194,170,118,184,222,84,10,-52,34
+1102,1100_NHL_2015_2016,27.03.2016 00:00:00,81,Tampa Bay Lightning,67,Florida Panthers,2,5,7,7,No,No,No,2,,,0,7,4,No,3,3,4,1,205,172,123,205,175,122,0,-3,1
+1103,1107_NHL_2015_2016,27.03.2016 00:00:00,60,Carolina Hurricanes,72,New Jersey Devils,3,2,5,5,No,Yes,Yes,1,,,0,3,4,No,1,1,0,1,182,201,103,171,193,105,11,8,-2
+1104,1099_NHL_2015_2016,27.03.2016 00:00:00,60,Carolina Hurricanes,73,New York Islanders,3,4,7,6,No,No,Yes,2,1,,1,3,2,Yes,3,0,4,7,182,201,103,204,185,118,-22,16,-15
+1105,1098_NHL_2015_2016,27.03.2016 00:00:00,70,Montreal Canadiens,74,New York Rangers,2,5,7,7,No,No,No,2,,,0,3,4,No,0,3,5,2,196,207,100,206,187,124,-10,20,-24
+1106,1106_NHL_2015_2016,27.03.2016 00:00:00,77,Arizona Coyotes,76,Philadelphia Flyers,2,1,3,3,Yes,Yes,Yes,1,,,0,3,1,No,3,3,4,2,188,212,96,187,194,104,1,18,-8
+1107,1097_NHL_2015_2016,27.03.2016 00:00:00,84,Washington Capitals,80,St. Louis Blues,0,4,4,4,Yes,Yes,Yes,2,,,0,1,0,No,2,3,4,0,229,166,154,194,179,127,35,-13,27
+1108,1109_NHL_2015_2016,28.03.2016 00:00:00,83,Vancouver Canucks,61,Chicago Blackhawks,2,3,5,5,No,Yes,Yes,2,,,0,0,4,No,0,3,4,1,171,212,89,206,186,123,-35,26,-34
+1109,1108_NHL_2015_2016,28.03.2016 00:00:00,74,New York Rangers,78,Pittsburgh Penguins,2,3,5,4,Yes,Yes,Yes,2,1,,1,5,2,Yes,3,3,7,2,211,189,127,213,183,124,-2,6,3
+1110,1115_NHL_2015_2016,29.03.2016 00:00:00,66,Edmonton Oilers,56,Anaheim Ducks,1,2,3,3,Yes,Yes,Yes,2,,,0,4,6,No,0,2,4,3,188,228,84,186,173,120,2,55,-36
+1111,1112_NHL_2015_2016,29.03.2016 00:00:00,65,Detroit Red Wings,58,Buffalo Sabres,3,2,5,5,No,Yes,Yes,1,,,0,2,7,No,0,3,3,2,187,200,108,169,191,93,18,9,15
+1112,1116_NHL_2015_2016,29.03.2016 00:00:00,77,Arizona Coyotes,59,Calgary Flames,2,5,7,7,No,No,No,2,,,0,2,1,No,3,0,1,4,190,213,99,202,233,88,-12,-20,11
+1113,1114_NHL_2015_2016,29.03.2016 00:00:00,71,Nashville Predators,62,Colorado Avalanche,3,4,7,7,No,No,No,2,,,0,5,1,No,3,0,0,4,207,191,125,191,207,110,16,-16,15
+1114,1110_NHL_2015_2016,29.03.2016 00:00:00,84,Washington Capitals,63,Columbus Blue Jackets,4,1,5,5,No,Yes,Yes,1,,,0,0,4,No,0,0,1,5,229,170,154,189,228,88,40,-58,66
+1115,1117_NHL_2015_2016,29.03.2016 00:00:00,79,San Jose Sharks,68,Los Angeles Kings,5,2,7,7,No,No,No,1,,,0,2,4,No,0,3,6,4,219,196,120,200,174,121,19,22,-1
+1116,1113_NHL_2015_2016,29.03.2016 00:00:00,81,Tampa Bay Lightning,82,Toronto Maple Leafs,3,0,3,3,Yes,Yes,Yes,1,,,0,2,5,No,0,0,1,3,207,177,123,177,216,82,30,-39,41
+1117,1111_NHL_2015_2016,29.03.2016 00:00:00,76,Philadelphia Flyers,85,Winnipeg Jets,3,2,5,4,Yes,Yes,Yes,1,1,,1,1,2,Yes,0,0,2,3,188,196,104,191,213,95,-3,-17,9
+1118,1118_NHL_2015_2016,30.03.2016 00:00:00,72,New Jersey Devils,57,Boston Bruins,2,1,3,3,Yes,Yes,Yes,1,,,0,2,3,No,0,3,3,1,173,196,105,217,208,113,-44,-12,-8
+1119,1120_NHL_2015_2016,30.03.2016 00:00:00,78,Pittsburgh Penguins,58,Buffalo Sabres,5,4,9,8,No,No,No,1,,1,1,3,2,Yes,2,0,2,3,216,185,126,171,194,93,45,-9,33
+1120,1119_NHL_2015_2016,30.03.2016 00:00:00,73,New York Islanders,60,Carolina Hurricanes,2,1,3,2,Yes,Yes,Yes,1,,1,1,4,3,Yes,2,3,3,2,208,188,120,185,203,106,23,-15,14
+1121,1123_NHL_2015_2016,30.03.2016 00:00:00,69,Minnesota Wild,61,Chicago Blackhawks,4,1,5,5,No,Yes,Yes,1,,,0,4,0,No,3,3,3,2,205,182,119,209,188,126,-4,-6,-7
+1122,1124_NHL_2015_2016,30.03.2016 00:00:00,80,St. Louis Blues,62,Colorado Avalanche,3,1,4,4,Yes,Yes,Yes,1,,,0,4,0,No,3,3,4,3,198,179,130,195,210,113,3,-31,17
+1123,1122_NHL_2015_2016,30.03.2016 00:00:00,70,Montreal Canadiens,65,Detroit Red Wings,4,3,7,7,No,No,No,1,,,0,2,5,No,0,3,3,2,198,212,100,190,202,111,8,10,-11
+1124,1125_NHL_2015_2016,30.03.2016 00:00:00,64,Dallas Stars,71,Nashville Predators,5,2,7,7,No,No,No,1,,,0,4,2,No,3,0,3,4,240,209,134,210,195,125,30,14,9
+1125,1126_NHL_2015_2016,30.03.2016 00:00:00,83,Vancouver Canucks,79,San Jose Sharks,1,4,5,5,No,Yes,Yes,2,,,0,2,3,No,0,3,5,2,173,215,89,224,198,123,-51,17,-34
+1126,1121_NHL_2015_2016,30.03.2016 00:00:00,67,Florida Panthers,82,Toronto Maple Leafs,2,5,7,7,No,No,No,2,,,0,5,2,No,3,0,0,3,210,177,125,177,219,82,33,-42,43
+1127,1127_NHL_2015_2016,31.03.2016 00:00:00,56,Anaheim Ducks,59,Calgary Flames,8,3,11,11,No,No,No,1,,,0,2,1,No,3,3,5,2,188,174,123,207,235,91,-19,-61,32
+1128,1129_NHL_2015_2016,31.03.2016 00:00:00,85,Winnipeg Jets,75,Ottawa Senators,1,2,3,3,Yes,Yes,Yes,2,,,0,2,3,No,1,1,3,4,193,216,96,209,234,92,-16,-18,4
+1129,1128_NHL_2015_2016,31.03.2016 00:00:00,76,Philadelphia Flyers,84,Washington Capitals,2,1,3,2,Yes,Yes,Yes,1,,1,1,3,2,Yes,2,3,4,1,191,198,106,233,171,157,-42,27,-51
+1130,1132_NHL_2015_2016,01.04.2016 00:00:00,64,Dallas Stars,77,Arizona Coyotes,4,1,5,5,No,Yes,Yes,1,,,0,5,2,No,3,0,2,5,245,211,137,192,218,99,53,-7,38
+1131,1131_NHL_2015_2016,01.04.2016 00:00:00,68,Los Angeles Kings,59,Calgary Flames,3,0,3,3,Yes,Yes,Yes,1,,,0,2,5,No,0,0,3,8,202,179,121,210,243,91,-8,-64,30
+1132,1138_NHL_2015_2016,01.04.2016 00:00:00,73,New York Islanders,63,Columbus Blue Jackets,4,3,7,7,No,No,No,1,,,0,2,1,No,2,0,1,4,210,189,122,190,232,88,20,-43,34
+1133,1135_NHL_2015_2016,01.04.2016 00:00:00,81,Tampa Bay Lightning,70,Montreal Canadiens,0,3,3,3,Yes,Yes,Yes,2,,,0,3,0,No,3,3,4,3,210,177,126,202,215,103,8,-38,23
+1134,1137_NHL_2015_2016,01.04.2016 00:00:00,78,Pittsburgh Penguins,71,Nashville Predators,5,2,7,7,No,No,No,1,,,0,5,4,No,2,0,2,5,221,189,128,212,200,125,9,-11,3
+1135,1134_NHL_2015_2016,01.04.2016 00:00:00,67,Florida Panthers,72,New Jersey Devils,3,2,5,5,No,Yes,Yes,1,,,0,2,5,No,0,3,2,1,212,182,125,175,197,108,37,-15,17
+1136,1139_NHL_2015_2016,01.04.2016 00:00:00,60,Carolina Hurricanes,74,New York Rangers,4,3,7,7,No,No,No,1,,,0,1,2,No,1,1,2,3,186,205,107,213,192,128,-27,13,-21
+1137,1133_NHL_2015_2016,01.04.2016 00:00:00,69,Minnesota Wild,75,Ottawa Senators,2,3,5,5,No,Yes,Yes,2,,,0,4,1,No,3,3,2,1,209,183,122,211,235,95,-2,-52,27
+1138,1136_NHL_2015_2016,01.04.2016 00:00:00,58,Buffalo Sabres,82,Toronto Maple Leafs,4,1,5,5,No,Yes,Yes,1,,,0,4,5,No,1,3,5,2,175,199,94,182,221,85,-7,-22,9
+1139,1130_NHL_2015_2016,01.04.2016 00:00:00,79,San Jose Sharks,83,Vancouver Canucks,2,4,6,6,No,No,Yes,2,,,0,4,1,No,3,0,1,4,228,199,126,174,219,89,54,-20,37
+1140,1145_NHL_2015_2016,02.04.2016 00:00:00,80,St. Louis Blues,57,Boston Bruins,5,6,11,11,No,No,No,2,,,0,3,1,No,3,0,1,2,201,180,133,218,210,113,-17,-30,20
+1141,1146_NHL_2015_2016,02.04.2016 00:00:00,85,Winnipeg Jets,61,Chicago Blackhawks,4,5,9,8,No,No,No,2,1,,1,1,2,Yes,0,0,1,4,194,218,96,210,192,126,-16,26,-30
+1142,1140_NHL_2015_2016,02.04.2016 00:00:00,68,Los Angeles Kings,64,Dallas Stars,2,3,5,5,No,Yes,Yes,2,,,0,3,0,No,3,3,4,1,205,179,124,249,212,140,-44,-33,-16
+1143,1142_NHL_2015_2016,02.04.2016 00:00:00,76,Philadelphia Flyers,75,Ottawa Senators,3,2,5,5,No,Yes,Yes,1,,,0,2,1,No,2,3,3,2,193,199,108,214,237,98,-21,-38,10
+1144,1141_NHL_2015_2016,02.04.2016 00:00:00,73,New York Islanders,78,Pittsburgh Penguins,0,5,5,5,No,Yes,Yes,2,,,0,4,3,No,3,3,5,2,214,192,125,226,191,131,-12,1,-6
+1145,1143_NHL_2015_2016,02.04.2016 00:00:00,56,Anaheim Ducks,83,Vancouver Canucks,2,3,5,5,No,Yes,Yes,2,,,0,8,3,No,3,3,4,2,196,177,126,178,221,92,18,-44,34
+1146,1144_NHL_2015_2016,02.04.2016 00:00:00,62,Colorado Avalanche,84,Washington Capitals,2,4,6,6,No,No,Yes,2,,,0,1,3,No,0,1,1,2,196,213,113,234,173,158,-38,40,-45
+1147,1148_NHL_2015_2016,03.04.2016 00:00:00,61,Chicago Blackhawks,57,Boston Bruins,6,4,10,10,No,No,No,1,,,0,5,4,No,2,3,6,5,215,196,128,224,215,116,-9,-19,12
+1148,1155_NHL_2015_2016,03.04.2016 00:00:00,74,New York Rangers,58,Buffalo Sabres,3,4,7,7,No,No,No,2,,,0,3,4,No,0,3,4,1,216,196,128,179,200,97,37,-4,31
+1149,1149_NHL_2015_2016,03.04.2016 00:00:00,66,Edmonton Oilers,59,Calgary Flames,0,5,5,5,No,Yes,Yes,2,,,0,1,2,No,0,0,0,3,189,230,84,210,246,91,-21,-16,-7
+1150,1156_NHL_2015_2016,03.04.2016 00:00:00,60,Carolina Hurricanes,63,Columbus Blue Jackets,1,5,6,6,No,No,Yes,2,,,0,4,3,No,3,0,3,4,190,208,110,193,236,88,-3,-28,22
+1151,1153_NHL_2015_2016,03.04.2016 00:00:00,82,Toronto Maple Leafs,65,Detroit Red Wings,2,3,5,5,No,Yes,Yes,2,,,0,1,4,No,0,0,3,4,183,225,85,193,206,111,-10,19,-26
+1152,1152_NHL_2015_2016,03.04.2016 00:00:00,67,Florida Panthers,70,Montreal Canadiens,4,3,7,7,No,No,No,1,,,0,3,2,No,3,3,3,0,215,184,128,205,215,106,10,-31,22
+1153,1154_NHL_2015_2016,03.04.2016 00:00:00,81,Tampa Bay Lightning,72,New Jersey Devils,3,1,4,4,Yes,Yes,Yes,1,,,0,0,3,No,0,0,2,3,210,180,126,177,200,108,33,-20,18
+1154,1147_NHL_2015_2016,03.04.2016 00:00:00,78,Pittsburgh Penguins,76,Philadelphia Flyers,6,2,8,8,No,No,No,1,,,0,5,0,No,3,3,3,2,231,191,134,196,201,111,35,-10,23
+1155,1151_NHL_2015_2016,03.04.2016 00:00:00,71,Nashville Predators,79,San Jose Sharks,2,3,5,4,Yes,Yes,Yes,2,,1,1,2,5,Yes,0,0,2,4,214,205,125,230,203,126,-16,2,-1
+1156,1150_NHL_2015_2016,03.04.2016 00:00:00,77,Arizona Coyotes,84,Washington Capitals,3,0,3,3,Yes,Yes,Yes,1,,,0,1,4,No,0,3,4,2,193,222,99,238,175,161,-45,47,-62
+1157,1157_NHL_2015_2016,04.04.2016 00:00:00,56,Anaheim Ducks,64,Dallas Stars,3,1,4,4,Yes,Yes,Yes,1,,,0,2,3,No,0,3,3,2,198,180,126,252,214,143,-54,-34,-17
+1158,1159_NHL_2015_2016,04.04.2016 00:00:00,85,Winnipeg Jets,69,Minnesota Wild,5,1,6,6,No,No,Yes,1,,,0,4,5,No,1,0,2,3,198,223,97,211,186,122,-13,37,-25
+1159,1158_NHL_2015_2016,04.04.2016 00:00:00,62,Colorado Avalanche,80,St. Louis Blues,1,5,6,6,No,No,Yes,2,,,0,2,4,No,0,0,5,6,198,217,113,206,186,133,-8,31,-20
+1160,1161_NHL_2015_2016,05.04.2016 00:00:00,80,St. Louis Blues,77,Arizona Coyotes,5,2,7,7,No,No,No,1,,,0,5,1,No,3,3,3,0,211,187,136,196,222,102,15,-35,34
+1161,1162_NHL_2015_2016,05.04.2016 00:00:00,82,Toronto Maple Leafs,67,Florida Panthers,3,4,7,7,No,No,No,2,,,0,2,3,No,0,3,4,3,185,228,85,219,187,131,-34,41,-46
+1162,1160_NHL_2015_2016,05.04.2016 00:00:00,83,Vancouver Canucks,68,Los Angeles Kings,3,2,5,5,No,Yes,Yes,1,,,0,3,2,No,3,0,2,3,181,223,95,207,182,124,-26,41,-29
+1163,1164_NHL_2015_2016,05.04.2016 00:00:00,63,Columbus Blue Jackets,74,New York Rangers,2,4,6,6,No,No,Yes,2,,,0,5,1,No,3,0,3,4,198,237,91,219,200,128,-21,37,-37
+1164,1163_NHL_2015_2016,05.04.2016 00:00:00,73,New York Islanders,81,Tampa Bay Lightning,5,2,7,7,No,No,No,1,,,0,0,5,No,0,3,3,1,214,197,125,213,181,129,1,16,-4
+1165,1167_NHL_2015_2016,06.04.2016 00:00:00,61,Chicago Blackhawks,77,Arizona Coyotes,6,2,8,8,No,No,No,1,,,0,6,4,No,3,0,2,5,221,200,131,198,227,102,23,-27,29
+1166,1175_NHL_2015_2016,06.04.2016 00:00:00,72,New Jersey Devils,58,Buffalo Sabres,1,3,4,4,Yes,Yes,Yes,2,,,0,1,3,No,0,3,4,3,178,203,108,183,203,100,-5,0,8
+1167,1173_NHL_2015_2016,06.04.2016 00:00:00,57,Boston Bruins,60,Carolina Hurricanes,1,2,3,2,Yes,Yes,Yes,2,,1,1,4,6,Yes,0,0,1,5,228,221,116,191,213,110,37,8,6
+1168,1168_NHL_2015_2016,06.04.2016 00:00:00,71,Nashville Predators,62,Colorado Avalanche,4,3,7,7,No,No,No,1,,,0,2,3,No,1,0,1,5,216,208,126,199,222,113,17,-14,13
+1169,1172_NHL_2015_2016,06.04.2016 00:00:00,70,Montreal Canadiens,67,Florida Panthers,1,4,5,5,No,Yes,Yes,2,,,0,3,4,No,0,3,4,3,208,219,106,223,190,134,-15,29,-28
+1170,1166_NHL_2015_2016,06.04.2016 00:00:00,59,Calgary Flames,68,Los Angeles Kings,4,5,9,8,No,No,No,2,1,,1,5,0,Yes,3,0,2,3,215,246,94,209,185,124,6,61,-30
+1171,1174_NHL_2015_2016,06.04.2016 00:00:00,84,Washington Capitals,73,New York Islanders,3,4,7,6,No,No,Yes,2,1,,1,0,3,Yes,0,3,5,2,238,178,161,219,199,128,19,-21,33
+1172,1171_NHL_2015_2016,06.04.2016 00:00:00,75,Ottawa Senators,78,Pittsburgh Penguins,3,5,8,8,No,No,No,2,,,0,2,3,No,0,3,6,2,216,240,98,237,193,137,-21,47,-39
+1173,1169_NHL_2015_2016,06.04.2016 00:00:00,69,Minnesota Wild,79,San Jose Sharks,0,3,3,3,Yes,Yes,Yes,2,,,0,1,5,No,0,2,3,2,212,191,122,233,205,128,-21,-14,-6
+1174,1170_NHL_2015_2016,06.04.2016 00:00:00,74,New York Rangers,81,Tampa Bay Lightning,3,2,5,5,No,Yes,Yes,1,,,0,4,2,No,3,0,2,5,223,202,131,215,186,129,8,16,2
+1175,1165_NHL_2015_2016,06.04.2016 00:00:00,56,Anaheim Ducks,85,Winnipeg Jets,1,2,3,2,Yes,Yes,Yes,2,1,,1,3,1,Yes,3,3,5,1,201,181,129,203,224,100,-2,-43,29
+1176,1178_NHL_2015_2016,07.04.2016 00:00:00,82,Toronto Maple Leafs,63,Columbus Blue Jackets,1,5,6,6,No,No,Yes,2,,,0,3,4,No,0,0,2,4,188,232,85,200,241,91,-12,-9,-6
+1177,1176_NHL_2015_2016,07.04.2016 00:00:00,65,Detroit Red Wings,76,Philadelphia Flyers,3,0,3,3,Yes,Yes,Yes,1,,,0,3,2,No,3,0,2,6,196,208,114,198,207,111,-2,1,3
+1178,1177_NHL_2015_2016,07.04.2016 00:00:00,66,Edmonton Oilers,83,Vancouver Canucks,6,2,8,8,No,No,No,1,,,0,0,5,No,0,3,3,2,189,235,84,184,225,98,5,10,-14
+1179,1179_NHL_2015_2016,08.04.2016 00:00:00,68,Los Angeles Kings,56,Anaheim Ducks,2,1,3,3,Yes,Yes,Yes,1,,,0,5,4,No,2,1,1,2,214,189,126,202,183,130,12,6,-4
+1180,1184_NHL_2015_2016,08.04.2016 00:00:00,71,Nashville Predators,77,Arizona Coyotes,3,2,5,4,Yes,Yes,Yes,1,1,,1,4,3,Yes,3,0,2,6,220,211,129,200,233,102,20,-22,27
+1181,1183_NHL_2015_2016,08.04.2016 00:00:00,64,Dallas Stars,62,Colorado Avalanche,4,2,6,6,No,No,Yes,1,,,0,1,3,No,0,0,3,4,253,217,143,202,226,113,51,-9,30
+1182,1189_NHL_2015_2016,08.04.2016 00:00:00,57,Boston Bruins,65,Detroit Red Wings,5,2,7,7,No,No,No,1,,,0,1,2,No,1,3,3,0,229,223,117,199,208,117,30,15,0
+1183,1185_NHL_2015_2016,08.04.2016 00:00:00,75,Ottawa Senators,67,Florida Panthers,3,1,4,4,Yes,Yes,Yes,1,,,0,3,5,No,0,3,4,1,219,245,98,227,191,137,-8,54,-39
+1184,1188_NHL_2015_2016,08.04.2016 00:00:00,60,Carolina Hurricanes,70,Montreal Canadiens,2,4,6,6,No,No,Yes,2,,,0,2,1,No,2,0,1,4,193,214,112,209,223,106,-16,-9,6
+1185,1190_NHL_2015_2016,08.04.2016 00:00:00,74,New York Rangers,73,New York Islanders,1,4,5,5,No,Yes,Yes,2,,,0,3,2,No,3,2,4,3,226,204,134,223,202,130,3,2,4
+1186,1187_NHL_2015_2016,08.04.2016 00:00:00,84,Washington Capitals,78,Pittsburgh Penguins,3,4,7,6,No,No,Yes,2,1,,1,3,4,Yes,1,3,5,3,241,182,162,242,196,140,-1,-14,22
+1187,1182_NHL_2015_2016,08.04.2016 00:00:00,61,Chicago Blackhawks,80,St. Louis Blues,1,2,3,2,Yes,Yes,Yes,2,1,,1,6,2,Yes,3,3,5,2,227,202,134,216,189,139,11,13,-5
+1188,1191_NHL_2015_2016,08.04.2016 00:00:00,72,New Jersey Devils,81,Tampa Bay Lightning,2,4,6,6,No,No,Yes,2,,,0,1,3,No,0,0,2,3,179,206,108,217,189,129,-38,17,-21
+1189,1186_NHL_2015_2016,08.04.2016 00:00:00,76,Philadelphia Flyers,82,Toronto Maple Leafs,3,4,7,6,No,No,Yes,2,1,,1,0,3,Yes,0,0,1,5,198,210,111,189,237,85,9,-27,26
+1190,1181_NHL_2015_2016,08.04.2016 00:00:00,59,Calgary Flames,83,Vancouver Canucks,7,3,10,10,No,No,No,1,,,0,4,5,No,1,0,2,6,219,251,95,186,231,98,33,20,-3
+1191,1180_NHL_2015_2016,08.04.2016 00:00:00,79,San Jose Sharks,85,Winnipeg Jets,4,5,9,9,No,No,No,2,,,0,3,0,No,3,2,2,1,236,205,131,205,225,102,31,-20,29
+1192,1192_NHL_2015_2016,09.04.2016 00:00:00,62,Colorado Avalanche,56,Anaheim Ducks,3,5,8,8,No,No,No,2,,,0,2,4,No,0,0,1,2,204,230,113,203,185,130,1,45,-17
+1193,1196_NHL_2015_2016,09.04.2016 00:00:00,58,Buffalo Sabres,63,Columbus Blue Jackets,1,4,5,5,No,Yes,Yes,2,,,0,3,1,No,3,3,5,1,186,204,103,205,242,94,-19,-38,9
+1194,1195_NHL_2015_2016,09.04.2016 00:00:00,74,New York Rangers,65,Detroit Red Wings,3,2,5,5,No,Yes,Yes,1,,,0,1,4,No,0,0,2,5,227,208,134,201,213,117,26,-5,17
+1195,1194_NHL_2015_2016,09.04.2016 00:00:00,57,Boston Bruins,75,Ottawa Senators,1,6,7,7,No,No,No,2,,,0,5,2,No,3,3,3,1,234,225,120,222,246,101,12,-21,19
+1196,1193_NHL_2015_2016,09.04.2016 00:00:00,76,Philadelphia Flyers,78,Pittsburgh Penguins,3,1,4,4,Yes,Yes,Yes,1,,,0,3,4,No,1,2,4,3,201,214,112,246,199,142,-45,15,-30
+1197,1197_NHL_2015_2016,10.04.2016 00:00:00,79,San Jose Sharks,77,Arizona Coyotes,1,0,1,1,Yes,Yes,Yes,1,,,0,4,5,No,0,1,2,3,240,210,131,202,236,103,38,-26,28
+1198,1202_NHL_2015_2016,10.04.2016 00:00:00,73,New York Islanders,58,Buffalo Sabres,3,4,7,6,No,No,Yes,2,1,,1,4,1,Yes,3,0,1,4,227,203,133,187,208,103,40,-5,30
+1199,1205_NHL_2015_2016,10.04.2016 00:00:00,69,Minnesota Wild,59,Calgary Flames,1,2,3,3,Yes,Yes,Yes,2,,,0,0,3,No,0,3,7,3,212,194,122,226,254,98,-14,-60,24
+1200,1206_NHL_2015_2016,10.04.2016 00:00:00,67,Florida Panthers,60,Carolina Hurricanes,5,2,7,7,No,No,No,1,,,0,1,3,No,0,0,2,4,228,194,137,195,218,112,33,-24,25
+1201,1204_NHL_2015_2016,10.04.2016 00:00:00,63,Columbus Blue Jackets,61,Chicago Blackhawks,5,4,9,8,No,No,No,1,1,,1,4,1,Yes,3,1,1,2,209,243,97,228,204,135,-19,39,-38
+1202,1199_NHL_2015_2016,10.04.2016 00:00:00,83,Vancouver Canucks,66,Edmonton Oilers,4,3,7,6,No,No,Yes,1,,1,1,3,7,Yes,0,3,6,2,189,238,98,195,237,87,-6,1,11
+1203,1201_NHL_2015_2016,10.04.2016 00:00:00,64,Dallas Stars,71,Nashville Predators,3,2,5,5,No,Yes,Yes,1,,,0,4,2,No,3,2,3,2,257,219,146,223,213,131,34,6,15
+1204,1203_NHL_2015_2016,10.04.2016 00:00:00,70,Montreal Canadiens,81,Tampa Bay Lightning,5,2,7,7,No,No,No,1,,,0,4,2,No,3,3,4,2,213,225,109,221,191,132,-8,34,-23
+1205,1207_NHL_2015_2016,10.04.2016 00:00:00,72,New Jersey Devils,82,Toronto Maple Leafs,5,1,6,6,No,No,Yes,1,,,0,2,4,No,0,2,4,3,181,210,108,193,240,87,-12,-30,21
+1206,1200_NHL_2015_2016,10.04.2016 00:00:00,80,St. Louis Blues,84,Washington Capitals,1,5,6,6,No,No,Yes,2,,,0,2,1,No,2,1,3,4,218,190,141,244,186,163,-26,4,-22
+1207,1198_NHL_2015_2016,10.04.2016 00:00:00,68,Los Angeles Kings,85,Winnipeg Jets,3,4,7,6,No,No,Yes,2,,1,1,2,1,Yes,3,3,5,4,216,190,129,210,229,105,6,-39,24
+1208,1208_NHL_2015_2016,11.04.2016 00:00:00,84,Washington Capitals,56,Anaheim Ducks,0,2,2,2,Yes,Yes,Yes,2,,,0,5,1,No,3,3,5,3,249,187,166,208,188,133,41,-1,33
+1209,1209_NHL_2015_2016,11.04.2016 00:00:00,73,New York Islanders,76,Philadelphia Flyers,2,5,7,7,No,No,No,2,,,0,3,4,No,1,3,3,1,230,207,134,204,215,115,26,-8,19

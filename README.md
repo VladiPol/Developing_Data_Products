@@ -1,4 +1,4 @@
-Developing Data Products Project - Prediction for Goals per Game without Overtime in Nation Hockey League (NHL) in the Season 2015 / 2016
+# Developing Data Products Project - Prediction for Goals per Game without Overtime in Nation Hockey League (NHL) in the Season 2015 / 2016
 
 Project for the class Developing Data Products in Coursera
 

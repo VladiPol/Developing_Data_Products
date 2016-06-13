@@ -1,7 +1,8 @@
 library(shiny)
 library(ggplot2)
 
-score_data <- NULL
+# get observation dataset (NHL Games for season 2015 / 2016)
+score_data <- read.csv("./data/V_NHL_15_16_DATA_MINING.csv", fileEncoding="UTF-8")
 
 # Load model (rpart) functions
 source("rpart_model.R", local = TRUE)
@@ -27,6 +28,13 @@ doPrediction <- function(hometeam,
 shinyServer(
 
   function(input, output) {
+    
+    # Output histogram
+    output$hist_GpG <- renderPlot({
+      h  <- hist(score_data$SUM_TOTALSCORE_REGULAR_TIME, xlab = "Sum Total Goals per Game without Overtime", main = "Goals per Game in the Regular Time (NHL 2015 / 2016)")
+        
+      print(h)
+    })
     
     output$textOutput_Header <- renderText({
       if ( doPrediction(input$HOMETEAM, input$VISITORTEAM) ){
@@ -56,7 +64,7 @@ shinyServer(
       if ( doPrediction(input$HOMETEAM, input$VISITORTEAM)){
         
         # print Yes / No
-        paste("YES", " NO")
+        paste("YES", "NO")
         
       }  
     })
